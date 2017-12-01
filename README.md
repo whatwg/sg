@@ -16,7 +16,7 @@ of existing Workstreams and Living Standards.
 
 ## Steering Group Representatives
 
-* L. David Baron (Mozilla) @dbaron
-* Maciej Stachowiak (Apple) @othermaciej
-* Michael Champion (Microsoft) @michaelchampion
-* Shruthi Sreekanta (Google) @henceproved
+* L. David Baron (Mozilla) [@dbaron](https://github.com/dbaron)
+* Maciej Stachowiak (Apple) [@othermaciej](https://github.com/othermaciej)
+* Michael Champion (Microsoft) [@michaelchampion](https://github.com/michaelchampion)
+* Shruthi Sreekanta (Google) [@henceproved](https://github.com/henceproved)
