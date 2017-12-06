@@ -153,15 +153,15 @@ Documents other than [Living Standards][Living Standard] and [Review Drafts][def
 
 [def-contribution]: ./IPR%20Policy.md#21-contribution
 [def-contributor]: ./IPR%20Policy.md#def-contributor
-[def-cw-agreement]: https://participate-dot-whatwg-dot-org.now.sh/agreement
+[def-cw-agreement]: https://participate.whatwg.org/agreement
 [def-review-draft]: ./Workstream%20Policy.md#def-review-draft
 [Day]: ./IPR%20Policy.md#29-day
 [Editor]: ./Workstream%20Policy.md#def-editor
-[Entity]: https://participate-dot-whatwg-dot-org.now.sh/agreement#entity
+[Entity]: https://participate.whatwg.org/agreement#entity
 [Essential Contribution Claims]: ./IPR%20Policy.md#221-essential-contribution-claims
 [Essential Patent Claims]: ./IPR%20Policy.md#22-essential-patent-claims
 [Essential Review Draft Claims]: ./IPR%20Policy.md#222-essential-review-draft-claims
-[Individual]: https://participate-dot-whatwg-dot-org.now.sh/agreement#individual
+[Individual]: https://participate.whatwg.org/agreement#individual
 [IPR Policy]: ./IPR%20Policy.md
 [Living Standard]: ./Workstream%20Policy.md#def-living-standard
 [Normative]: ./IPR%20Policy.md#24-normative

@@ -343,10 +343,10 @@ initiatives.
 [def-review-draft]: ./Workstream%20Policy.md#def-review-draft
 [Code of Conduct]: https://whatwg.org/code-of-conduct
 [Contributions]: ./IPR%20Policy.md#21-contribution
-[Contributor and Workstream Participant Agreement]: https://participate-dot-whatwg-dot-org.now.sh/agreement
+[Contributor and Workstream Participant Agreement]: https://participate.whatwg.org/agreement
 [Days]: ./IPR%20Policy.md#29-day
 [Editor]: ./Workstream%20Policy.md#def-editor
-[Entity]: https://participate-dot-whatwg-dot-org.now.sh/agreement#entity
+[Entity]: https://participate.whatwg.org/agreement#entity
 [Inanimate Standards]: ./Workstream%20Policy.md#def-inanimate-standards
 [IPR Policy]: ./IPR%20Policy.md
 [Living Standard]: ./Workstream%20Policy.md#def-living-standard
