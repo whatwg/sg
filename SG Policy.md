@@ -12,7 +12,7 @@ A. The [Steering Group] must maintain a repository and issue tracker at a well-k
 
 B. Anyone may make requests and queries to the [Steering Group] by filing issues against the [Steering Group] repository. This is the recommended method for contacting the [Steering Group].
 
-C. For private inquiries, the [Steering Group] may be reached by email at <sg@whatwg.org>. Because private inquiries are not tracked, the SG does not guarantee timely response, except for cases where private inquiries are explicitly invited, such as reports of [Code of Conduct] violations.
+C. For private inquiries, the [Steering Group] may be reached by email at <sg@whatwg.org>. Unlike the repository, there is no tracking function for private inquiries.
 
 ### 2.2. Communication
 
