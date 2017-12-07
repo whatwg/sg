@@ -181,30 +181,30 @@ this [Agreement] on behalf of the identified [Steering Group Member].
 Mozilla Corporation |
 ------------------- |
 Signature: |
-Name: |
-Title: |
-Date: |
+Name: | Mark Mayo
+Title: | SVP Firefox
+Date: | Nov 30, 2017
 
 Microsoft Corporation |
 --------------------- |
 Signature: |
-Name: |
-Title: |
-Date: |
+Name: | Jason Weber
+Title: | Director, Web Platform
+Date: | Nov 30, 2017
 
 Google LLC |
 ----------- |
 Signature: |
-Name: |
-Title: |
-Date: |
+Name: | BMGoodger
+Title: | Distinguished Engineer
+Date: | Nov 30, 2017
 
 Apple Inc. |
 ---------- |
 Signature: |
-Name: |
-Title: |
-Date: |
+Name: | Darin Adler
+Title: | Senior Director, Internet Technologies
+Date: | Dec 1, 2017
 
 [unanimous consent]: ./SG%20Agreement.md#def-unanimous-consent
 [Agreement]: ./SG%20Agreement.md
