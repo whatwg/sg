@@ -6,32 +6,32 @@ Whenever this Policy says to notify or contact the [Steering Group], this should
 
 ## 1. Definitions
 
-1. "<a id="def-editor">**Editor**</a>" means a person designated by the [Steering Group] as having authority to modify a [Living Standard]
+1. "<dfn id="editor">Editor</dfn>" means a person designated by the [Steering Group] as having authority to modify a [Living Standard]
      and other documents in a particular [Workstream], and to publish the
-     [Living Standard Review Drafts][def-review-draft] in that [Workstream].
+     [Living Standard Review Drafts][review-draft] in that [Workstream].
 
-2. "<a id="def-living-standard">**Living Standard**</a>" means a single, unified technical specification, published by the WHATWG as a Living Standard, as modified from time to time by the [Editor] of the associated [Workstream]. [Living Standards][Living Standard] are intended to include only those features that are likely to be implemented in major browser engines and are suitable for adoption and implementation by other browser engine developers and integrators.
+2. "<dfn id="living-standard">Living Standard</dfn>" means a single, unified technical specification, published by the WHATWG as a Living Standard, as modified from time to time by the [Editor] of the associated [Workstream]. [Living Standards][Living Standard] are intended to include only those features that are likely to be implemented in major browser engines and are suitable for adoption and implementation by other browser engine developers and integrators.
 
-3. "<a id="def-inanimate-standards">**Inanimate Standards**</a>" are published Standards that are no longer under development by the
+3. "<dfn id="inanimate-standards">Inanimate Standards</dfn>" are published Standards that are no longer under development by the
      WHATWG.
 
-4. "<a id="def-incubation">**Incubation**</a>" means the work of exploring and developing technologies that require additional
+4. "<dfn id="incubation">Incubation</dfn>" means the work of exploring and developing technologies that require additional
      testing and refinement before browser engine developers can reasonably make a preliminary
      commitment to implement the technology in publicly distributed browsers.
 
-5. "[Living Standard Review Draft][def-review-draft]" or "<a id="def-review-draft">**Review Draft**</a>" is a version of a [Living Standard] that is
+5. "[Living Standard Review Draft][review-draft]" or "<dfn id="review-draft">Review Draft</dfn>" is a version of a [Living Standard] that is
      published as the reference for patent review and potential claim exclusion by [Workstream Participants].
 
-6. "<a id="def-other-publications">**Other Publications**</a>" means any publication of the WHATWG other than [Living Standards][Living Standard] and Review
+6. "<dfn id="other-publications">Other Publications</dfn>" means any publication of the WHATWG other than [Living Standards][Living Standard] and Review
      Drafts.
 
-7. "<a id="def-workstream">**Workstream**</a>" means a unified technical development effort (in most cases developing a single
+7. "<dfn id="workstream">Workstream</dfn>" means a unified technical development effort (in most cases developing a single
      [Living Standard], more than one only if inextricably bound together). [Workstreams][Workstream] and
      [Contributions] are publicly visible.
 
-8. "<a id="def-workstream-participant">**Workstream Participant**</a>" means any person or [Entity] that has executed a [Contributor and Workstream Participant Agreement].
+8. "<dfn id="workstream-participant">Workstream Participant</dfn>" means any person or [Entity] that has executed a [Contributor and Workstream Participant Agreement].
 
-9. "<a id="def-workstream-scope">**Workstream Scope**</a>" means the technical scope of a [Workstream].
+9. "<dfn id="workstream-scope">Workstream Scope</dfn>" means the technical scope of a [Workstream].
 
 ## 2. Workstreams
 
@@ -46,7 +46,7 @@ include.
 
 Each [Workstream] is dedicated to a single [Living Standard] (or, if unavoidable, two
 or more inextricably interdependent [Living Standards][Living Standard]) and may also publish documents directly
-associated with the [Living Standard]. A [Workstream] must publish its first [Review Draft][def-review-draft] no later than six months after formation.
+associated with the [Living Standard]. A [Workstream] must publish its first [Review Draft][review-draft] no later than six months after formation.
 
 #### B. Other publications
 
@@ -69,7 +69,7 @@ The [Steering Group] approves new [Workstreams][Workstream] and determines the [
 
 #### B. Workstream Proposals
 
-1. Anyone can create a <a id="def-workstream-proposal">**Workstream Proposal**</a> by detailing a problem statement and proposed [Living Standard] that is likely to be implemented by the major browser engine developers; proposals must describe the work in sufficient detail to proceed with the development of a [Living Standard] within the WHATWG's stated purposes. [Workstreams][Workstream] are not intended for [Incubation](#def-incubation) or speculative projects.
+1. Anyone can create a <dfn id="workstream-proposal">Workstream Proposal</dfn> by detailing a problem statement and proposed [Living Standard] that is likely to be implemented by the major browser engine developers; proposals must describe the work in sufficient detail to proceed with the development of a [Living Standard] within the WHATWG's stated purposes. [Workstreams][Workstream] are not intended for [Incubation](#incubation) or speculative projects.
 1. A [Workstream Proposal] must be publicly available, including any referenced documents, and in English.
 1. A [Workstream Proposal] must include the following:
    1. Proposed [Workstream] name.
@@ -105,7 +105,7 @@ The [Steering Group] approves new [Workstreams][Workstream] and determines the [
 
 #### B.
 
-A [Contributor][def-contributor] may withdraw a [Contribution][Contributions] to a [Workstream] by notice to the [Steering Group]
+A [Contributor][contributor] may withdraw a [Contribution][Contributions] to a [Workstream] by notice to the [Steering Group]
 delivered before 45 [Days] have elapsed since the [Contribution][Contributions] was made.
 
 ### 3.2. Modifying the Living Standard
@@ -163,22 +163,22 @@ An [Editor] may, at the [Editor]'s discretion, also tag text such as the followi
 
 ### 4.1.
 
-[Review Drafts][def-review-draft] serve as the reference for patent review and potential claim exclusion by
+[Review Drafts][review-draft] serve as the reference for patent review and potential claim exclusion by
 [Workstream Participants].
 
 ### 4.2.
 
-[Editors][Editor] publish [Review Drafts][def-review-draft] approximately every six months.
+[Editors][Editor] publish [Review Drafts][review-draft] approximately every six months.
 
 #### A.
 
-When an [Editor] publishes a [Review Draft][def-review-draft], they must post a note in the [Workstream Repository] and the
+When an [Editor] publishes a [Review Draft][review-draft], they must post a note in the [Workstream Repository] and the
 [Patent Exclusion Period] commences; no additional notice to [Workstream Participants] is required.
 
 #### B.
 
-[Review Drafts][def-review-draft] are substantially identical to the associated [Living Standard] except that, prior to
-publication for review, [Review Drafts][def-review-draft] redact from the [Living Standard] text tagged "Objection
+[Review Drafts][review-draft] are substantially identical to the associated [Living Standard] except that, prior to
+publication for review, [Review Drafts][review-draft] redact from the [Living Standard] text tagged "Objection
 Pending" or "Under Discussion".
 
 ## 5. Roles and participation
@@ -190,7 +190,7 @@ Pending" or "Under Discussion".
 [Editors][Editor] are responsible for the technical content of their [Workstreams][Workstream], and
 accordingly have sole authority to modify WHATWG documents in the [Workstream] for which they serve
 as [Editor] (e.g., to adopt or adapt [Contributions], including their own; accept pull requests;
-etc.), and to publish the associated [Living Standard], periodic [Review Drafts][def-review-draft], and documentation
+etc.), and to publish the associated [Living Standard], periodic [Review Drafts][review-draft], and documentation
 (if any).
 
 #### B. Qualifications
@@ -211,13 +211,13 @@ the [Workstream] to which they are apponted.
 1. Their WHATWG [Living Standards][Living Standard] are within the [Workstream Scope] and consistent with the [WHATWG Principles] and other criteria set by the [Steering Group];
 1. after the [IPR Policy] becomes effective, only [Contributions] from those who have signed the [Contributor and Workstream Participant Agreement] are incorporated into a [Living Standard], and
 1. there are no unresolved substantive objections from [Workstream Participants] before merging [Contributions] into or otherwise modifying a [Living Standard].
-1. [Editors][Editor] also ensure that text of their [Living Standards][Living Standard] and [Review Drafts][def-review-draft] is tagged as required.
+1. [Editors][Editor] also ensure that text of their [Living Standards][Living Standard] and [Review Drafts][review-draft] is tagged as required.
 
 #### E. Relationships with other groups
 
 1. [Editors][Editor] must respond to substantive issues raised by [Workstream Participants] in their [Workstreams][Workstream]. [Editors][Editor] have discretion to resolve issues based on available information.
 1. If a [Workstream Participant][Workstream Participants] is not satisfied with an issue resolution, they may request that the [Editor] revisit the issue. If not satisfied with an [Editor]'s final response, [Workstream Participants] may appeal to the [Steering Group].
-1. [Editors][Editor] may solicit input from [Workstream Participants], and may consider and respond to comments, suggestions, and objections from [Contributors][def-contributor] and the public.
+1. [Editors][Editor] may solicit input from [Workstream Participants], and may consider and respond to comments, suggestions, and objections from [Contributors][contributor] and the public.
 
 #### F. Decision-making
 
@@ -247,7 +247,7 @@ the [Editor] regarding adoption of [Contributions] and modifications to the [Liv
 
 1. A [Workstream Participant][Workstream Participants] may discontinue participation in a [Workstream] at any time using [the Workstream update interface](https://participate.whatwg.org/agreement-update).
 
-1. A [Workstream Participant][Workstream Participants] incurs no new obligations after a withdrawal or termination from a [Workstream], but obligations incurred up to that time (e.g., licensing obligations regarding [Contributions] and [Review Drafts][def-review-draft]) do not terminate.
+1. A [Workstream Participant][Workstream Participants] incurs no new obligations after a withdrawal or termination from a [Workstream], but obligations incurred up to that time (e.g., licensing obligations regarding [Contributions] and [Review Drafts][review-draft]) do not terminate.
 
 #### F.
 
@@ -280,20 +280,20 @@ The [Steering Group]'s determination in each instance is final and non-appealabl
 
 In the text above, YEAR must be replaced by the current year at the time the [Living Standard] is published.
 
-For each [Living Standard] that has had at least one [Review Draft][def-review-draft] published, it must also include the following notice:
+For each [Living Standard] that has had at least one [Review Draft][review-draft] published, it must also include the following notice:
 > This is the Living Standard. Those interested in the patent-review version should view the Living
 > Standard Review Draft.
 
-In the text above, "Living Standard Review Draft" must link to the latest [Review Draft][def-review-draft].
+In the text above, "Living Standard Review Draft" must link to the latest [Review Draft][review-draft].
 
 #### B. Living Standard Review Drafts
 
-[Living Standard Review Drafts][def-review-draft] must include the following notice, including the link:
+[Living Standard Review Drafts][review-draft] must include the following notice, including the link:
 > Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 In the text above, YEAR must be replaced by the current year at the time the [Living Standard Review Draft] is published.
 
-In addition, [Living Standard Review Drafts][def-review-draft] must include the following notice:
+In addition, [Living Standard Review Drafts][review-draft] must include the following notice:
 > This is the Review Draft. It is published primarily for purposes of patent review by Workstream Participants; it mirrors the Living Standard closely, redacting only text that is identified as "Objection Pending" or "Confirmation Pending". Developers should refer to the Living Standard for the most current error corrections and other developments.
 >
 > For information regarding patent commitments, please see the IPR Policy and exclusion notices.
@@ -339,29 +339,29 @@ confidential, competitively sensitive information about business strategies, pla
 regarding sales, pricing, market share, marketing plans, business plans, and strategic
 initiatives.
 
-[def-contributor]: ./IPR%20Policy.md#def-contributor
-[def-review-draft]: ./Workstream%20Policy.md#def-review-draft
+[contributor]: ./IPR%20Policy.md#contributor
+[review-draft]: ./Workstream%20Policy.md#review-draft
 [Code of Conduct]: https://whatwg.org/code-of-conduct
 [Contributions]: ./IPR%20Policy.md#21-contribution
 [Contributor and Workstream Participant Agreement]: https://participate.whatwg.org/agreement
 [Days]: ./IPR%20Policy.md#29-day
-[Editor]: ./Workstream%20Policy.md#def-editor
+[Editor]: ./Workstream%20Policy.md#editor
 [Entity]: https://participate.whatwg.org/agreement#entity
-[Inanimate Standards]: ./Workstream%20Policy.md#def-inanimate-standards
+[Inanimate Standards]: ./Workstream%20Policy.md#inanimate-standards
 [IPR Policy]: ./IPR%20Policy.md
-[Living Standard]: ./Workstream%20Policy.md#def-living-standard
-[Other Publications]: ./Workstream%20Policy.md#def-other-publications
+[Living Standard]: ./Workstream%20Policy.md#living-standard
+[Other Publications]: ./Workstream%20Policy.md#other-publications
 [Patent Exclusion Notice]: ./IPR%20Policy.md#27-patent-exclusion-notice
 [Patent Exclusion Period]: ./IPR%20Policy.md#25-patent-exclusion-period
-[Steering Group]: ./SG%20Agreement.md#def-steering-group
-[Steering Group Member]: ./SG%20Agreement.md#def-steering-group-member
+[Steering Group]: ./SG%20Agreement.md#steering-group
+[Steering Group Member]: ./SG%20Agreement.md#steering-group-member
 [Steering Group Policy]: ./SG%20Policy.md
 [WHATWG Principles]: ./Principles.md
-[Workstream]: ./Workstream%20Policy.md#def-workstream
-[Workstream Participants]: ./Workstream%20Policy.md#def-workstream-participant
-[Workstream Proposal]: ./Workstream%20Policy.md#def-workstream-proposal
-[Workstream Repository]: ./Workstream%20Policy.md#def-workstream-repository
-[Workstream Scope]: ./Workstream%20Policy.md#def-workstream-scope
+[Workstream]: ./Workstream%20Policy.md#workstream
+[Workstream Participants]: ./Workstream%20Policy.md#workstream-participant
+[Workstream Proposal]: ./Workstream%20Policy.md#workstream-proposal
+[Workstream Repository]: ./Workstream%20Policy.md#workstream-repository
+[Workstream Scope]: ./Workstream%20Policy.md#workstream-scope
 
 <hr>
 

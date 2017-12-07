@@ -128,9 +128,9 @@ Note that per the [Workstream Policy](./Workstream%20Policy.md), the official [E
 
 **Standards:** [XMLHttpRequest](https://xhr.spec.whatwg.org/)
 
-[Editor]: ./Workstream%20Policy.md#def-editor
-[Living Standard]: ./Workstream%20Policy.md#def-living-standard
-[Steering Group]: ./SG%20Agreement.md#def-steering-group
+[Editor]: ./Workstream%20Policy.md#editor
+[Living Standard]: ./Workstream%20Policy.md#living-standard
+[Steering Group]: ./SG%20Agreement.md#steering-group
 
 <hr>
 
