@@ -6,32 +6,32 @@ Whenever this Policy says to notify or contact the [Steering Group], this should
 
 ## 1. Definitions
 
-1. "<a id="editor">**Editor**</a>" means a person designated by the [Steering Group] as having authority to modify a [Living Standard]
+1. "<dfn id="editor">Editor</dfn>" means a person designated by the [Steering Group] as having authority to modify a [Living Standard]
      and other documents in a particular [Workstream], and to publish the
      [Living Standard Review Drafts][review-draft] in that [Workstream].
 
-2. "<a id="living-standard">**Living Standard**</a>" means a single, unified technical specification, published by the WHATWG as a Living Standard, as modified from time to time by the [Editor] of the associated [Workstream]. [Living Standards][Living Standard] are intended to include only those features that are likely to be implemented in major browser engines and are suitable for adoption and implementation by other browser engine developers and integrators.
+2. "<dfn id="living-standard">Living Standard</dfn>" means a single, unified technical specification, published by the WHATWG as a Living Standard, as modified from time to time by the [Editor] of the associated [Workstream]. [Living Standards][Living Standard] are intended to include only those features that are likely to be implemented in major browser engines and are suitable for adoption and implementation by other browser engine developers and integrators.
 
-3. "<a id="inanimate-standards">**Inanimate Standards**</a>" are published Standards that are no longer under development by the
+3. "<dfn id="inanimate-standards">Inanimate Standards</dfn>" are published Standards that are no longer under development by the
      WHATWG.
 
-4. "<a id="incubation">**Incubation**</a>" means the work of exploring and developing technologies that require additional
+4. "<dfn id="incubation">Incubation</dfn>" means the work of exploring and developing technologies that require additional
      testing and refinement before browser engine developers can reasonably make a preliminary
      commitment to implement the technology in publicly distributed browsers.
 
-5. "[Living Standard Review Draft][review-draft]" or "<a id="review-draft">**Review Draft**</a>" is a version of a [Living Standard] that is
+5. "[Living Standard Review Draft][review-draft]" or "<dfn id="review-draft">Review Draft</dfn>" is a version of a [Living Standard] that is
      published as the reference for patent review and potential claim exclusion by [Workstream Participants].
 
-6. "<a id="other-publications">**Other Publications**</a>" means any publication of the WHATWG other than [Living Standards][Living Standard] and Review
+6. "<dfn id="other-publications">Other Publications</dfn>" means any publication of the WHATWG other than [Living Standards][Living Standard] and Review
      Drafts.
 
-7. "<a id="workstream">**Workstream**</a>" means a unified technical development effort (in most cases developing a single
+7. "<dfn id="workstream">Workstream</dfn>" means a unified technical development effort (in most cases developing a single
      [Living Standard], more than one only if inextricably bound together). [Workstreams][Workstream] and
      [Contributions] are publicly visible.
 
-8. "<a id="workstream-participant">**Workstream Participant**</a>" means any person or [Entity] that has executed a [Contributor and Workstream Participant Agreement].
+8. "<dfn id="workstream-participant">Workstream Participant</dfn>" means any person or [Entity] that has executed a [Contributor and Workstream Participant Agreement].
 
-9. "<a id="workstream-scope">**Workstream Scope**</a>" means the technical scope of a [Workstream].
+9. "<dfn id="workstream-scope">Workstream Scope</dfn>" means the technical scope of a [Workstream].
 
 ## 2. Workstreams
 
@@ -69,7 +69,7 @@ The [Steering Group] approves new [Workstreams][Workstream] and determines the [
 
 #### B. Workstream Proposals
 
-1. Anyone can create a <a id="workstream-proposal">**Workstream Proposal**</a> by detailing a problem statement and proposed [Living Standard] that is likely to be implemented by the major browser engine developers; proposals must describe the work in sufficient detail to proceed with the development of a [Living Standard] within the WHATWG's stated purposes. [Workstreams][Workstream] are not intended for [Incubation](#incubation) or speculative projects.
+1. Anyone can create a <dfn id="workstream-proposal">Workstream Proposal</dfn> by detailing a problem statement and proposed [Living Standard] that is likely to be implemented by the major browser engine developers; proposals must describe the work in sufficient detail to proceed with the development of a [Living Standard] within the WHATWG's stated purposes. [Workstreams][Workstream] are not intended for [Incubation](#incubation) or speculative projects.
 1. A [Workstream Proposal] must be publicly available, including any referenced documents, and in English.
 1. A [Workstream Proposal] must include the following:
    1. Proposed [Workstream] name.

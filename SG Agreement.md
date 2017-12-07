@@ -4,7 +4,7 @@
 
 This [Agreement] is made commencing 2017-11-30 by and among the parties identified below regarding
 participation in and governance of the WHATWG. Each party to this [Agreement] is a
-"<a id="steering-group-member">**Steering Group Member**</a>"; collectively, the [Steering Group Members][Steering Group Member] constitute the "[Steering Group]" of
+"<dfn id="steering-group-member">Steering Group Member</dfn>"; collectively, the [Steering Group Members][Steering Group Member] constitute the "[Steering Group]" of
 the WHATWG. Each [Steering Group Member] and its Affiliates are deemed a single entity under this
 [Agreement] (e.g., for purposes of membership, participation, voting, and intellectual property
 commitments).
@@ -38,7 +38,7 @@ temporary two-member status provided for in Section 6.4).
 
 #### D. Representatives
 
-Each [Steering Group Member] appoints an individual "<a id="steering-group-representative">**Steering Group Representative**</a>" to represent
+Each [Steering Group Member] appoints an individual "<dfn id="steering-group-representative">Steering Group Representative</dfn>" to represent
 its interests, cast votes, and otherwise represent the interests of the [Steering Group Member]. A
 [Steering Group Member] may replace its [Steering Group Representative] at any time in its sole
 discretion.
@@ -60,7 +60,7 @@ efficiency, and prevent fragmentation.
 
 #### A. Decisions requiring unanimous consent
 
-By <a id="unanimous-consent">**unanimous consent**</a>, the [Steering Group] may:
+By <dfn id="unanimous-consent">unanimous consent</dfn>, the [Steering Group] may:
 
 1. Modify the [WHATWG Principles].
 
@@ -124,12 +124,12 @@ be rejected for any anticompetitive purpose.
 ## 5. Definitions
 
 1. "Affiliate" means any legal entity that directly or indirectly [Controls](#control), is [Controlled](#control) by, or
-is under common [Control](#control) with an entity. "<a id="control">**Control**</a>" means the power to determine the course of
+is under common [Control](#control) with an entity. "<dfn id="control">Control</dfn>" means the power to determine the course of
 action of another entity (for example by ownership of more than 50% of the voting stock or
 equity, authority to appoint a majority of the board or equivalent body, or by virtue of its
 voting or other rights).
 
-2. "<a id="consensus">**Consensus**</a>" means the parties concur. [Consensus] may be established tacitly. By way of example,
+2. "<dfn id="consensus">Consensus</dfn>" means the parties concur. [Consensus] may be established tacitly. By way of example,
 so long as (1) proposed actions are clear and visible, (2) participants have opportunities to
 voice concerns, and (3) there is no sustained, substantive opposition, then [Consensus] may be
 established simply by moving forward on the proposal or a course of action; this is anticipated
@@ -137,14 +137,14 @@ to be the norm for most matters. Upon request by a [Steering Group Member] (or u
 party authorized by a WHATWG policy to do so), however, a vote must be taken, in which case an
 affirmative vote of a [Supermajority] of [Qualified Voting Parties](#qualified-voting-party) establishes [Consensus].
 
-3. "<a id="qualifying-entity">**Qualifying Entity**</a>" means an entity that develops one of the core end-to-end integrated web
+3. "<dfn id="qualifying-entity">Qualifying Entity</dfn>" means an entity that develops one of the core end-to-end integrated web
 browser platform engines and distributes its integrated implementations widely.
 
-4. "<a id="qualified-voting-party">**Qualified Voting Party**</a>" means each party entitled to vote on a given matter.
+4. "<dfn id="qualified-voting-party">Qualified Voting Party</dfn>" means each party entitled to vote on a given matter.
 
-5. "<a id="steering-group">**Steering Group**</a>" means all [Steering Group Members][Steering Group Member].
+5. "<dfn id="steering-group">Steering Group</dfn>" means all [Steering Group Members][Steering Group Member].
 
-6. "<a id="supermajority">**Supermajority**</a>" means 2/3 or more.
+6. "<dfn id="supermajority">Supermajority</dfn>" means 2/3 or more.
 
 ## 6. Term and termination
 
