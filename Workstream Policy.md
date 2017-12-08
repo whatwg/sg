@@ -4,7 +4,7 @@ If this Workstream Policy conflicts with the [Intellectual Property Rights Polic
 
 Whenever this Policy says to notify or contact the [Steering Group], this should be done via its issue tracker as defined in the [Steering Group Policy], unless stated otherwise. Informal notice is not sufficient.
 
-## 1. Definitions
+## Definitions
 
 1. "<a id="editor">**Editor**</a>" means a person designated by the [Steering Group] as having authority to modify a [Living Standard]
      and other documents in a particular [Workstream], and to publish the
@@ -35,27 +35,27 @@ Whenever this Policy says to notify or contact the [Steering Group], this should
 
 10. "<a id="workstream-scope">**Workstream Scope**</a>" means the technical scope of a [Workstream].
 
-## 2. Workstreams
+## Workstreams
 
-### 2.1. Workstreams in progress
+### Workstreams in progress
 
 The [Steering Group] maintains a [document](./Workstreams.md) listing active [Workstreams][Workstream] of the WHATWG , including their [Scope][Workstream Scope], appointed [Editor], and all [Living Standards][Living Standard] they
 include.
 
-### 2.2. Workstream publications
+### Workstream publications
 
-#### A. Living Standards
+#### Workstream Living Standards
 
 Each [Workstream] is dedicated to a single [Living Standard] (or, if unavoidable, two
 or more inextricably interdependent [Living Standards][Living Standard]) and may also publish documents directly
 associated with the [Living Standard]. A [Workstream] must publish its first [Review Draft][review-draft] no later than six months after formation.
 
-#### B. Other publications
+#### Other Workstream publications
 
 Works other than technical specifications may be proposed and published as
 determined by the [Steering Group].
 
-#### C. Editor discretion
+#### Editor discretion
 
 Within the approved [Workstream Scope], the [Editor] evolves the [Living Standard] and other
 publications of the [Workstream]. The [Workstream]'s [Editor] may add,
@@ -63,13 +63,13 @@ remove, merge or split [Living Standards][Living Standard] and other associated 
 deliverables are still within the [Workstream's Scope][Workstream Scope].  If the change affects [Living Standards],
 the [Editor] must notify the [Steering Group] 14 [Days] in advance of the change.
 
-### 2.3. New Workstreams
+### New Workstreams
 
-#### A. Workstream Scope
+#### Determining Workstream Scope
 
 The [Steering Group] approves new [Workstreams][Workstream] and determines the [Scope][Workstream Scope].
 
-#### B. Workstream Proposals
+#### Workstream Proposals
 
 1. Anyone can create a <a id="workstream-proposal">**Workstream Proposal**</a> by detailing a problem statement and proposed [Living Standard] that is likely to be implemented by the major browser engine developers; proposals must describe the work in sufficient detail to proceed with the development of a [Living Standard] within the WHATWG's stated purposes. [Workstreams][Workstream] are not intended for [Incubation](#incubation) or speculative projects.
 1. A [Workstream Proposal] must be publicly available, including any referenced documents, and in English.
@@ -86,7 +86,7 @@ The [Steering Group] approves new [Workstreams][Workstream] and determines the [
    1. Expectations regarding long-term maintenance of the [Living Standard].
 1. The [Steering Group] will consider and respond to all [Workstream Proposals][Workstream Proposal].
 
-### 2.4. Workstream changes
+### Workstream changes
 
 1. [Workstreams][Workstream] may be modified by the [Steering Group], including but not limited to the following:
    1. The [Steering Group] may split a [Workstream] into multiple successor [Workstreams][Workstream], each with a [Scope][Workstream Scope] that does not exceed that of the input [Workstream]. The [Steering Group] must determine the [Scope][Workstream Scope] and [Living Standards][Living Standard] for each successor [Workstream]. In such cases, all [Participants][Workstream Participants] in the input [Workstream] automatically become [Participants][Workstream Participants] in each newly-created successor [Workstream].
@@ -96,21 +96,21 @@ The [Steering Group] approves new [Workstreams][Workstream] and determines the [
 1. [Editors][Editor] or [Participants][Workstream Participants] may propose [Scope][Workstream Scope] changes to the [Steering Group].
 
 
-## 3. Living Standards
+## Living Standards
 
-### 3.1. Contributions
+### Contributions
 
-#### A.
+#### Submitting contributions
 
 [Contributions] are deemed to have been made jointly by both the individual submitting the
 [Contribution][Contributions] and any [Entity] identified in the [Contributor and Workstream Participant Agreement].
 
-#### B.
+#### Withdrawing contributions
 
 A [Contributor][contributor] may withdraw a [Contribution][Contributions] to a [Workstream] by notice to the [Steering Group]
 delivered before 45 [Days] have elapsed since the [Contribution][Contributions] was made.
 
-### 3.2. Modifying the Living Standard
+### Modifying the Living Standard
 
 Only a [Workstream]'s [Editor] may modify the text of a [Workstream]'s
 [Living Standards][Living Standard]. In doing so, [Editors][Editor] take into consideration the
@@ -118,24 +118,24 @@ factors set forth in [Working Mode](https://whatwg.org/working-mode). An [Editor
 or more deputy editors authorized to modify the text on behalf of the
 [Editor].
 
-### 3.3. Timing
+### Timing
 
 [Editors][Editor] update [Living Standards][Living Standard]; changes are publicly visible in the [repository][Workstream Repository].
 
-### 3.4. Contribution validation
+### Contribution validation
 
 After the [IPR Policy] becomes effective, [Editors][Editor] are responsible for ensuring that material included in their [Living Standards][Living Standard] is governed by a
 [Contributor and Workstream Participant Agreement].
 
-### 3.5. Tagging
+### Tagging
 
 [Editors][Editor] must tag their [Living Standards][Living Standard]' text for identification as follows.
 
-#### A. Objection Pending
+#### Objection Pending
 
 [Editors][Editor] must tag text "Objection Pending" if a [Workstream Participant][Workstream Participants] has delivered a request for review and resolution by the [Steering Group].
 
-#### B. Exclusion
+#### Exclusion
 
 [Editors][Editor] must tag text "Patent Exclusion Filed" if a [Patent Exclusion Notice]:
 
@@ -144,7 +144,7 @@ After the [IPR Policy] becomes effective, [Editors][Editor] are responsible for 
 
 The [Editor] is not required to include tags if, in the [Editor]'s judgment, the [Patent Exclusion Notice] is not sufficiently clear regarding precisely which text is in question; omission of a tag does not, however, affect the applicability or validity of the [Patent Exclusion Notice].
 
-#### C. Optional tags
+#### Optional tags
 
 An [Editor] may, at the [Editor]'s discretion, also tag text such as the following:
 
@@ -155,39 +155,39 @@ An [Editor] may, at the [Editor]'s discretion, also tag text such as the followi
 1. [Editors][Editor] may tag text "Under Discussion" if:
     1. The text requires further development before it is stable, but is being retained (e.g., for purposes of completing the development because testing or user experience indicates problems with interoperability or function, or the text was recently introduced and is not yet fully integrated, etc.).
 
-### 3.6. Reclassification
+### Reclassification
 
 1. The [Steering Group] may reclassify [Living Standards][Living Standard], including but not limited to the following:
    1. No further development by the WHATWG ("[Inanimate][Inanimate Standards]" or other designation of the [Steering Group]).
    1. No longer published as a WHATWG [Living Standard] ("Depublished").
 
-## 4. Review Drafts
+## Review Drafts
 
-### 4.1.
+### Purpose
 
 [Review Drafts][review-draft] serve as the reference for patent review and potential claim exclusion by
 [Workstream Participants].
 
-### 4.2.
+### Schedule
 
 [Editors][Editor] publish [Review Drafts][review-draft] approximately every six months.
 
-#### A.
+#### Announcing
 
 When an [Editor] publishes a [Review Draft][review-draft], they must post a note in the [Workstream Repository] and the
 [Patent Exclusion Period] commences; no additional notice to [Workstream Participants] is required.
 
-#### B.
+#### Contents
 
 [Review Drafts][review-draft] are substantially identical to the associated [Living Standard] except that, prior to
 publication for review, [Review Drafts][review-draft] redact from the [Living Standard] text tagged "Objection
 Pending" or "Under Discussion".
 
-## 5. Roles and participation
+## Roles and participation
 
-### 5.1. Editors
+### Editors
 
-#### A. Nature of the role
+#### Nature of the role
 
 [Editors][Editor] are responsible for the technical content of their [Workstreams][Workstream], and
 accordingly have sole authority to modify WHATWG documents in the [Workstream] for which they serve
@@ -195,18 +195,18 @@ as [Editor] (e.g., to adopt or adapt [Contributions], including their own; accep
 etc.), and to publish the associated [Living Standard], periodic [Review Drafts][review-draft], and documentation
 (if any).
 
-#### B. Qualifications
+#### Qualifications
 
 [Editors][Editor] must have command of the technical subject matter; [Editors][Editor] (and any
 [Entity] with which they are affiliated) must be [Workstream Participants] in
 the [Workstream] to which they are apponted.
 
-#### C. Appointing and removing Editors
+#### Appointing and removing Editors
 
 1. [Steering Group] appoints and may remove the [Editor] for each [Workstream].
 1. [Editors][Editor] may resign by notice to the [Steering Group].
 
-#### D. Rights, privileges, and obligations
+#### Rights, privileges, and obligations
 
 [Editors][Editor] are responsible for ensuring that
 
@@ -215,43 +215,43 @@ the [Workstream] to which they are apponted.
 1. there are no unresolved substantive objections from [Workstream Participants] before merging [Contributions] into or otherwise modifying a [Living Standard].
 1. [Editors][Editor] also ensure that text of their [Living Standards][Living Standard] and [Review Drafts][review-draft] is tagged as required.
 
-#### E. Relationships with other groups
+#### Relationships with other groups
 
 1. [Editors][Editor] must respond to substantive issues raised by [Workstream Participants] in their [Workstreams][Workstream]. [Editors][Editor] have discretion to resolve issues based on available information.
 1. If a [Workstream Participant][Workstream Participants] is not satisfied with an issue resolution, they may request that the [Editor] revisit the issue. If not satisfied with an [Editor]'s final response, [Workstream Participants] may appeal to the [Steering Group].
 1. [Editors][Editor] may solicit input from [Workstream Participants], and may consider and respond to comments, suggestions, and objections from [Contributors][contributor] and the public.
 
-#### F. Decision-making
+#### Decision-making
 
 1. [Editors][Editor] may commit changes to their [Living Standards][Living Standard] without further review, provided they are adhering to the requirements above.
 1. The [Steering Group] may override an [Editor]'s decision, or remove an [Editor].
 
-### 5.2. Workstream Participants
+### Workstream Participants
 
-#### A. Prerequisites
+#### Prerequisites
 
 [Workstream] participation is open to all.
 
-#### B.
+#### Point of contact
 
 Each legal entity that participates in a [Workstream] must identify a single person to serve as primary contact with the [Steering Group] via the [Contributor and Workstream Participant Agreement]. [Entities][Entity] may change the primary contact using [the Workstream update interface](https://participate.whatwg.org/agreement-update).
 
-#### C.
+#### Specifying participation
 
 [Workstream Participants] specify which [Workstreams][Workstream] they are participating in via the [Contributor and Workstream Participant Agreement]. [Workstream Participants] may change the [Workstreams][Workstream] they participate in using [the Workstream update interface](https://participate.whatwg.org/agreement-update).
 
-#### D.
+#### Participating
 
 [Workstream Participants] may participate in the development of [Living Standards][Living Standard] and provide input to
 the [Editor] regarding adoption of [Contributions] and modifications to the [Living Standard].
 
-#### E.
+#### Leaving
 
 1. A [Workstream Participant][Workstream Participants] may discontinue participation in a [Workstream] at any time using [the Workstream update interface](https://participate.whatwg.org/agreement-update).
 
 1. A [Workstream Participant][Workstream Participants] incurs no new obligations after a withdrawal or termination from a [Workstream], but obligations incurred up to that time (e.g., licensing obligations regarding [Contributions] and [Review Drafts][review-draft]) do not terminate.
 
-#### F.
+#### Appeals
 
 [Workstream Participants] may raise substantive issues for resolution by the [Steering Group] if not
 resolved within the [Workstream] (e.g., [scope][Workstream Scope], direction, [Editor] decisions, and participation).
@@ -265,17 +265,15 @@ resolved within the [Workstream] (e.g., [scope][Workstream Scope], direction, [E
    1. The [Steering Group] may then invite the [Editor] and other [Workstream Participants] to comment, may request additional materials, schedule a meeting, or take other actions for its review.
 1. The [Steering Group] will make its determination in its sole discretion.
 
-#### G.
+#### Removal
 
 The [Steering Group] may remove a [Workstream Participant][Workstream Participants] [Entity] or individual.
 For example, the [Steering Group] may remove a [Workstream Participant] for a violation of the WHATWG [Code of Conduct], for failure to comply with the [Contributor and Workstream Participant Agreement], or not complying with the [IPR Policy].
 The [Steering Group]'s determination in each instance is final and non-appealable.
 
-## 6. Publications
+## Publications
 
-### 6.1. Notices
-
-#### A. Living Standards
+### Notice for Living Standards
 
 [Living Standards][Living Standard] must include the following notice, including the link:
 > Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
@@ -288,7 +286,7 @@ For each [Living Standard] that has had at least one [Review Draft][review-draft
 
 In the text above, "Living Standard Review Draft" must link to the latest [Review Draft][review-draft].
 
-#### B. Living Standard Review Drafts
+### Notice for Living Standard Review Drafts
 
 [Living Standard Review Drafts][review-draft] must include the following notice, including the link:
 > Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
@@ -305,27 +303,27 @@ In the text above, "Living Standard" must link to the corresponding
 "exclusion notices" must link to a location determined by the [Steering
 Group] where patent exclusion notices are posted.
 
-#### C. Source Code
+### Notice for Source Code
 
 Source Code published by the WHATWG bears text to be determined by the [Steering
 Group].
 
-#### D. Inanimate Standards
+### Notice for Inanimate Standards
 
 [Inanimate Standards] published by the WHATWG bear text to be determined on a
 case-by-case basis by the [Steering Group].
 
-#### E. Other Publications
+### Notice for Other Publications
 
 [Other Publications] published by the WHATWG bear text to be determined by the
 [Steering Group].
 
-#### F. Repositories
+### Notice for Repositories
 
 The repositories for all WHATG publications and other deliverables
 must include the text of the applicable license in a LICENSE file.
 
-## 7. Antitrust
+## Antitrust
 
 The WHATWG is a forum for voluntary development and promotion of standards, specifications,
 technical requirements, code, best practices, and documentation for the web. No applicant
