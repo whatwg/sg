@@ -39,7 +39,7 @@ Whenever this Policy says to notify or contact the [Steering Group], this should
 
 ### Workstreams in progress
 
-The [Steering Group] maintains a [document](./Workstreams.md) listing active [Workstreams][Workstream] of the WHATWG , including their [Scope][Workstream Scope], appointed [Editor], and all [Living Standards][Living Standard] they
+The [Steering Group] maintains a [document](./Workstreams.md) listing active [Workstreams][Workstream] of the WHATWG, including their [Scope][Workstream Scope], appointed [Editor], and all [Living Standards][Living Standard] they
 include.
 
 ### Workstream publications
