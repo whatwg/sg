@@ -199,7 +199,7 @@ etc.), and to publish the associated [Living Standard], periodic [Review Drafts]
 
 [Editors][Editor] must have command of the technical subject matter; [Editors][Editor] (and any
 [Entity] with which they are affiliated) must be [Workstream Participants] in
-the [Workstream] to which they are apponted.
+the [Workstream] to which they are appointed.
 
 #### C. Appointing and removing Editors
 
@@ -322,7 +322,7 @@ case-by-case basis by the [Steering Group].
 
 #### F. Repositories
 
-The repositories for all WHATG publications and other deliverables
+The repositories for all WHATWG publications and other deliverables
 must include the text of the applicable license in a LICENSE file.
 
 ## 7. Antitrust
