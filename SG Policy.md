@@ -1,12 +1,12 @@
 # The WHATWG Steering Group Policy
 
-## 1. Purpose of this Policy
+## Purpose of this Policy
 
 This document sets forth the policies that govern the WHATWG [Steering Group], and may be modified by the [Steering Group] from time to time. If the terms of this document conflict with the [Steering Group Agreement], the [Steering Group Agreement] controls.
 
-## 2. Work Mode
+## Work mode
 
-### 2.1. Contacting
+### Contacting
 
 A. The [Steering Group] must maintain a repository and issue tracker at a well-known location. The current location of the [Steering Group] repository is <https://github.com/whatwg/sg>.
 
@@ -14,13 +14,13 @@ B. Anyone may make requests and queries to the [Steering Group] by filing issues
 
 C. For private inquiries, the [Steering Group] may be reached by email at <sg@whatwg.org>. Unlike the repository, there is no tracking function for private inquiries.
 
-### 2.2. Communication
+### Communication
 
 A. Discussion among [Steering Group Members][Steering Group Member] may take place in issues, by email, or through any other method they agree to.
 
 B. By [consensus], the [Steering Group] may choose to hold phone, in-person, or online meetings. Adequate notice of the time and place should be given. If the [Steering Group] holds meetings, announcements and minutes should be recorded in the issue tracker of the [Steering Group] repository.
 
-### 2.3. Decisions
+### Decisions
 
 A. All [Steering Group] decisions with a visible public effect must be recorded via GitHub issues in the [Steering Group]'s repository.
 
@@ -36,7 +36,7 @@ F. This process applies to all matters that call for a [Steering Group] decision
 
 G. As an exception, [Steering Group] decisions on confidential matters which have strong reason to remain private can be made and recorded privately. The [Steering Group] should use this option sparingly.
 
-### 2.4. Policies
+### Policies
 
 A. The [Steering Group] may define policies and agreements that govern the operation of the WHATWG. Policies must not conflict with the [Steering Group Agreement]. If they do, the [Steering Group Agreement] takes precedence.
 
@@ -48,9 +48,9 @@ D. Changes to policies and agreements should be made by pull request associated 
 
 E. Anyone may propose policy changes via issue and pull request. The [Steering Group] is not obliged to respond to such proposals.
 
-## 3. Powers and responsibilities
+## Powers and responsibilities
 
-### 3.1. General
+### General
 
 A. When this or any other WHATWG policy or agreement says the [Steering Group] may or must decide something or take an action, the decision must be made following the process defined in this [Steering Group Policy].
 
@@ -60,7 +60,7 @@ C. Other WHATWG policies may state additional requirements for [Steering Group] 
 
 D. In addition to the actions and decisions explicitly listed in this policy, the [Steering Group] may take any other action regarding the WHATWG that is consistent with the [Steering Group Agreement].
 
-### 3.2. Workstreams
+### Workstreams
 
 A. All contributions to [Living Standards][Living Standard] proceed in [Workstreams][Workstream].
 
@@ -70,7 +70,7 @@ C. The [Steering Group] must maintain an [up-to-date list] of active [Workstream
 
 D. For each [Workstream], the list must include the [Workstream]'s name, scope, [editor], and [Living Standards][Living Standard], and for each [Living Standard] the name, URL and repository URL. The [Steering Group] must update this information when changed by the [Steering Group] or an [editor].
 
-### 3.3. Editors
+### Editors
 
 A. Each [Workstreams][Workstream] is led by an [editor] appointed by the [Steering Group].
 
@@ -82,7 +82,7 @@ D. The [Steering Group] may remove [editors][editor].
 
 E. The [Steering Group] may overrule any decision made by an [editor].
 
-### 3.4. Workstream participants
+### Workstream participants
 
 A. [Workstream participants] participate in [Workstreams][Workstream].
 
@@ -90,17 +90,17 @@ B. How [Workstream participants] join or leave [Workstreams][Workstream] will be
 
 C. The [Steering Group] may remove participants from [Workstreams][Workstream].
 
-### 3.5. Appeals
+### Appeals
 
 A. [Workstream participants] may appeal decisions by an [editor]. They must do so in accordance with other applicable policies.
 
 B. The [Steering Group] must decide on all such appeals, if not withdrawn. The [Steering Group] may request additional information, or attempt to resolve disagreement amicably.
 
-### 3.6. IPR issues
+### IPR issues
 
 A. The [Steering Group] must oversee the disposition of [Patent Exclusion Notices].
 
-### 3.7. External communication
+### External communication
 
 A. Only the [Steering Group] or its designated representatives may speak for the WHATWG on matters of policy.
 
