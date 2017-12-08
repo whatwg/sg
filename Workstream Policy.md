@@ -31,7 +31,9 @@ Whenever this Policy says to notify or contact the [Steering Group], this should
 
 8. "<a id="workstream-participant">**Workstream Participant**</a>" means any person or [Entity] that has executed a [Contributor and Workstream Participant Agreement].
 
-9. "<a id="workstream-scope">**Workstream Scope**</a>" means the technical scope of a [Workstream].
+9. "<a id="workstream-repository">**Workstream Repository**</a>" means the issue tracker and tidy Git repository with linear history that hosts development of a [Workstream]'s [Living Standards][Living Standard] and other products.
+
+10. "<a id="workstream-scope">**Workstream Scope**</a>" means the technical scope of a [Workstream].
 
 ## 2. Workstreams
 
