@@ -313,12 +313,12 @@ Group].
 [Inanimate Standards] published by the WHATWG bear text to be determined on a
 case-by-case basis by the [Steering Group].
 
-#### Notice for Other Publications
+### Notice for Other Publications
 
 [Other Publications] published by the WHATWG bear text to be determined by the
 [Steering Group].
 
-#### Notice for Repositories
+### Notice for Repositories
 
 The repositories for all WHATG publications and other deliverables
 must include the text of the applicable license in a LICENSE file.
