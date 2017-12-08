@@ -108,22 +108,22 @@ B. The [Steering Group] will organize and encourage communication with other sta
 
 C. On technical matters, [editors][editor] and participants are welcome and encouraged to communicate about the WHATWG's work, and to work directly with other standards groups, implementers, and other external parties.
 
-[def-contributor]: ./IPR%20Policy.md#def-contributor
-[unanimous consent]: ./SG%20Agreement.md#def-unanimous-consent
+[contributor]: ./IPR%20Policy.md#contributor
+[unanimous consent]: ./SG%20Agreement.md#unanimous-consent
 [up-to-date list]: ./Workstreams.md
 [Code of Conduct]: https://whatwg.org/code-of-conduct
-[Consensus]: ./SG%20Agreement.md#def-consensus
-[Editor]: ./Workstream%20Policy.md#def-editor
-[Living Standard]: ./Workstream%20Policy.md#def-living-standard
+[Consensus]: ./SG%20Agreement.md#consensus
+[Editor]: ./Workstream%20Policy.md#editor
+[Living Standard]: ./Workstream%20Policy.md#living-standard
 [Patent Exclusion Notices]: ./IPR%20Policy.md#27-patent-exclusion-notice
-[Steering Group]: ./SG%20Agreement.md#def-steering-group
+[Steering Group]: ./SG%20Agreement.md#steering-group
 [Steering Group Agreement]: ./SG%20Agreement.md
-[Steering Group Member]: ./SG%20Agreement.md#def-steering-group-member
+[Steering Group Member]: ./SG%20Agreement.md#steering-group-member
 [Steering Group Policy]: ./SG%20Policy.md
-[Steering Group Representative]: ./SG%20Agreement.md#def-steering-group-representative
+[Steering Group Representative]: ./SG%20Agreement.md#steering-group-representative
 [WHATWG Principles]: ./Principles.md
-[Workstream]: ./Workstream%20Policy.md#def-workstream
-[Workstream Participants]: ./Workstream%20Policy.md#def-workstream-participant
+[Workstream]: ./Workstream%20Policy.md#workstream
+[Workstream Participants]: ./Workstream%20Policy.md#workstream-participant
 
 <hr>
 

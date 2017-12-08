@@ -18,11 +18,11 @@ Editors modify the [Living Standards] based on available information and communi
 
 [Workstream Participants] and contributors make well-scoped licensing commitments to promote royalty-free licensing for [Living Standards].
 
-[Editor]: ./Workstream%20Policy.md#def-editor
-[Living Standards]: ./Workstream%20Policy.md#def-living-standard
-[Steering Group]: ./SG%20Agreement.md#def-steering-group
-[Workstream]: ./Workstream%20Policy.md#def-workstream
-[Workstream Participants]: ./Workstream%20Policy.md#def-workstream-participant
+[Editor]: ./Workstream%20Policy.md#editor
+[Living Standards]: ./Workstream%20Policy.md#living-standard
+[Steering Group]: ./SG%20Agreement.md#steering-group
+[Workstream]: ./Workstream%20Policy.md#workstream
+[Workstream Participants]: ./Workstream%20Policy.md#workstream-participant
 
 <hr>
 
