@@ -44,13 +44,13 @@ include.
 
 ### Workstream publications
 
-#### Living Standards
+#### Workstream Living Standards
 
 Each [Workstream] is dedicated to a single [Living Standard] (or, if unavoidable, two
 or more inextricably interdependent [Living Standards][Living Standard]) and may also publish documents directly
 associated with the [Living Standard]. A [Workstream] must publish its first [Review Draft][review-draft] no later than six months after formation.
 
-#### Other publications
+#### Other Workstream publications
 
 Works other than technical specifications may be proposed and published as
 determined by the [Steering Group].
@@ -65,7 +65,7 @@ the [Editor] must notify the [Steering Group] 14 [Days] in advance of the change
 
 ### New Workstreams
 
-#### Workstream Scope
+#### Determining Workstream Scope
 
 The [Steering Group] approves new [Workstreams][Workstream] and determines the [Scope][Workstream Scope].
 
@@ -273,9 +273,7 @@ The [Steering Group]'s determination in each instance is final and non-appealabl
 
 ## Publications
 
-### Notices
-
-#### Living Standards
+### Notice for Living Standards
 
 [Living Standards][Living Standard] must include the following notice, including the link:
 > Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
@@ -288,7 +286,7 @@ For each [Living Standard] that has had at least one [Review Draft][review-draft
 
 In the text above, "Living Standard Review Draft" must link to the latest [Review Draft][review-draft].
 
-#### Living Standard Review Drafts
+### Notice for Living Standard Review Drafts
 
 [Living Standard Review Drafts][review-draft] must include the following notice, including the link:
 > Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
@@ -305,22 +303,22 @@ In the text above, "Living Standard" must link to the corresponding
 "exclusion notices" must link to a location determined by the [Steering
 Group] where patent exclusion notices are posted.
 
-#### Source Code
+### Notice for Source Code
 
 Source Code published by the WHATWG bears text to be determined by the [Steering
 Group].
 
-#### Inanimate Standards
+### Notice for Inanimate Standards
 
 [Inanimate Standards] published by the WHATWG bear text to be determined on a
 case-by-case basis by the [Steering Group].
 
-#### Other Publications
+#### Notice for Other Publications
 
 [Other Publications] published by the WHATWG bear text to be determined by the
 [Steering Group].
 
-#### Repositories
+#### Notice for Repositories
 
 The repositories for all WHATG publications and other deliverables
 must include the text of the applicable license in a LICENSE file.
