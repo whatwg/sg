@@ -178,33 +178,41 @@ The signature of each party’s representative binds each party identified below
 signs below represents that she or he is authorized to grant the rights and promises set forth in
 this [Agreement] on behalf of the identified [Steering Group Member].
 
-Mozilla Corporation |
-------------------- |
-Signature: |
-Name: Mark Mayo | 
-Title: SVP Firefox | 
-Date: Nov 30, 2017 |
+### Mozilla Corporation
 
-Microsoft Corporation |
---------------------- |
-Signature: |
-Name: Jason Weber |
-Title: Director, Web Platform |
-Date: Nov 30, 2017 |
+<table>
+ <tr><th>Signature<td>
+ <tr><th>Name<td>Mark Mayo
+ <tr><th>Title<td>SVP Firefox
+ <tr><th>Date<td>Nov 30, 2017
+</table>
 
-Google LLC |
------------ |
-Signature: |
-Name: BMGoodger | 
-Title: Distinguished Engineer | 
-Date: Nov 30, 2017 |
+### Microsoft Corporation
 
-Apple Inc. |
----------- |
-Signature: |
-Name: Darin Adler | 
-Title: Senior Director, Internet Technologies | 
-Date: Dec 1, 2017 | 
+<table>
+ <tr><th>Signature<td>
+ <tr><th>Name<td>Jason Weber
+ <tr><th>Title<td>Director, Web Platform
+ <tr><th>Date<td>Nov 30, 2017
+</table>
+
+### Google LLC
+
+<table>
+ <tr><th>Signature<td>
+ <tr><th>Name<td>BMGoodger
+ <tr><th>Title<td>Distinguished Engineer
+ <tr><th>Date<td>Nov 30, 2017
+</table>
+
+### Apple Inc.
+
+<table>
+ <tr><th>Signature<td>
+ <tr><th>Name<td>Darin Adler
+ <tr><th>Title<td>Senior Director, Internet Technologies
+ <tr><th>Date<td>Dec 1, 2017
+</table>
 
 [unanimous consent]: ./SG%20Agreement.md#unanimous-consent
 [Agreement]: ./SG%20Agreement.md
