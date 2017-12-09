@@ -175,6 +175,6 @@ Documents other than [Living Standards][Living Standard] and [Review Drafts][rev
 
 <hr>
 
-<small>This document includes material derived from the W3C Patent Policy, http://www.w3.org/Consortium/Patent-Policy-20040205/, Copyright © 2004 W3C® (MIT, ERCIM, Keio, Beihang). See [W3C Notices](./ThirdPartyNotices/W3CLicenses.md).</small>
+<small>This document includes material derived from the [W3C Patent Policy](http://www.w3.org/Consortium/Patent-Policy-20040205/). Copyright © 2004 W3C® (MIT, ERCIM, Keio, Beihang). See [W3C Notices](./ThirdPartyNotices/W3CLicenses.md).</small>
 
 <small>Copyright © 2017 WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</small>
