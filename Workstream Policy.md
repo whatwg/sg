@@ -60,7 +60,7 @@ determined by the [Steering Group].
 Within the approved [Workstream Scope], the [Editor] evolves the [Living Standard] and other
 publications of the [Workstream]. The [Workstream]'s [Editor] may add,
 remove, merge or split [Living Standards][Living Standard] and other associated documents, so long as all
-deliverables are still within the [Workstream's Scope][Workstream Scope].  If the change affects [Living Standards],
+deliverables are still within the [Workstream's Scope][Workstream Scope].  If the change affects [Living Standards][Living Standard],
 the [Editor] must notify the [Steering Group] 14 [Days] in advance of the change.
 
 ### New Workstreams
