@@ -181,7 +181,7 @@ this [Agreement] on behalf of the identified [Steering Group Member].
 ### Mozilla Corporation
 
 <table>
- <tr><th>Signature<td>
+ <tr><th>Signature<td>Mark Mayo
  <tr><th>Name<td>Mark Mayo
  <tr><th>Title<td>SVP Firefox
  <tr><th>Date<td>Nov 30, 2017
@@ -190,7 +190,7 @@ this [Agreement] on behalf of the identified [Steering Group Member].
 ### Microsoft Corporation
 
 <table>
- <tr><th>Signature<td>
+ <tr><th>Signature<td>Jason Weber
  <tr><th>Name<td>Jason Weber
  <tr><th>Title<td>Director, Web Platform
  <tr><th>Date<td>Nov 30, 2017
@@ -199,7 +199,7 @@ this [Agreement] on behalf of the identified [Steering Group Member].
 ### Google LLC
 
 <table>
- <tr><th>Signature<td>
+ <tr><th>Signature<td>BMGoodger
  <tr><th>Name<td>BMGoodger
  <tr><th>Title<td>Distinguished Engineer
  <tr><th>Date<td>Nov 30, 2017
@@ -208,7 +208,7 @@ this [Agreement] on behalf of the identified [Steering Group Member].
 ### Apple Inc.
 
 <table>
- <tr><th>Signature<td>
+ <tr><th>Signature<td>Darin Adler
  <tr><th>Name<td>Darin Adler
  <tr><th>Title<td>Senior Director, Internet Technologies
  <tr><th>Date<td>Dec 1, 2017
