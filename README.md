@@ -1,7 +1,6 @@
 # The WHATWG Steering Group
 
 The purpose of the [Steering Group](./SG%20Agreement.md#def-steering-group) 
-
 is to govern and guide the [WHATWG](https://whatwg.org) to be an open, efficient forum for
 development of Living Standards and other materials that relate to or support web technologies.  It
 maintains policies and addresses issues that arise to ensure that the WHATWG develops useful
