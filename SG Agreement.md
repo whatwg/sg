@@ -70,7 +70,7 @@ By <a id="unanimous-consent">**unanimous consent**</a>, the [Steering Group] may
 
 4. Add a [Steering Group Member].
 
-5. Remove a [Steering Group Member] (where the [Steering Group Member] at issue is not counted for
+5. Remove a [Steering Group Member] \(where the [Steering Group Member] at issue is not counted for
   purposes of determining unanimity).
 
 6. Amend this [Agreement].
