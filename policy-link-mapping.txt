@@ -1,0 +1,7 @@
+./IPR%20Policy.md=ipr-policy
+./Workstream%20Policy.md=workstream-policy
+./SG%20Agreement.md=sg-agreement
+./SG%20Policy.md=sg-policy
+./Principles.md=principles
+./Workstreams.md=https://github.com/whatwg/sg/blob/master/Workstreams.md
+./ThirdPartyNotices/W3CLicenses.md=https://github.com/whatwg/sg/blob/master/ThirdPartyNotices/W3CLicenses.md
