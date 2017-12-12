@@ -24,7 +24,7 @@ All [Contributors][contributor] make commitments regarding copyrights; all [Cont
 #### 2.2.2. "Essential Review Draft Claims"
 "Essential Review Draft Claims", with respect to a [Review Draft][review-draft], means all claims in any patent or patent application in any jurisdiction in the world that would necessarily be infringed by implementation of the [Review Draft][review-draft]. A claim is necessarily infringed hereunder only when it is not possible to avoid infringing it because there is no non-infringing alternative for implementation of the [Normative] portions of the [Review Draft][review-draft]. Existence of a non-infringing alternative shall be judged based on the state of the art at the time the [Review Draft][review-draft] is published.
 
-#### 2.2.3. The following are expressly excluded from and shall not be deemed to constitute [Essential Patent Claims]:
+#### 2.2.3. The following are expressly excluded from and shall not be deemed to constitute Essential Patent Claims:
 1. any claims other than as set forth in "[Essential Contribution Claims]" or "[Essential Review Draft Claims]" even if contained in the same patent as [Essential Patent Claims]; and
 
 2. claims which would be infringed only by:

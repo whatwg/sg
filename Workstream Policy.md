@@ -191,7 +191,7 @@ Pending" or "Under Discussion".
 
 [Editors][Editor] are responsible for the technical content of their [Workstreams][Workstream], and
 accordingly have sole authority to modify WHATWG documents in the [Workstream] for which they serve
-as [Editor] (e.g., to adopt or adapt [Contributions], including their own; accept pull requests;
+as [Editor] \(e.g., to adopt or adapt [Contributions], including their own; accept pull requests;
 etc.), and to publish the associated [Living Standard], periodic [Review Drafts][review-draft], and documentation
 (if any).
 
@@ -254,7 +254,7 @@ the [Editor] regarding adoption of [Contributions] and modifications to the [Liv
 #### Appeals
 
 [Workstream Participants] may raise substantive issues for resolution by the [Steering Group] if not
-resolved within the [Workstream] (e.g., [scope][Workstream Scope], direction, [Editor] decisions, and participation).
+resolved within the [Workstream] \(e.g., [scope][Workstream Scope], direction, [Editor] decisions, and participation).
 
 1. To raise an issue formally for review by the [Editor] and other [Workstream Participants], a [Workstream Participant][Workstream Participants] must:
    1. Identify the issue clearly (technical problem, interoperability issue, delta from [Workstream Scope], inconsistency with the [WHATWG Principles], etc.) and recommend a solution;
@@ -267,8 +267,8 @@ resolved within the [Workstream] (e.g., [scope][Workstream Scope], direction, [E
 
 #### Removal
 
-The [Steering Group] may remove a [Workstream Participant][Workstream Participants] [Entity] or individual.
-For example, the [Steering Group] may remove a [Workstream Participant] for a violation of the WHATWG [Code of Conduct], for failure to comply with the [Contributor and Workstream Participant Agreement], or not complying with the [IPR Policy].
+The [Steering Group] may remove a [Workstream Participant][Workstream Participants], [Entity], or individual.
+For example, the [Steering Group] may remove a [Workstream Participant][Workstream Participants] for a violation of the WHATWG [Code of Conduct], for failure to comply with the [Contributor and Workstream Participant Agreement], or not complying with the [IPR Policy].
 The [Steering Group]'s determination in each instance is final and non-appealable.
 
 ## Publications
@@ -291,7 +291,7 @@ In the text above, "Living Standard Review Draft" must link to the latest [Revie
 [Living Standard Review Drafts][review-draft] must include the following notice, including the link:
 > Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-In the text above, YEAR must be replaced by the current year at the time the [Living Standard Review Draft] is published.
+In the text above, YEAR must be replaced by the current year at the time the [Living Standard Review Draft][review-draft] is published.
 
 In addition, [Living Standard Review Drafts][review-draft] must include the following notice:
 > This is the Review Draft. It is published primarily for purposes of patent review by Workstream Participants; it mirrors the Living Standard closely, redacting only text that is identified as "Objection Pending" or "Confirmation Pending". Developers should refer to the Living Standard for the most current error corrections and other developments.
