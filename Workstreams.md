@@ -16,11 +16,11 @@ Note that per the [Workstream Policy](./Workstream%20Policy.md), the official [E
 
 **Scope:** APIs for console debugging facilities.
 
-**Editors:** pending completion of the Contributor and Workstream Participant Agreement, one or more of:
+**Editors:**
 
 - Dominic Farolino, domfarolino@gmail.com
 - Robert Kowalski, rok@kowalski.gd
-- Terin Stock, terin@terinstock.com
+- Terin Stock, terin@terinstock.com _(pending completion of the Contributor and Workstream Participant Agreement)_
 
 **Standards:** [Console](https://console.spec.whatwg.org/)
 
@@ -76,7 +76,7 @@ Note that per the [Workstream Policy](./Workstream%20Policy.md), the official [E
 
 **Scope:** Algorithms used to determine the type of resources.
 
-**Editor:** Gordon P. Hemsley, me@gphemsley.org _(pending completion of the Contributor and Workstream Participant Agreement)_
+**Editor:** Gordon P. Hemsley, me@gphemsley.org
 
 **Standards:** [MIME Sniffing](https://mimesniff.spec.whatwg.org/)
 
