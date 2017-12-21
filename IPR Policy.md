@@ -1,4 +1,4 @@
-# The WHATWG Intellectual Property Rights Policy
+# WHATWG Intellectual Property Rights Policy
 
 This Intellectual Property Rights Policy ("[IPR Policy]") applies to all [Contributions][contribution] to and publications of the WHATWG, and governs the intellectual property obligations of all [Contributors][contributor] to and [Workstream Participants] of the WHATWG.
 

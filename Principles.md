@@ -1,4 +1,4 @@
-# Principles
+# WHATWG Principles
 
 The WHATWG is an open, efficient forum for development of useful, interoperable [Living Standards] that will be used on the web, plus documentation and code that relate to or support web technologies; it is responsive to the interests of implementers and users, guided by a core group of leading developers and implementers of integrated browser engines, and secures appropriate intellectual property commitments from contributors.
 

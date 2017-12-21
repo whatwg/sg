@@ -1,4 +1,4 @@
-# The WHATWG Steering Group Agreement
+# WHATWG Steering Group Agreement
 
 ## 1. Parties
 
