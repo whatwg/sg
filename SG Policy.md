@@ -1,4 +1,4 @@
-# The WHATWG Steering Group Policy
+# WHATWG Steering Group Policy
 
 ## Purpose of this Policy
 

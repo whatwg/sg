@@ -1,4 +1,4 @@
-# The WHATWG Workstream Policy
+# WHATWG Workstream Policy
 
 If this Workstream Policy conflicts with the [Intellectual Property Rights Policy](./IPR%20Policy.md), the [Intellectual Property Rights Policy](./IPR%20Policy.md) controls.
 
