@@ -303,7 +303,7 @@ In the text above, "Living Standard" must link to the corresponding
 "exclusion notices" must link to a location determined by the [Steering
 Group] where patent exclusion notices are posted.
 
-### Notice for Supporting Resources
+### Notice for supporting resources
 
 Living Standards may have supporting resources, in text or binary
 form, either linked or embedded. Such resources could include
