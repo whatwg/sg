@@ -322,6 +322,21 @@ case-by-case basis by the [Steering Group].
 [Other Publications] published by the WHATWG bear text to be determined by the
 [Steering Group].
 
+### Notice for Translations
+
+WHATWG [Living Standards][Living Standard] are under a permissive license that allows
+independent translations. WHATWG recommends the following notice for translations, including the link:
+
+> This is a translation of X, which is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft).
+
+In the above text, X should be replaced with the name of the translated [Living
+Standard], and should be made a link pointing the the original. YEAR should be replaced by the current year.
+
+In addition, WHATWG recommends the a notice similar to the following, translated into the language of the translation:
+> This is a non-normative translation. Developers should refer to the Living Standard for the latest corrections and for normative requirements.
+
+In the text above, "Living Standard" should link to the corresponding [Living Standard].
+
 ### Notice for Repositories
 
 The repositories for all WHATWG publications and other deliverables
