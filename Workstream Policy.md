@@ -303,6 +303,16 @@ In the text above, "Living Standard" must link to the corresponding
 "exclusion notices" must link to a location determined by the [Steering
 Group] where patent exclusion notices are posted.
 
+### Notice for supporting resources
+
+Living Standards may have supporting resources, in text or binary
+form, either linked or embedded. Such resources could include
+stylesheets, images, scripts, video, audio, data tables, JSON files,
+or any other type of supplemental resource.
+
+For such supporting resources, no separate notice is required. The
+notices on the Living Standard and in the repository are sufficient.
+
 ### Notice for Source Code
 
 Source Code published by the WHATWG bears text to be determined by the [Steering
