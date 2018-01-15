@@ -333,6 +333,16 @@ case-by-case basis by the [Steering Group].
 The repositories for all WHATWG publications and other deliverables
 must include the text of the applicable license in a LICENSE file.
 
+The contents of the license file must start with:
+> Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft).
+> This work is licensed under a Creative Commons Attribution 4.0 International License:
+
+where YEAR is the current year. This copyright notice must be followed
+by the full text of the Creative Commons Attribution 4.0 International
+License in plaintext.
+
+The SG repository has an example of how to do this correctly in its [LICENSE file](./LICENSE).
+
 ## Antitrust
 
 The WHATWG is a forum for voluntary development and promotion of standards, specifications,
