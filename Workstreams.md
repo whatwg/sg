@@ -52,7 +52,7 @@ Note that per the [Workstream Policy](./Workstream%20Policy.md), the official [E
 
 **Scope:** An API for web pages to take over a user's entire screen.
 
-**Editor:** Anne van Kesteren, annevk@annevk.nl
+**Editor:** Philip Jägenstedt, philip@foolip.org
 
 **Standards:** [Fullscreen API](https://fullscreen.spec.whatwg.org/)
 
