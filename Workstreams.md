@@ -92,7 +92,7 @@ Note that per the [Workstream Policy](./Workstream%20Policy.md), the official [E
 
 **Scope:** Quirks in CSS and Selectors that are necessary to support for web browsers for compatibility with the web.
 
-**Editor:** Simon Pieters, zcorpan@gmail.com _(pending completion of the Contributor and Workstream Participant Agreement)_
+**Editor:** Simon Pieters, zcorpan@gmail.com
 
 **Standards:** [Quirks Mode](https://quirks.spec.whatwg.org/)
 
