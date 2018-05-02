@@ -334,7 +334,7 @@ it becomes a matter of WHATWG Policy to never break them without the requestor's
 enforced via technical means in the specification tooling.) If an editor has a strong reason for
 breaking the anchor in the future, they should reach out on the original issue thread to the
 requestor to discuss how to proceed. This may result in breaking the anchor with the requestor's
-assent, e.g. because the requestor is prepared to update their referring standard. Otherwise the
+assent, e.g., because the requestor is prepared to update their referring standard. Otherwise the
 anchor will have to be maintained in the standard in some manner.
 
 <footer>
