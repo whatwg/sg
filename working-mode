@@ -287,6 +287,56 @@ pragmatic solution in case of conflict.
 <p>Implementation disagreement should not result in implementation-defined behavior or optional
 features.
 
+<h3 id="anchors">Anchor permanence<a class="self-link" href="#anchors"></a></h3>
+
+<p>Often other standards want to reference parts of a WHATWG Living Standard by using a hypertext
+anchor. Since Living Standards are continually evolving, the set of anchors in a document is not
+static, and some anchors could disappear over time.
+
+<p>In general, editors should try to preserve anchors when reasonable. This includes using
+techniques like:
+
+<ul>
+  <li>For name changes, retaining the old anchor anyway, even if it doesn't match the new name.
+  (This might be in addition to adding a new anchor aligned with the new name.)
+
+  <li>For removals, adding a note explaining what was formerly there, and why it is gone, having the
+  old anchor now point to that note.
+</ul>
+
+<p class="example">The <code>console</code> object changed from being a Web IDL interface to a Web
+IDL namespace. Although the Console Standard's new anchor is
+<a href="https://console.spec.whatwg.org/#console-namespace">#console-namespace</a>, the old anchor
+of <a href="https://console.spec.whatwg.org/#console-interface">#console-interface</a> still
+works.</p>
+
+<p class="example">Although the concept of "structured cloning" has been replaced by structured
+serialization, the HTML Standard's
+<a href="https://html.spec.whatwg.org/multipage/structured-data.html#structured-clone">#structured-clone</a>
+anchor points to a note explaining this evolution, so that old links do not break.</p>
+
+<p>Consumers who need to reference exactly what a Living Standard said at a given point in time,
+for example to document what they implemented from or to explain the history of the web platform,
+can use the commit snapshots functionality. Each Living Standard has a "Snapshot as of this commit"
+link that gives a frozen copy for such historical reference. The WHATWG will keep these snapshots
+available at their published URLs permanently. However, other standards organizations are
+discouraged from referencing these snapshots, as they generally contain contain known issues that
+have been fixed in the Living Standard, and can mislead implementers and web developers.
+
+<p>For cases where another standards organization wishes to ensure an anchor is permanently
+available in the canonical Living Standard, they may file a new issue requesting a permanent anchor
+and detailing the anchor(s) they would like preserved. The editor can then discuss this request with
+the requestor; for example, if the editor was planning on making changes in the near future, maybe
+they would advise the requestor to hold off on linking to that anchor until the changes go through.
+
+<p>After discussion concludes, such requested anchors get promoted to be permanent. This means that
+it becomes a matter of WHATWG Policy to never break them without the requestor's assent. (This is
+enforced via technical means in the specification tooling.) If an editor has a strong reason for
+breaking the anchor in the future, they should reach out on the original issue thread to the
+requestor to discuss how to proceed. This may result in breaking the anchor with the requestor's
+assent, e.g., because the requestor is prepared to update their referring standard. Otherwise the
+anchor will have to be maintained in the standard in some manner.
+
 <footer>
  <p><small>Copyright © 2018 WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</small></p>
 </footer>
