@@ -8,10 +8,10 @@ The WHATWG is guided by [Principles](./Principles.md) of openness, utility, effi
 
 WHATWG participants operate under a number of policies:
 
-1. [Intellectual Property Rights Policy](./IPR%20Policy.md)
-2. [Workstream Policy](./Workstream%20Policy.md)
-3. [Code of Conduct](./Code%20of%20Conduct.md)
-4. [Working Mode](https://whatwg.org/working-mode)
+* [Intellectual Property Rights Policy](./IPR%20Policy.md)
+* [Workstream Policy](./Workstream%20Policy.md)
+* [Code of Conduct](./Code%20of%20Conduct.md)
+* [Working Mode](https://whatwg.org/working-mode)
 
 Additionally, the WHATWG Steering Group was created by the [Steering Group Agreement](./SG%20Agreement.md) and operates under the [Steering Group Policy](./SG%20Policy.md).
 
