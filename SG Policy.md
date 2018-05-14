@@ -111,7 +111,7 @@ C. On technical matters, [editors][editor] and participants are welcome and enco
 [contributor]: ./IPR%20Policy.md#contributor
 [unanimous consent]: ./SG%20Agreement.md#unanimous-consent
 [up-to-date list]: ./Workstreams.md
-[Code of Conduct]: https://whatwg.org/code-of-conduct
+[Code of Conduct]: ./Code%20of%20Conduct.md
 [Consensus]: ./SG%20Agreement.md#consensus
 [Editor]: ./Workstream%20Policy.md#editor
 [Living Standard]: ./Workstream%20Policy.md#living-standard

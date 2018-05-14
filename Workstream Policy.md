@@ -361,7 +361,7 @@ initiatives.
 
 [contributor]: ./IPR%20Policy.md#contributor
 [review-draft]: ./Workstream%20Policy.md#review-draft
-[Code of Conduct]: https://whatwg.org/code-of-conduct
+[Code of Conduct]: ./Code%20of%20Conduct.md
 [Contributions]: ./IPR%20Policy.md#21-contribution
 [Contributor and Workstream Participant Agreement]: https://participate.whatwg.org/agreement
 [Days]: ./IPR%20Policy.md#29-day
