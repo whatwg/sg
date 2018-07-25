@@ -1,11 +1,11 @@
 # The WHATWG Steering Group
 
-The purpose of the [Steering Group](./SG%20Agreement.md#def-steering-group)
-is to govern and guide the [WHATWG](https://whatwg.org) to be an open, efficient forum for
-development of Living Standards and other materials that relate to or support web technologies.  It
-maintains policies and addresses issues that arise to ensure that the WHATWG develops useful
-technical specifications, plus associated documentation, code, and other materials, in a manner that
-get intellectual property commitments from contributors and other participants.
+The purpose of the [Steering Group](https://whatwg.org/sg-agreement#steering-group) is to govern and
+guide the [WHATWG](https://whatwg.org) to be an open, efficient forum for development of Living
+Standards and other materials that relate to or support web technologies.  It maintains policies and
+addresses issues that arise to ensure that the WHATWG develops useful technical specifications, plus
+associated documentation, code, and other materials, in a manner that get intellectual property
+commitments from contributors and other participants.
 
 
 ## Purpose of This Repository
@@ -26,24 +26,25 @@ respect the [WHATWG Code of Conduct](https://whatwg.org/code-of-conduct).
 
 ## Workstreams
 
-The [Living Standards](./Workstream%20Policy.md#def-living-standards) of the WHATWG are developed in
-[Workstreams](./Workstream%20Policy.md#def-workstream). The Steering Group maintains the official
-[list of Workstreams](./Workstreams.md).
+The [Living Standards](https://whatwg.org/workstream-policy#living-standard) of the WHATWG are
+developed in [Workstreams](https://whatwg.org/workstream-policy#workstream). The Steering Group
+maintains the official [list of Workstreams](./Workstreams.md).
 
 
 ## Policies
 
-The founding document of the WHATWG is the [Steering Group Agreement](./SG%20Agreement.md).
+The founding document of the WHATWG is the
+[Steering Group Agreement](https://whatwg.org/sg-agreement).
 
 The Steering Group has adopted the following additional policies:
 
-* [Code of Conduct](./code-of-conduct)
-* [Contributor and Workstream Participant Agreement](./agreement.hbs) (best viewed as the [live form version](https://participate.whatwg.org/agreement))
-* [Principles](./Principles.md)
-* [Intellectual Property Rights Policy](./IPR%20Policy.md)
-* [Steering Group Policy](./SG%20Policy.md)
-* [Working Mode](./working-mode)
-* [Workstream Policy](./Workstream%20Policy.md)
+* [Code of Conduct](https://whatwg.org/code-of-conduct)
+* [Contributor and Workstream Participant Agreement](https://participate.whatwg.org/agreement)
+* [Principles](https://whatwg.org/principles)
+* [Intellectual Property Rights Policy](https://whatwg.org/ipr-policy)
+* [Steering Group Policy](https://whatwg.org/sg-policy)
+* [Working Mode](https://whatwg.org/working-mode)
+* [Workstream Policy](https://whatwg.org/workstream-policy)
 
 
 ## Steering Group Representatives
