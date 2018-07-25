@@ -58,7 +58,7 @@ For purposes of this definition, the "[Normative]" portions of the [Living Stand
 
 ### 2.8. License term
 #### 2.8.1.
-The license conforming to the requirements in [this Policy][IPR Policy] shall be made available by the licensor as long as the [Living Standard] has not been depublished by the WHATWG. The term of such license shall be for the life of the patents in question, subject to the limitations of [Subsection 2.7.3.](#283), below.
+The license conforming to the requirements in [this Policy][IPR Policy] shall be made available by the licensor as long as the [Living Standard] has not been depublished by the WHATWG. The term of such license shall be for the life of the patents in question, subject to the limitations of [Subsection 2.8.3.](#283), below.
 #### 2.8.2.
 Subject to the suspension right in [Section 2.6. Patent Licensing Obligation][Patent-Licensing Obligations], upon the licensee's request, licenses granted must be retroactive to the effective dates of the obligations set forth in Sections [5.2. Contribution Licensing Obligations](#52-contribution-licensing-obligations) and [5.3. Review Draft Licensing Obligations](#53-review-draft-licensing-obligations), as applicable.
 #### 2.8.3.
