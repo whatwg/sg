@@ -2,7 +2,7 @@
 
 This Intellectual Property Rights Policy ("[IPR Policy]") applies to all [Contributions][contribution] to and publications of the WHATWG, and governs the intellectual property obligations of all [Contributors][contributor] to and [Workstream Participants] of the WHATWG.
 
-To the extent any other [WHATWG policies](https://whatwg.org/policies), other than the [Steering Group Agreement](./SG%20Agreement.md), conflict with this [IPR Policy], the [IPR Policy] controls.
+To the extent any other [WHATWG policies](./Policies.md), other than the [Steering Group Agreement](./SG%20Agreement.md), conflict with this [IPR Policy], the [IPR Policy] controls.
 
 ## 1. Intellectual property obligations
 
