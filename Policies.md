@@ -2,7 +2,7 @@
 
 ## Principles
 
-The WHATWG is guided by [Principles](./Principles.md) of openness, utility, efficiency and freedom.
+The WHATWG is guided by [Principles](./Principles.md) of openness, utility, efficiency, and freedom.
 
 ## Policies
 
