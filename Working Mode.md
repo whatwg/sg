@@ -62,7 +62,7 @@ Additionally, the following more mechanical criteria are used to hone a change b
 * It should match the standard’s source formatting and style conventions. (Consistent formatting helps new contributors know what to do.)
 * It must have a good commit message, with at the minimum a title, but typically with a body that includes pointers to relevant discussion, tests changes, and a more elaborate description of the change. (A detailed commit message helps folks in the future figure out why a decision was made. This happens a lot more than you might imagine.)
 
-<p class="note">If the change is proposed by a new contributor, the editor can ensure the commit message is good, and help with formatting and style. There’s no need to make new contributors jump through too many hoops.
+<p class="note">If the change is proposed by a new contributor, the editor can ensure the commit message is good, and help with formatting and style. There’s no need to make new contributors jump through too many hoops.</p>
 
 ### Additions
 
@@ -82,11 +82,16 @@ Additionally, the following are strongly recommended:
 Any change that represents a removal needs to meet these additional criteria:
 
 * The feature being removed must either be not widely implemented, or must in the process of being removed from implementations.
+
 * A test ensuring the feature is not supported must be added and existing tests for the feature should be adjusted or removed as appropriate.
 
-  <p class="example">[w3c/web-platform-tests#5001](https://github.com/w3c/web-platform-tests/pull/5001) added new tests that appcache was not supported in shared workers, per the removal in [whatwg/html#2384](https://github.com/whatwg/html/pull/2384).
+  <p class="example">
+    [w3c/web-platform-tests#5001](https://github.com/w3c/web-platform-tests/pull/5001) added new tests that appcache was not supported in shared workers, per the removal in [whatwg/html#2384](https://github.com/whatwg/html/pull/2384).
+  </p>
 
-  <p class="example">Adjusting existing tests can be difficult. If necessary, an issue can be filed instead to track updating those tests. This was done in [w3c/web-platform-tests#5053](https://github.com/w3c/web-platform-tests/issues/5053) which accompanied the removal in [whatwg/html#2402](https://github.com/whatwg/html/pull/2402).
+  <p class="example">
+    Adjusting existing tests can be difficult. If necessary, an issue can be filed instead to track updating those tests. This was done in [w3c/web-platform-tests#5053](https://github.com/w3c/web-platform-tests/issues/5053) which accompanied the removal in [whatwg/html#2402](https://github.com/whatwg/html/pull/2402).
+  </p>
 
 ### New proposals
 
@@ -95,21 +100,32 @@ As described above, the criteria for inclusion in a WHATWG standard is rather st
 In such scenarios we anticipate features will be “incubated” outside of WHATWG standards. This could be in a variety of venues, such as:
 
 * Another standards organization
+
 * A personal document or GitHub repository
+
 * A pull request to a WHATWG standard, with the understanding it will not be merged until the criteria above are met
+
 * A document hosted by the WHATWG, but not under the spec.whatwg.org subdomain and not titled “Living Standard”
 
-  <p class="example">The [CanvasColorSpace](https://wiki.whatwg.org/wiki/CanvasColorSpace) proposal is being incubated on the [WHATWG Wiki](https://wiki.whatwg.org/).
+  <p class="example">
+  The [CanvasColorSpace](https://wiki.whatwg.org/wiki/CanvasColorSpace) proposal is being incubated on the [WHATWG Wiki](https://wiki.whatwg.org/).
+  </p>
 
 In all cases, features that hope to graduate to a WHATWG standard should strive to follow the above guidelines, gather appropriate implementer commitments, and have corresponding tests.
 
 Additionally, those maintaining such proposals should try to involve the WHATWG community, for example by filing an issue on the standard they anticipate eventually becoming a part of.
 
-<p class="note">Overall, this process of incubation can be very lightweight, such as filing a pull request on the appropriate WHATWG standard with a proposal, and gathering appropriate implementer support there. Or it could be more involved, such as creating a separate repository at another venue and iterating for a long time there.
+<p class="note">
+Overall, this process of incubation can be very lightweight, such as filing a pull request on the appropriate WHATWG standard with a proposal, and gathering appropriate implementer support there. Or it could be more involved, such as creating a separate repository at another venue and iterating for a long time there.
+</p>
 
-<p class="example">The addition of `URL.prototype.toJSON()` was rather straightforward once a plan was agreed upon and upstream IDL issues were resolved: [whatwg/url#137](https://github.com/whatwg/url/issues/137).
+<p class="example">
+The addition of `URL.prototype.toJSON()` was rather straightforward once a plan was agreed upon and upstream IDL issues were resolved: [whatwg/url#137](https://github.com/whatwg/url/issues/137).
+</p>
 
-<p class="example">`innerText` was initially drafted in a [repository outside](https://github.com/rocallahan/innerText-spec) the HTML Standard. Integration into HTML then went rather smoothly: [whatwg/html#1678](https://github.com/whatwg/html/pull/1678).
+<p class="example">
+`innerText` was initially drafted in a [repository outside](https://github.com/rocallahan/innerText-spec) the HTML Standard. Integration into HTML then went rather smoothly: [whatwg/html#1678](https://github.com/whatwg/html/pull/1678).
+</p>
 
 ## Tests
 
@@ -133,7 +149,9 @@ Implementations that disagree can be rather tricky to sort out. Generally, we tr
 * Research expectations of existing web content and specify the most web-compatible approach.
 * Align with the majority.
 
-<p class="note">A standard is a tool towards convergence, and changing a standard can often be a pragmatic solution in case of conflict.
+<p class="note">
+A standard is a tool towards convergence, and changing a standard can often be a pragmatic solution in case of conflict.
+</p>
 
 Implementation disagreement should not result in implementation-defined behavior or optional features.
 
@@ -146,9 +164,13 @@ In general, editors should try to preserve anchors when reasonable. This include
 * For name changes, retaining the old anchor anyway, even if it doesn't match the new name. (This might be in addition to adding a new anchor aligned with the new name.)
 * For removals, adding a note explaining what was formerly there, and why it is gone, having the old anchor now point to that note.
 
-<p class="example">The `console` object changed from being a Web IDL interface to a Web IDL namespace. Although the Console Standard's new anchor is [#console-namespace](https://console.spec.whatwg.org/#console-namespace), the old anchor of [#console-interface](https://console.spec.whatwg.org/#console-interface) still works.
+<p class="example">
+The `console` object changed from being a Web IDL interface to a Web IDL namespace. Although the Console Standard's new anchor is [#console-namespace](https://console.spec.whatwg.org/#console-namespace), the old anchor of [#console-interface](https://console.spec.whatwg.org/#console-interface) still works.
+</p>
 
-<p class="example">Although the concept of "structured cloning" has been replaced by structured serialization, the HTML Standard's [#structured-clone](https://html.spec.whatwg.org/multipage/structured-data.html#structured-clone) anchor points to a note explaining this evolution, so that old links do not break.
+<p class="example">
+Although the concept of "structured cloning" has been replaced by structured serialization, the HTML Standard's [#structured-clone](https://html.spec.whatwg.org/multipage/structured-data.html#structured-clone) anchor points to a note explaining this evolution, so that old links do not break.
+</p>
 
 Consumers who need to reference exactly what a Living Standard said at a given point in time, for example to document what they implemented from or to explain the history of the web platform, can use the commit snapshots functionality. Each Living Standard has a "Snapshot as of this commit" link that gives a frozen copy for such historical reference. The WHATWG will keep these snapshots available at their published URLs permanently. However, other standards organizations are discouraged from referencing these snapshots, as they generally contain contain known issues that have been fixed in the Living Standard, and can mislead implementers and web developers.
 
