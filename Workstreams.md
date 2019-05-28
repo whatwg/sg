@@ -20,7 +20,7 @@ Note that per the [Workstream Policy](./Workstream%20Policy.md), the official [E
 
 - Dominic Farolino, domfarolino@gmail.com
 - Robert Kowalski, rok@kowalski.gd
-- Terin Stock, terin@terinstock.com _(pending completion of the Contributor and Workstream Participant Agreement)_
+- Terin Stock, terin@terinstock.com
 
 **Standards:** [Console](https://console.spec.whatwg.org/)
 
