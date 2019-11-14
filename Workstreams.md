@@ -8,7 +8,7 @@ Note that per the [Workstream Policy](./Workstream%20Policy.md), the official [E
 
 **Scope:** CSS properties and DOM APIs that web browsers need to support for compatibility with the de facto web.
 
-**Editor:** Mike Taylor, miket@mozilla.com
+**Editor:** Ekkarat Wareesing, ekkarat.w@gmail.com
 
 **Standards:** [Compatibility](https://compat.spec.whatwg.org/)
 
@@ -18,9 +18,7 @@ Note that per the [Workstream Policy](./Workstream%20Policy.md), the official [E
 
 **Editors:**
 
-- Dominic Farolino, domfarolino@gmail.com
-- Robert Kowalski, rok@kowalski.gd
-- Terin Stock, terin@terinstock.com
+- Ekkarat Wareesing, ekkarat.w@gmail.com
 
 **Standards:** [Console](https://console.spec.whatwg.org/)
 
