@@ -51,5 +51,5 @@ The Steering Group has adopted the following additional policies:
 
 * L. David Baron (Mozilla) [@dbaron](https://github.com/dbaron)
 * Maciej Stachowiak (Apple) [@othermaciej](https://github.com/othermaciej)
-* Michael Champion (Microsoft) [@michaelchampion](https://github.com/michaelchampion)
-* Shruthi Sreekanta (Google) [@henceproved](https://github.com/henceproved)
+* Philip Jägenstedt (Google) [@foolip](https://github.com/foolip)
+* Travis Leithead (Microsoft) [@travisleithead](https://github.com/travisleithead)
