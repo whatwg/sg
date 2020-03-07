@@ -85,9 +85,9 @@ Any change that represents a removal needs to meet these additional criteria:
 
 * A test ensuring the feature is not supported must be added and existing tests for the feature should be adjusted or removed as appropriate.
 
-EXAMPLE: [w3c/web-platform-tests#5001](https://github.com/w3c/web-platform-tests/pull/5001) added new tests that appcache was not supported in shared workers, per the removal in [whatwg/html#2384](https://github.com/whatwg/html/pull/2384).
+  EXAMPLE: [w3c/web-platform-tests#5001](https://github.com/w3c/web-platform-tests/pull/5001) added new tests that appcache was not supported in shared workers, per the removal in [whatwg/html#2384](https://github.com/whatwg/html/pull/2384).
 
-EXAMPLE: Adjusting existing tests can be difficult. If necessary, an issue can be filed instead to track updating those tests. This was done in [w3c/web-platform-tests#5053](https://github.com/w3c/web-platform-tests/issues/5053) which accompanied the removal in [whatwg/html#2402](https://github.com/whatwg/html/pull/2402).
+  EXAMPLE: Adjusting existing tests can be difficult. If necessary, an issue can be filed instead to track updating those tests. This was done in [w3c/web-platform-tests#5053](https://github.com/w3c/web-platform-tests/issues/5053) which accompanied the removal in [whatwg/html#2402](https://github.com/whatwg/html/pull/2402).
 
 ### New proposals
 
@@ -100,7 +100,7 @@ In such scenarios we anticipate features will be “incubated” outside of WHAT
 * A pull request to a WHATWG standard, with the understanding it will not be merged until the criteria above are met
 * A document hosted by the WHATWG, but not under the spec.whatwg.org subdomain and not titled “Living Standard”
 
-EXAMPLE: The [CanvasColorSpace](https://wiki.whatwg.org/wiki/CanvasColorSpace) proposal is being incubated on the [WHATWG Wiki](https://wiki.whatwg.org/).
+  EXAMPLE: The [CanvasColorSpace](https://wiki.whatwg.org/wiki/CanvasColorSpace) proposal is being incubated on the [WHATWG Wiki](https://wiki.whatwg.org/).
 
 In all cases, features that hope to graduate to a WHATWG standard should strive to follow the above guidelines, gather appropriate implementer commitments, and have corresponding tests.
 
@@ -159,4 +159,8 @@ After discussion concludes, such requested anchors get promoted to be permanent.
 
 <hr>
 
+<footer>
+
 <small>Copyright © 2018 WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</small>
+
+</footer>
