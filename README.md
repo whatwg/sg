@@ -8,7 +8,7 @@ associated documentation, code, and other materials, in a manner that get intell
 commitments from contributors and other participants.
 
 
-## Purpose of This Repository
+## Purpose of this repository
 
 This repository is intended for Steering Group discussion, and also as a record of Steering Group
 decisions. The recommended way to make requests to the Steering Group is to file an issue in this
@@ -47,7 +47,7 @@ The Steering Group has adopted the following additional policies:
 * [Workstream Policy](https://whatwg.org/workstream-policy)
 
 
-## Steering Group Representatives
+## Steering Group representatives
 
 * L. David Baron (Mozilla) [@dbaron](https://github.com/dbaron)
 * Maciej Stachowiak (Apple) [@othermaciej](https://github.com/othermaciej)
