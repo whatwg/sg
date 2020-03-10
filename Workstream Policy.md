@@ -170,7 +170,7 @@ An [Editor] may, at the [Editor]'s discretion, also tag text such as the followi
 
 ### Schedule
 
-[Editors][Editor] publish [Review Drafts][review-draft] approximately every six months.
+[Editors][Editor] publish [Review Drafts][review-draft] approximately every six months, except if no changes were made since the last [Review Draft][review-draft] publication.
 
 #### Announcing
 
