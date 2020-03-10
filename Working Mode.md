@@ -89,7 +89,7 @@ Any change that represents a removal needs to meet these additional criteria:
 
   EXAMPLE: Adjusting existing tests can be difficult. If necessary, an issue can be filed instead to track updating those tests. This was done in [w3c/web-platform-tests#5053](https://github.com/w3c/web-platform-tests/issues/5053) which accompanied the removal in [whatwg/html#2402](https://github.com/whatwg/html/pull/2402).
 
-### New proposals
+## New proposals
 
 As described above, the criteria for inclusion in a WHATWG standard is rather strict. In the initial stages of feature development for the web platform, such widespread implementer support is often not available, or the shape of a feature is not yet clear enough for implementers to feel comfortable pledging their support.
 
