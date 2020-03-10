@@ -26,7 +26,11 @@ The editor has the following responsibilities, all of which can be delegated to 
 * Resolve conflicts between contributors.
 * Reduce open issues.
 * Help manage the corresponding tests.
-* Ensure implementations follow the standard and vice versa. (The “don’t write fiction” rule.)
+* Ensure implementations follow the standard and vice versa. (The “don’t write fiction” rule.) More concretely:
+   * Ensure implementation bugs have been filed
+   * Ensure the standard has test coverage
+   * Only add features that have sufficient implementer interest
+   * Align existing features with implementations (e.g., via removal if implementer interest waned)
 
 ## Issues
 
