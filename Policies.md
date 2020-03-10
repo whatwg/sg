@@ -11,7 +11,7 @@ WHATWG participants operate under a number of policies:
 * [Intellectual Property Rights Policy](./IPR%20Policy.md)
 * [Workstream Policy](./Workstream%20Policy.md)
 * [Code of Conduct](./Code%20of%20Conduct.md)
-* [Working Mode](https://whatwg.org/working-mode)
+* [Working Mode](./Working%20Mode.md)
 
 Additionally, the WHATWG Steering Group was created by the [Steering Group Agreement](./SG%20Agreement.md) and operates under the [Steering Group Policy](./SG%20Policy.md).
 

@@ -114,7 +114,7 @@ delivered before 45 [Days] have elapsed since the [Contribution][Contributions] 
 
 Only a [Workstream]'s [Editor] may modify the text of a [Workstream]'s
 [Living Standards][Living Standard]. In doing so, [Editors][Editor] take into consideration the
-factors set forth in [Working Mode](https://whatwg.org/working-mode). An [Editor] may appoint one
+factors set forth in [Working Mode](./Working%20Mode.md). An [Editor] may appoint one
 or more deputy editors authorized to modify the text on behalf of the
 [Editor].
 
