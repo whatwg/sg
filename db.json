@@ -1,0 +1,496 @@
+{
+  "workstreams": [
+    {
+      "id": "compat",
+      "name": "Compatibility",
+      "scope": "CSS properties and DOM APIs that web browsers need to support for compatibility with the de facto web.",
+      "editors": [
+        {
+          "name": "Mike Taylor",
+          "email": "miket@mozilla.com"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Compatibility",
+          "href": "https://compat.spec.whatwg.org/",
+          "description": "The Compatibility Standard describes a collection of non-standard (and often vendor-prefixed) CSS properties and DOM APIs that web browsers need to support for compatibility with the de facto web.",
+          "authors": [
+            {
+              "name": "Mike Taylor",
+              "email": "miket@mozilla.com"
+            }
+          ],
+          "reference": "COMPAT"
+        }
+      ]
+    },
+    {
+      "id": "console",
+      "name": "Console",
+      "scope": "APIs for console debugging facilities.",
+      "editors": [
+        {
+          "name": "Dominic Farolino",
+          "email": "domfarolino@gmail.com"
+        },
+        {
+          "name": "Robert Kowalski",
+          "email": "rok@kowalski.gd"
+        },
+        {
+          "name": "Terin Stock",
+          "email": "terin@terinstock.com"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Console",
+          "href": "https://console.spec.whatwg.org/",
+          "description": "The Console Standard defines APIs for console debugging facilities.",
+          "authors": [
+            {
+              "name": "Dominic Farolino",
+              "email": "domfarolino@gmail.com"
+            },
+            {
+              "name": "Robert Kowalski",
+              "email": "rok@kowalski.gd"
+            },
+            {
+              "name": "Terin Stock",
+              "email": "terin@terinstock.com"
+            }
+          ],
+          "reference": "CONSOLE"
+        }
+      ]
+    },
+    {
+      "id": "dom",
+      "name": "DOM",
+      "scope": "The web's model for events, aborting activities, and node trees.",
+      "editors": [
+        {
+          "name": "Anne van Kesteren",
+          "email": "annevk@annevk.nl"
+        }
+      ],
+      "standards": [
+        {
+          "name": "DOM",
+          "href": "https://dom.spec.whatwg.org/",
+          "description": "The DOM Standard defines the core infrastructure used to define the web.",
+          "authors": [
+            {
+              "name": "Anne van Kesteren",
+              "email": "annevk@annevk.nl"
+            }
+          ],
+          "reference": "DOM"
+        }
+      ]
+    },
+    {
+      "id": "encoding",
+      "name": "Encoding",
+      "scope": "Character encodings on the web, and their JavaScript API.",
+      "editors": [
+        {
+          "name": "Anne van Kesteren",
+          "email": "annevk@annevk.nl"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Encoding",
+          "href": "https://encoding.spec.whatwg.org/",
+          "description": "The Encoding Standard defines how character encodings work on the web.",
+          "authors": [
+            {
+              "name": "Anne van Kesteren",
+              "email": "annevk@annevk.nl"
+            }
+          ],
+          "reference": "ENCODING"
+        }
+      ]
+    },
+    {
+      "id": "fetch",
+      "name": "Fetch",
+      "scope": "The networking model for resource retrieval on the web.",
+      "editors": [
+        {
+          "name": "Anne van Kesteren",
+          "email": "annevk@annevk.nl"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Fetch",
+          "href": "https://fetch.spec.whatwg.org/",
+          "description": "The Fetch Standard defines the networking model for resource retrieval on the web.",
+          "authors": [
+            {
+              "name": "Anne van Kesteren",
+              "email": "annevk@annevk.nl"
+            }
+          ],
+          "reference": "FETCH"
+        }
+      ]
+    },
+    {
+      "id": "fullscreen",
+      "name": "Fullscreen API",
+      "scope": "An API for web pages to take over a user's entire screen.",
+      "editors": [
+        {
+          "name": "Philip Jägenstedt",
+          "email": "philip@foolip.org"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Fullscreen API",
+          "href": "https://fullscreen.spec.whatwg.org/",
+          "description": "The Fullscreen API Standard defines how web pages can take over a user's entire screen (at the user's request), e.g., for gaming or to watch a video.",
+          "authors": [
+            {
+              "name": "Philip Jägenstedt",
+              "email": "philip@foolip.org"
+            }
+          ],
+          "reference": "FULLSCREEN"
+        }
+      ]
+    },
+    {
+      "id": "html",
+      "name": "HTML",
+      "scope": "A kitchen sink full of technologies for the web, including the core markup language for the web, HTML, as well as numerous APIs like Web Sockets, Web Workers, `localStorage`, etc.",
+      "editors": [
+        {
+          "name": "Domenic Denicola",
+          "email": "d@domenic.me"
+        }
+      ],
+      "standards": [
+        {
+          "name": "HTML",
+          "href": "https://html.spec.whatwg.org/multipage/",
+          "description": "The HTML Standard is a kitchen sink full of technologies for the web. It includes the core markup language for the web, HTML, as well as numerous APIs like Web Sockets, Web Workers, `localStorage`, etc.",
+          "authors": [
+            {
+              "name": "Anne van Kesteren",
+              "email": "annevk@annevk.nl"
+            },
+            {
+              "name": "Domenic Denicola",
+              "email": "d@domenic.me"
+            },
+            {
+              "name": "Ian Hickson",
+              "email": "ian@hixie.ch"
+            },
+            {
+              "name": "Philip Jägenstedt",
+              "email": "philip@foolip.org"
+            },
+            {
+              "name": "Simon Pieters",
+              "email": "zcorpan@gmail.com"
+            }
+          ],
+          "reference": "HTML"
+        }
+      ]
+    },
+    {
+      "id": "infra",
+      "name": "Infra",
+      "scope": "The fundamental concepts upon which standards are built.",
+      "editors": [
+        {
+          "name": "Anne van Kesteren",
+          "email": "annevk@annevk.nl"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Infra",
+          "href": "https://infra.spec.whatwg.org/",
+          "description": "The Infra Standard aims to define the fundamental concepts upon which standards are built.",
+          "authors": [
+            {
+              "name": "Anne van Kesteren",
+              "email": "annevk@annevk.nl"
+            },
+            {
+              "name": "Domenic Denicola",
+              "email": "d@domenic.me"
+            }
+          ],
+          "reference": "INFRA"
+        }
+      ]
+    },
+    {
+      "id": "mimesniff",
+      "name": "MIME Sniffing",
+      "scope": "Algorithms used to determine the type of resources.",
+      "editors": [
+        {
+          "name": "Gordon P. Hemsley",
+          "email": "me@gphemsley.org"
+        }
+      ],
+      "standards": [
+        {
+          "name": "MIME Sniffing",
+          "href": "https://mimesniff.spec.whatwg.org/",
+          "description": "The MIME Sniffing Standard defines algorithms used to determine the type of resources.",
+          "authors": [
+            {
+              "name": "Gordon P. Hemsley",
+              "email": "me@gphemsley.org"
+            }
+          ],
+          "reference": "MIMESNIFF"
+        }
+      ]
+    },
+    {
+      "id": "notifications",
+      "name": "Notifications API",
+      "scope": "An API to display notifications to alert users outside the context of a web page.",
+      "editors": [
+        {
+          "name": "Anne van Kesteren",
+          "email": "annevk@annevk.nl"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Notifications API",
+          "href": "https://notifications.spec.whatwg.org/",
+          "description": "The Notifications API Standard provides an API to display notifications to alert users outside the context of a web page.",
+          "authors": [
+            {
+              "name": "Anne van Kesteren",
+              "email": "annevk@annevk.nl"
+            }
+          ],
+          "reference": "NOTIFICATIONS"
+        }
+      ]
+    },
+    {
+      "id": "quirks",
+      "name": "Quirks Mode",
+      "scope": "Quirks in CSS and Selectors that are necessary to support for web browsers for compatibility with the web.",
+      "editors": [
+        {
+          "name": "Simon Pieters",
+          "email": "zcorpan@gmail.com"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Quirks Mode",
+          "href": "https://quirks.spec.whatwg.org/",
+          "description": "The Quirks Mode Standard describes behaviours in CSS and Selectors that are not yet defined in the relevant specifications but that are nonetheless widely implemented.",
+          "authors": [
+            {
+              "name": "Simon Pieters",
+              "email": "zcorpan@gmail.com"
+            }
+          ],
+          "reference": "QUIRKS"
+        }
+      ]
+    },
+    {
+      "id": "storage",
+      "name": "Storage",
+      "scope": "APIs for persistent storage and quota estimates, as well as the web platform storage architecture.",
+      "editors": [
+        {
+          "name": "Anne van Kesteren",
+          "email": "annevk@annevk.nl"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Storage",
+          "href": "https://storage.spec.whatwg.org/",
+          "description": "The Storage Standard defines an API for persistent storage and quota estimates, as well as the platform storage architecture.",
+          "authors": [
+            {
+              "name": "Anne van Kesteren",
+              "email": "annevk@annevk.nl"
+            }
+          ],
+          "reference": "STORAGE"
+        }
+      ]
+    },
+    {
+      "id": "streams",
+      "name": "Streams",
+      "scope": "Web APIs for creating, composing, and consuming streams of data that map efficiently to low-level I/O primitives.",
+      "editors": [
+        {
+          "name": "Domenic Denicola",
+          "email": "d@domenic.me"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Streams",
+          "href": "https://streams.spec.whatwg.org/",
+          "description": "The Streams Standard provides APIs for creating, composing, and consuming streams of data that map efficiently to low-level I/O primitives.",
+          "authors": [
+            {
+              "name": "Adam Rice",
+              "email": null
+            },
+            {
+              "name": "Domenic Denicola",
+              "email": "d@domenic.me"
+            },
+            {
+              "name": "吉野剛史 (Takeshi Yoshino)",
+              "email": null
+            }
+          ],
+          "reference": "STREAMS"
+        }
+      ]
+    },
+    {
+      "id": "url",
+      "name": "URL",
+      "scope": "URLs, their infrastructure, and their API.",
+      "editors": [
+        {
+          "name": "Anne van Kesteren",
+          "email": "annevk@annevk.nl"
+        }
+      ],
+      "standards": [
+        {
+          "name": "URL",
+          "href": "https://url.spec.whatwg.org/",
+          "description": "The URL Standard defines the infrastructure around URLs on the web.",
+          "authors": [
+            {
+              "name": "Anne van Kesteren",
+              "email": "annevk@annevk.nl"
+            }
+          ],
+          "reference": "URL"
+        }
+      ]
+    },
+    {
+      "id": "xhr",
+      "name": "XMLHttpRequest",
+      "scope": "A client-side networking API for transferring data between a web page and a server.",
+      "editors": [
+        {
+          "name": "Anne van Kesteren",
+          "email": "annevk@annevk.nl"
+        }
+      ],
+      "standards": [
+        {
+          "name": "XMLHttpRequest",
+          "href": "https://xhr.spec.whatwg.org/",
+          "description": "The XMLHttpRequest Standard defines the networking API exposed to scripts on the web.",
+          "authors": [
+            {
+              "name": "Anne van Kesteren",
+              "email": "annevk@annevk.nl"
+            }
+          ],
+          "reference": "XHR"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "name": "CSS Books",
+      "href": "https://books.idea.whatwg.org/",
+      "description": "CSS Books defines CSS features for book publishing and high-quality printing of web pages.",
+      "authors": [
+        {
+          "name": "Håkon Wium Lie",
+          "email": null
+        }
+      ],
+      "reference": "BOOKS"
+    },
+    {
+      "name": "CSS Figures",
+      "href": "https://figures.idea.whatwg.org/",
+      "description": "CSS Figures defines CSS features for floating elements around pages and columns.",
+      "authors": [
+        {
+          "name": "Håkon Wium Lie",
+          "email": null
+        }
+      ],
+      "reference": "FIGURES"
+    }
+  ],
+  "biblio": [
+    {
+      "title": "Differences from HTML4",
+      "href": "https://html-differences.whatwg.org/",
+      "authors": [
+        {
+          "name": "Simon Pieters",
+          "email": null
+        }
+      ],
+      "reference": "DIFFERENCES"
+    },
+    {
+      "title": "DOM Parsing and Serialization Standard",
+      "href": "https://domparsing.spec.whatwg.org/",
+      "authors": [
+        {
+          "name": "Ms2ger",
+          "email": null
+        }
+      ],
+      "reference": "DOMPARSING",
+      "obsoletedBy": [
+        "DOM-Parsing"
+      ]
+    },
+    {
+      "title": "JavaScript, a.k.a. Web ECMAScript",
+      "href": "https://javascript.spec.whatwg.org/",
+      "authors": [
+        {
+          "name": "Mathias Bynens",
+          "email": null
+        }
+      ],
+      "reference": "JAVASCRIPT",
+      "obsoletedBy": [
+        "ECMASCRIPT"
+      ]
+    },
+    {
+      "title": "Loader",
+      "href": "https://whatwg.github.io/loader/",
+      "authors": [],
+      "reference": "LOADER"
+    }
+  ]
+}

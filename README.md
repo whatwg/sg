@@ -28,7 +28,8 @@ respect the [WHATWG Code of Conduct](https://whatwg.org/code-of-conduct).
 
 The [Living Standards](https://whatwg.org/workstream-policy#living-standard) of the WHATWG are
 developed in [Workstreams](https://whatwg.org/workstream-policy#workstream). The Steering Group
-maintains the official [list of Workstreams](./Workstreams.md).
+maintains the official [list of Workstreams](https://whatwg.org/workstreams) (generated from
+[db.json](./db.json).
 
 
 ## Policies

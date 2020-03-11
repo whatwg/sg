@@ -6,6 +6,6 @@
 ./Principles.md=principles
 ./Policies.md=policies
 ./Working%20Mode.md=working-mode
-./Workstreams.md=https://github.com/whatwg/sg/blob/master/Workstreams.md
+./db.json=https://github.com/whatwg/sg/blob/master/db.json
 ./ThirdPartyNotices/W3CLicenses.md=https://github.com/whatwg/sg/blob/master/ThirdPartyNotices/W3CLicenses.md
 ./LICENSE=https://github.com/whatwg/sg/blob/master/LICENSE
