@@ -55,7 +55,7 @@ Each normative change made to the standard needs to meet the following criteria:
 * It should have corresponding test changes, either in the form of new tests or modifications to existing tests.
 * Implementations bugs must be filed for each user agent that fails tests. (This is each user agent that doesn’t match the proposed changes. If the test changes are not adequate to reveal that, but it’s known through other means, the tests should be improved first.)
 * It should have been reviewed by one or more members of the community.
-   * For major changes enough time should have passed for review and appeal by the larger community. Generally 7 [Days](./IPR%20Policy.md#29-day) is considered sufficient.
+   * For major changes wider input should be sought and it is therefore recommended to let some more time (typically a week or more) pass for review.
 * Optional or implementation-defined behavior must be very well motivated.
 
 Additionally, the following more mechanical criteria are used to hone a change before accepting it:
