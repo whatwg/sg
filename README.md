@@ -46,6 +46,11 @@ The Steering Group has adopted the following additional policies:
 * [Working Mode](https://whatwg.org/working-mode)
 * [Workstream Policy](https://whatwg.org/workstream-policy)
 
+(These are maintained as Markdown resources in this repository, except for the Contributor and
+Workstream Participant Agreement which is maintained as
+[agreement.hbs](https://github.com/whatwg/participate.whatwg.org/commits/master/agreement.hbs) in
+the [participate.whatwg.org](https://github.com/whatwg/participate.whatwg.org) repository.)
+
 
 ## Steering Group representatives
 
