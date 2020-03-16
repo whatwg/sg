@@ -196,10 +196,15 @@ WHATWG [Living Standards][Living Standard] and [Review Drafts][review-draft] are
 
 Documents other than [Living Standards][Living Standard] and [Review Drafts][review-draft] are published under [Creative Commons "Attribution 4.0 International (CC BY 4.0)"](https://creativecommons.org/licenses/by/4.0/) unless a different license (or license waiver) is specified by the [Steering Group].
 
+#### 7.1.3. Incorporation in Software
+
+For purposes of implementing a WHATWG Living Standard or Review Draft, WHATWG releases portions of the Living Standard, Review Draft or documents referenced therein under the [BSD 3-Clause License] for incorporation into software.
+
 [contribution]: ./IPR%20Policy.md#21-contribution
 [contributor]: ./IPR%20Policy.md#contributor
 [cw-agreement]: https://participate.whatwg.org/agreement
 [review-draft]: ./Workstream%20Policy.md#review-draft
+[BSD 3-Clause License]: ./BSD%203-Clause%20License.md
 [Day]: ./IPR%20Policy.md#29-day
 [Editor]: ./Workstream%20Policy.md#editor
 [Entity]: https://participate.whatwg.org/agreement#entity
