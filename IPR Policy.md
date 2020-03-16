@@ -84,11 +84,19 @@ If the [Living Standard] is depublished by the WHATWG, then no new licenses need
 
 "Day" means 24 hours, commencing upon execution of a specific act, and is calculated without reference to time zones. To avoid confusion, Universal Coordinated Time is used.
 
+### 2.10. "Field of Web Technologies"
+
+"Field of Web Technologies" means the field of creating and influencing web standards and web technologies that could be adopted by the web community. "Field of web technologies" does not include implementation of web standards solely for the purpose of creating a website or app.
+
+### 2.10.1. "Work in the Field of Web Technologies"
+
+"Work in the Field of Web Technologies" means that the contributor's role at the contributor's company or entity is in the [field of web technologies]. If the contributor's role within its company or entity does not involve the field of web technologies, as defined here, the contributor does not "work in the field of web technologies" regardless of whether the company's or entity's work is generally within the field of web technologies.
+
 ## 3. Agreements
 
 ### 3.1. Contributors and Workstream Participants
 
-Commencing 2018-01-11, the [IPR Policy] becomes effective and all [Contributors][contributor] and [Workstream Participants] must execute the [Contributor and Workstream Participant Agreement][cw-agreement] in order to contribute or participate in [Workstreams][Workstream]. To help ensure that appropriate licensing commitments are secured from all [Contributors][contributor], individuals may [Contribute][contribution] independently to a [Living Standard] only if they do not work in the field of Web technologies as an employee, contractor, or agent of another person or legal entity (as set forth in the [Contributor and Workstream Participant Agreement][cw-agreement]).
+Commencing 2018-01-11, the [IPR Policy] becomes effective and all [Contributors][contributor] and [Workstream Participants] must execute the [Contributor and Workstream Participant Agreement][cw-agreement] in order to contribute or participate in [Workstreams][Workstream]. To help ensure that appropriate licensing commitments are secured from all [Contributors][contributor], individuals may [Contribute][contribution] independently to a [Living Standard] only if they do not [work in the field of Web technologies] as an employee, contractor, or agent of another person or legal entity (as set forth in the [Contributor and Workstream Participant Agreement][cw-agreement]).
 
 ## 4. Copyright
 
@@ -198,6 +206,7 @@ Documents other than [Living Standards][Living Standard] and [Review Drafts][rev
 [Essential Contribution Claims]: ./IPR%20Policy.md#221-essential-contribution-claims
 [Essential Patent Claims]: ./IPR%20Policy.md#22-essential-patent-claims
 [Essential Review Draft Claims]: ./IPR%20Policy.md#222-essential-review-draft-claims
+[Field of Web Technologies]: ./IPR%20Policy.md#210-field-of-web-technologies
 [Individual]: https://participate.whatwg.org/agreement#individual
 [IPR Policy]: ./IPR%20Policy.md
 [Living Standard]: ./Workstream%20Policy.md#living-standard
@@ -207,6 +216,7 @@ Documents other than [Living Standards][Living Standard] and [Review Drafts][rev
 [Patent-Licensing Obligations]: ./IPR%20Policy.md#26-patent-licensing-obligation
 [Steering Group]: ./SG%20Agreement.md#steering-group
 [Steering Group Member]: ./SG%20Agreement.md#steering-group-member
+[Work in the Field of Web Technologies]: ./IPR%20Policy.md#2101-work-in-the-field-of-web-technologies
 [Workstream]: ./Workstream%20Policy.md#workstream
 [Workstream Participants]: ./Workstream%20Policy.md#workstream-participant
 
