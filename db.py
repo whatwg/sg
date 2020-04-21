@@ -7,7 +7,7 @@ def validate(input):
     normalized = normalize_internal(input)
     if normalized != input:
         sys.stderr.write("Input is not normalized.\n")
-        sys.exit(0)
+        sys.exit(1)
 
 def normalize_internal(input):
     db = json.loads(input)
@@ -18,39 +18,32 @@ def normalize(input):
     open("db.json", "w").write(normalize_internal(input))
 
 def normalize_db(db):
-    i = 0
-    for workstream in db["workstreams"]:
-        db["workstreams"][i] = normalize_workstream(workstream)
-        i += 1
-
-    i = 0
-    for idea in db["ideas"]:
-        db["ideas"][i] = normalize_workstream_standard_or_idea(idea)
-        i += 1
-
-    i = 0
-    for reference in db["biblio"]:
-        db["biblio"][i] = normalize_reference(reference)
-        i += 1
-
+    for (name, normalize_algorithm, sort_key) in [
+            ("workstreams", normalize_workstream, "name"),
+            ("ideas", normalize_workstream_standard_or_idea, "name"),
+            ("biblio", normalize_reference, "title")
+        ]:
+        db[name] = normalize_list(db[name], normalize_algorithm, sort_key)
     return db
+
+def normalize_list(input, normalize_algorithm, sort_key):
+    output = [normalize_algorithm(item) for item in input]
+    output.sort(key=lambda item: item[sort_key])
+    return output
 
 def normalize_workstream(workstream):
     return {
       "id": workstream["id"],
       "name": workstream["name"],
       "scope": workstream["scope"],
-      "editors": [normalize__person(editor) for editor in workstream["editors"]],
-      "standards": [normalize_workstream_standard_or_idea(standard) for standard in workstream["standards"]]
+      "editors": normalize_list(workstream["editors"], normalize_person, "name"),
+      "standards": normalize_list(workstream["standards"], normalize_workstream_standard_or_idea, "name")
     }
 
-def normalize__person(editor):
-    email = None
-    if "email" in editor:
-        email = editor["email"]
+def normalize_person(editor):
     return {
       "name": editor["name"],
-      "email": email
+      "email": editor.get("email", None)
     }
 
 def normalize_workstream_standard_or_idea(document):
@@ -58,7 +51,7 @@ def normalize_workstream_standard_or_idea(document):
       "name": document["name"],
       "href": document["href"],
       "description": document["description"],
-      "authors": [normalize__person(author) for author in document["authors"]],
+      "authors": normalize_list(document["authors"], normalize_person, "name"),
       "reference": document["reference"]
     }
 
@@ -66,7 +59,7 @@ def normalize_reference(reference):
     output = {
       "title": reference["title"],
       "href": reference["href"],
-      "authors": [normalize__person(author) for author in reference["authors"]],
+      "authors": normalize_list(reference["authors"], normalize_person, "name"),
       "reference": reference["reference"]
     }
     if "obsoletedBy" in reference:

@@ -448,17 +448,6 @@
   ],
   "biblio": [
     {
-      "title": "Differences from HTML4",
-      "href": "https://html-differences.whatwg.org/",
-      "authors": [
-        {
-          "name": "Simon Pieters",
-          "email": null
-        }
-      ],
-      "reference": "DIFFERENCES"
-    },
-    {
       "title": "DOM Parsing and Serialization Standard",
       "href": "https://domparsing.spec.whatwg.org/",
       "authors": [
@@ -471,6 +460,17 @@
       "obsoletedBy": [
         "DOM-Parsing"
       ]
+    },
+    {
+      "title": "Differences from HTML4",
+      "href": "https://html-differences.whatwg.org/",
+      "authors": [
+        {
+          "name": "Simon Pieters",
+          "email": null
+        }
+      ],
+      "reference": "DIFFERENCES"
     },
     {
       "title": "JavaScript, a.k.a. Web ECMAScript",
