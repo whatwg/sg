@@ -66,7 +66,7 @@ A. All contributions to [Living Standards][Living Standard] proceed in [Workstre
 
 B. The [Steering Group] may create, modify, split, or terminate [Workstreams][Workstream].
 
-C. The [Steering Group] must maintain an [up-to-date list] of active [Workstreams][Workstream] in the [Steering Group]'s repository.
+C. The [Steering Group] must maintain [db.json](./db.json) which lists active [Workstreams][Workstream] in the [Steering Group]'s repository. (A human-readable [list of Workstreams](https://whatwg.org/workstreams) is generated from that resource.)
 
 D. For each [Workstream], the list must include the [Workstream]'s name, scope, [editor], and [Living Standards][Living Standard], and for each [Living Standard] the name, URL and repository URL. The [Steering Group] must update this information when changed by the [Steering Group] or an [editor].
 
@@ -110,7 +110,6 @@ C. On technical matters, [editors][editor] and participants are welcome and enco
 
 [contributor]: ./IPR%20Policy.md#contributor
 [unanimous consent]: ./SG%20Agreement.md#unanimous-consent
-[up-to-date list]: ./Workstreams.md
 [Code of Conduct]: ./Code%20of%20Conduct.md
 [Consensus]: ./SG%20Agreement.md#consensus
 [Editor]: ./Workstream%20Policy.md#editor
