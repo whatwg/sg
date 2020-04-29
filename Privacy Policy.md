@@ -2,7 +2,7 @@
 
 Last updated April 20, 2020
 
-WHATWG respects your privacy and is committed to protecting your personal data. This privacy policy covers how we collect, use, and disclose your personal information when you visit our website, https://whatwg.org. We make no effort to identify public users of our site. No identifying data is disclosed to any third party for any purpose. Data that we collect is used only for server administration, site improvement, usage statistics, and Web protocol research.
+WHATWG respects your privacy and is committed to protecting your personal data. This privacy policy covers how we collect, use, and disclose your personal information when you visit our website, [whatwg.org](https://whatwg.org/). We make no effort to identify public users of our site. No identifying data is disclosed to any third party for any purpose. Data that we collect is used only for server administration, site improvement, usage statistics, and Web protocol research.
 
 Contact information for WHATWG: <sg@whatwg.org>.
 
@@ -16,7 +16,7 @@ If you submit information through the [Contributor and Workstream Participant Ag
 
 We retained email addresses for as long as users were subscribed to the email distribution list or for a brief period after we shut down the email distribution list.
 
-If you comment on a blog post on blog.whatwg.org, your comment will be published with the information you submit, including your name and email address. WHATWG will only use the information you submit to publish your comment. To delete the name and email address associated with a published comment, you can contact <sg@whatwg.org>.
+If you comment on a blog post on [blog.whatwg.org](https://blog.whatwg.org/), your comment will be published with the information you submit, including your name and email address. WHATWG will only use the information you submit to publish your comment. To delete the name and email address associated with a published comment, you can contact <sg@whatwg.org>.
 
 Notwithstanding the data retention policies described above, we may retain your personal information where necessary to comply with applicable legal obligations.
 
