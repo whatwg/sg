@@ -9,6 +9,7 @@ The WHATWG is guided by [Principles](./Principles.md) of openness, utility, effi
 WHATWG participants operate under a number of policies:
 
 * [Intellectual Property Rights Policy](./IPR%20Policy.md)
+* [Privacy Policy](./Privacy%20Policy.md)
 * [Workstream Policy](./Workstream%20Policy.md)
 * [Code of Conduct](./Code%20of%20Conduct.md)
 * [Working Mode](./Working%20Mode.md)

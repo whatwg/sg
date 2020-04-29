@@ -4,7 +4,7 @@
 ./SG%20Policy.md=sg-policy
 ./Code%20of%20Conduct.md=code-of-conduct
 ./Principles.md=principles
-./Privacy Policy.md=privacy-policy
+./Privacy%20Policy.md=privacy-policy
 ./Policies.md=policies
 ./Working%20Mode.md=working-mode
 ./db.json=https://github.com/whatwg/sg/blob/master/db.json
