@@ -2,12 +2,11 @@
 
 Last updated April 20, 2020
 
-WHATWG respects your privacy and is committed to protecting your personal data. This privacy policy covers how we collect, use, and disclose your personal information when you visit our website, https://whatwg.org.
-We make no effort to identify public users of our site. No identifying data is disclosed to any third party for any purpose. Data that we collect is used only for server administration, site improvement, usage statistics, and Web protocol research.
+WHATWG respects your privacy and is committed to protecting your personal data. This privacy policy covers how we collect, use, and disclose your personal information when you visit our website, https://whatwg.org. We make no effort to identify public users of our site. No identifying data is disclosed to any third party for any purpose. Data that we collect is used only for server administration, site improvement, usage statistics, and Web protocol research.
 
-Contact information for WHATWG: sg@whatwg.org.
+Contact information for WHATWG: <sg@whatwg.org>.
 
-## Collection and Use of Personal Information
+## Collection and use of personal information
 
 Personal information is data that identifies you, such as your name, email address, and phone number.
 
@@ -17,37 +16,37 @@ If you submit information through the Contributor and Workstream Participant Agr
 
 We retained email addresses for as long as users were subscribed to the email distribution list or for a brief period after we shut down the email distribution list.
 
-If you comment on a blog post on blog.whatwg.org, your comment will be published with the information you submit, including your name and email address. WHATWG will only use the information you submit to publish your comment. To delete the name and e-mail address associated with a published comment, you can contact sg@whatwg.org.
+If you comment on a blog post on blog.whatwg.org, your comment will be published with the information you submit, including your name and email address. WHATWG will only use the information you submit to publish your comment. To delete the name and email address associated with a published comment, you can contact <sg@whatwg.org>.
 
 Notwithstanding the data retention policies described above, we may retain your personal information where necessary to comply with applicable legal obligations.
 
 This website is not intended for use by children. If we learn that we have collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, we will take steps to delete the information as soon as possible.
 
-## Disclosure to Third Parties
+## Disclosure to third parties
 
 We may disclose your personal information to our service providers to perform certain services on our behalf such as email service delivery. We may also disclose your personal information if obligated by law, legal process, litigation and/or requests from public and governmental authorities within or outside your country of residence. Finally, we may disclose your personal information if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
 
 This site may contain links to third-party websites, products, and services. Information collected by third parties, which may include your personal information, is governed by their privacy policies and practices.
 
-## International Data Transfers
+## International data transfers
 
 If you are in the European Economic Area (EEA), you should be aware that your personal information may be transferred outside the EEA.
 
-## Protection of Personal Information
+## Protection of personal information
 
 We have appropriate technical and organizational security measures in place to prevent accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access.
 
-## Cookies and Other Technologies
+## Cookies and other technologies
 
-Our website uses cookies to retain your logged-in state.  It does not use other tracking technologies and it does not use automated decision-making.
+Our website uses cookies to retain your logged-in state. It does not use other tracking technologies and it does not use automated decision-making.
 
-## Access to Personal Information
+## Access to personal information
 
-Depending on your country of residence, you may have a right to request access to the personal information we hold about you, to request correction or deletion of your personal information, to restrict the processing of your personal information, to object to processing of your personal information, and to receive your personal information in a portable format. You may also have the right to withdraw your consent to the processing of your personal information. These requests and other queries about how your personal information is used can be made by email at sg@whatwg.org.
+Depending on your country of residence, you may have a right to request access to the personal information we hold about you, to request correction or deletion of your personal information, to restrict the processing of your personal information, to object to processing of your personal information, and to receive your personal information in a portable format. You may also have the right to withdraw your consent to the processing of your personal information. These requests and other queries about how your personal information is used can be made by email at <sg@whatwg.org>.
 
-## Privacy Questions
+## Privacy questions
 
-If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact us at sg@whatwg.org.
+If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact us at <sg@whatwg.org>.
 
 We may amend this privacy policy periodically by publishing an updated version on this website.
 
