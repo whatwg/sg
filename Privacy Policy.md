@@ -12,7 +12,7 @@ Personal information is data that identifies you, such as your name, email addre
 
 When you visit our website, we may collect information about your use of the website, including your IP address, which is stored for no longer than 45 days. We may use this information to operate, maintain, and improve the website.
 
-If you submit information through the Contributor and Workstream Participant Agreement, including your name, city, email, and Github username, WHATWG will use this data to comply with the Intellectual Property Rights policy, including licensing obligations for contributions and participation in workstreams. WHATWG will retain this data for as long as necessary to track all IPR obligations covering WHATWG standards.
+If you submit information through the [Contributor and Workstream Participant Agreement](https://participate.whatwg.org/agreement), including your name, city, email, and Github username, WHATWG will use this data to comply with the [Intellectual Property Rights Policy](./IPR%20Policy.md), including licensing obligations for contributions and participation in workstreams. WHATWG will retain this data for as long as necessary to track all IPR obligations covering WHATWG standards.
 
 We retained email addresses for as long as users were subscribed to the email distribution list or for a brief period after we shut down the email distribution list.
 
@@ -24,7 +24,7 @@ This website is not intended for use by children. If we learn that we have colle
 
 ## Disclosure to third parties
 
-We may disclose your personal information to our service providers to perform certain services on our behalf such as email service delivery. We may also disclose your personal information if obligated by law, legal process, litigation and/or requests from public and governmental authorities within or outside your country of residence. Finally, we may disclose your personal information if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
+We may disclose your personal information to our service providers to perform certain services on our behalf such as email service delivery. We may also disclose your personal information if obligated by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence. Finally, we may disclose your personal information if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
 
 This site may contain links to third-party websites, products, and services. Information collected by third parties, which may include your personal information, is governed by their privacy policies and practices.
 
