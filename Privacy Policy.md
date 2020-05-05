@@ -1,8 +1,8 @@
-# WHATWG Website Privacy Policy
+# WHATWG Privacy Policy
 
-Last updated April 20, 2020
+Last updated May 5, 2020
 
-WHATWG respects your privacy and is committed to protecting your personal data. This privacy policy covers how we collect, use, and disclose your personal information when you visit our website, [whatwg.org](https://whatwg.org/). We make no effort to identify public users of our site. No identifying data is disclosed to any third party for any purpose. Data that we collect is used only for server administration, site improvement, usage statistics, and Web protocol research.
+WHATWG respects your privacy and is committed to protecting your personal data. This privacy policy covers how we collect, use, and disclose your personal information when you visit our website, [whatwg.org](https://whatwg.org/) and subdomains. We make no effort to identify public users of our site. No identifying data is disclosed to any third party for any purpose. Data that we collect is used only for server administration, site improvement, usage statistics, and Web protocol research.
 
 Contact information for WHATWG: <sg@whatwg.org>.
 
@@ -34,11 +34,11 @@ If you are in the European Economic Area (EEA), you should be aware that your pe
 
 ## Protection of personal information
 
-We have appropriate technical and organizational security measures in place to prevent accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access.
+We have appropriate technical and organizational security measures in place to prevent accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access.
 
 ## Cookies and other technologies
 
-Our website uses cookies to retain your logged-in state. It does not use other tracking technologies and it does not use automated decision-making.
+Some parts of our website allow logging in. In such cases, our website uses cookies to retain your logged-in state. It does not use other tracking technologies and it does not use automated decision-making.
 
 ## Access to personal information
 
