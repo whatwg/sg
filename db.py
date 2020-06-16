@@ -37,7 +37,7 @@ def normalize_workstream(workstream):
       "name": workstream["name"],
       "scope": workstream["scope"],
       "editors": normalize_list(workstream["editors"], normalize_person, "name"),
-      "standards": normalize_list(workstream["standards"], normalize_workstream_standard_or_idea, "name")
+      "standards": normalize_list(workstream["standards"], normalize_workstream_standard, "name")
     }
 
 def normalize_person(editor):
@@ -45,6 +45,11 @@ def normalize_person(editor):
       "name": editor["name"],
       "email": editor.get("email", None)
     }
+
+def normalize_workstream_standard(document):
+    output = normalize_workstream_standard_or_idea(document)
+    output["review_draft_schedule"] = document["review_draft_schedule"]
+    return output
 
 def normalize_workstream_standard_or_idea(document):
     return {
