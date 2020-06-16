@@ -21,7 +21,11 @@
               "email": "miket@mozilla.com"
             }
           ],
-          "reference": "COMPAT"
+          "reference": "COMPAT",
+          "review_draft_schedule": [
+            6,
+            12
+          ]
         }
       ]
     },
@@ -62,7 +66,11 @@
               "email": "terin@terinstock.com"
             }
           ],
-          "reference": "CONSOLE"
+          "reference": "CONSOLE",
+          "review_draft_schedule": [
+            6,
+            12
+          ]
         }
       ]
     },
@@ -87,7 +95,11 @@
               "email": "annevk@annevk.nl"
             }
           ],
-          "reference": "DOM"
+          "reference": "DOM",
+          "review_draft_schedule": [
+            6,
+            12
+          ]
         }
       ]
     },
@@ -112,7 +124,11 @@
               "email": "annevk@annevk.nl"
             }
           ],
-          "reference": "ENCODING"
+          "reference": "ENCODING",
+          "review_draft_schedule": [
+            6,
+            12
+          ]
         }
       ]
     },
@@ -137,7 +153,11 @@
               "email": "annevk@annevk.nl"
             }
           ],
-          "reference": "FETCH"
+          "reference": "FETCH",
+          "review_draft_schedule": [
+            6,
+            12
+          ]
         }
       ]
     },
@@ -162,7 +182,11 @@
               "email": "philip@foolip.org"
             }
           ],
-          "reference": "FULLSCREEN"
+          "reference": "FULLSCREEN",
+          "review_draft_schedule": [
+            1,
+            7
+          ]
         }
       ]
     },
@@ -203,7 +227,11 @@
               "email": "zcorpan@gmail.com"
             }
           ],
-          "reference": "HTML"
+          "reference": "HTML",
+          "review_draft_schedule": [
+            1,
+            7
+          ]
         }
       ]
     },
@@ -232,7 +260,11 @@
               "email": "d@domenic.me"
             }
           ],
-          "reference": "INFRA"
+          "reference": "INFRA",
+          "review_draft_schedule": [
+            1,
+            7
+          ]
         }
       ]
     },
@@ -257,7 +289,11 @@
               "email": "me@gphemsley.org"
             }
           ],
-          "reference": "MIMESNIFF"
+          "reference": "MIMESNIFF",
+          "review_draft_schedule": [
+            1,
+            7
+          ]
         }
       ]
     },
@@ -282,7 +318,11 @@
               "email": "annevk@annevk.nl"
             }
           ],
-          "reference": "NOTIFICATIONS"
+          "reference": "NOTIFICATIONS",
+          "review_draft_schedule": [
+            1,
+            7
+          ]
         }
       ]
     },
@@ -307,7 +347,11 @@
               "email": "zcorpan@gmail.com"
             }
           ],
-          "reference": "QUIRKS"
+          "reference": "QUIRKS",
+          "review_draft_schedule": [
+            2,
+            8
+          ]
         }
       ]
     },
@@ -332,7 +376,11 @@
               "email": "annevk@annevk.nl"
             }
           ],
-          "reference": "STORAGE"
+          "reference": "STORAGE",
+          "review_draft_schedule": [
+            2,
+            8
+          ]
         }
       ]
     },
@@ -365,7 +413,11 @@
               "email": null
             }
           ],
-          "reference": "STREAMS"
+          "reference": "STREAMS",
+          "review_draft_schedule": [
+            2,
+            8
+          ]
         }
       ]
     },
@@ -390,7 +442,11 @@
               "email": "annevk@annevk.nl"
             }
           ],
-          "reference": "URL"
+          "reference": "URL",
+          "review_draft_schedule": [
+            2,
+            8
+          ]
         }
       ]
     },
@@ -415,7 +471,11 @@
               "email": "annevk@annevk.nl"
             }
           ],
-          "reference": "XHR"
+          "reference": "XHR",
+          "review_draft_schedule": [
+            2,
+            8
+          ]
         }
       ]
     }
