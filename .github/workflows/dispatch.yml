@@ -10,4 +10,8 @@ jobs:
     name: Dispatch
     runs-on: ubuntu-20.04
     steps:
-    - run: curl --retry 2 --fail -X POST -H "Authorization: token ${{ secrets.DISPATCH_TOKEN }}" -d '{"event_type":"sg_repo_updated"}' https://api.github.com/repos/whatwg/whatwg.org/dispatches
+    - run: |
+        curl --retry 2 --fail -X POST \
+          -H "Authorization: token ${{ secrets.DISPATCH_TOKEN }}"
+          -d '{"event_type":"sg_repo_updated"}'
+          https://api.github.com/repos/whatwg/whatwg.org/dispatches
