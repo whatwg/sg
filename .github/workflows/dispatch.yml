@@ -1,0 +1,17 @@
+# This triggers the Build workflow in whatwg/whatwg.org for changes here.
+# https://developer.github.com/v3/repos/#create-a-repository-dispatch-event
+name: Dispatch
+on:
+  push:
+    branches:
+    - master
+jobs:
+  dispatch:
+    name: Dispatch
+    runs-on: ubuntu-20.04
+    steps:
+    - run: |
+        curl --retry 2 --fail -X POST \
+          -H "Authorization: token ${{ secrets.DISPATCH_TOKEN }}" \
+          -d '{"event_type":"sg_repo_updated"}' \
+          https://api.github.com/repos/whatwg/whatwg.org/dispatches
