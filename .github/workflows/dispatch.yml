@@ -1,0 +1,16 @@
+# This triggers the Build workflow in whatwg/whatwg.org for changes here.
+name: Dispatch
+on:
+  push:
+    branches:
+    - master
+jobs:
+  dispatch:
+    name: Dispatch
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: peter-evans/repository-dispatch@v1
+      with:
+        token: ${{ secrets.DISPATCH_TOKEN }}
+        repository: whatwg/whatwg.org
+        event-type: sg_repo_updated
