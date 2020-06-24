@@ -31,6 +31,6 @@ And if someone takes issue with something you said or did, resist the urge to be
 
 <small>Adapted from [The Rust Code of Conduct](https://www.rust-lang.org/conduct.html).</small>
 
-<small>Copyright © 2018 WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</small>
+<small>Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</small>
 
 </footer>
