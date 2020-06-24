@@ -276,9 +276,7 @@ The [Steering Group]'s determination in each instance is final and non-appealabl
 ### Notice for Living Standards
 
 [Living Standards][Living Standard] must include the following notice, including the link:
-> Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-In the text above, YEAR must be replaced by the current year at the time the [Living Standard] is published.
+> Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 For each [Living Standard] that has had at least one [Review Draft][review-draft] published, it must also include the following notice:
 > This is the Living Standard. Those interested in the patent-review version should view the Living
@@ -289,9 +287,7 @@ In the text above, "Living Standard Review Draft" must link to the latest [Revie
 ### Notice for Living Standard Review Drafts
 
 [Living Standard Review Drafts][review-draft] must include the following notice, including the link:
-> Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-In the text above, YEAR must be replaced by the current year at the time the [Living Standard Review Draft][review-draft] is published.
+> Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 In addition, [Living Standard Review Drafts][review-draft] must include the following notice:
 > This is the Review Draft. It is published primarily for purposes of patent review by Workstream Participants; it mirrors the Living Standard closely, redacting only text that is identified as "Objection Pending" or "Confirmation Pending". Developers should refer to the Living Standard for the most current error corrections and other developments.
@@ -334,12 +330,11 @@ The repositories for all WHATWG publications and other deliverables
 must include the text of the applicable license in a LICENSE file.
 
 The contents of the license file must start with:
-> Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft).
+> Copyright © WHATWG (Apple, Google, Mozilla, Microsoft).
 > This work is licensed under a Creative Commons Attribution 4.0 International License:
 
-where YEAR is the current year. This copyright notice must be followed
-by the full text of the Creative Commons Attribution 4.0 International
-License in plaintext.
+This copyright notice must be followed by the full text of the Creative Commons
+Attribution 4.0 International License in plaintext.
 
 The SG repository has an example of how to do this correctly in its [LICENSE file](./LICENSE).
 
