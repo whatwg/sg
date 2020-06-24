@@ -166,6 +166,6 @@ After discussion concludes, such requested anchors get promoted to be permanent.
 
 <footer>
 
-<small>Copyright © 2018 WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</small>
+<small>Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</small>
 
 </footer>
