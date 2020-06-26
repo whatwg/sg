@@ -1,26 +1,26 @@
-# WHATWG Considerations for Individual participation by Steering Group Invitation Policy
+# WHATWG Workstream Participant Invitation Policy
 
-## Joining the WHATWG via Steering Group Invitation
+## Joining the WHATWG via Workstream Participant Invitation
 
 Persons who wish to join the WHATWG and participate in their personal capacity 
 (the <a id="requestor">**Requestor**</a>), but for various reasons are unable to sign the 
 [Contributor and Workstream Participant Agreement] under any of the existing terms
-(for example, the [Individual] is working in the [Field of Web Technologies] or the
+(for example, the [Individual] is working in the [Field of Web Technologies] and the
 [Entity] employing the individual is unable to join), may request special 
-<a id="sg-invitation">**Steering Group Invitation**</a> status. This policy describes the conditions and
+<a id="ws-invitation">**Workstream Participant Invitation**</a> status. This policy describes the conditions and
 procedures for this process.
 
-The [Steering Group] expects to grant [invitations][Steering Group Invitation] sparingly. 
+The [Steering Group] expects to grant [invitations][Workstream Participant Invitation] sparingly. 
 Wherever possible, persons employed by, contracting, or otherwise working for an
-[Entity] shouldseek to have the Entity execute the
+[Entity] should seek to have the Entity execute the
 [Contributor and Workstream Participant Agreement].
 
 The [Steering Group] must approve an invitation by unanimous consent.
 
-## How to request Steering Group Invitation status
+## How to request Workstream Participant Invitation status
 
 1.	File an issue in the [WHATWG/sg](https://github.com/whatwg/sg/issues) repo requesting
-    [Steering Group Invitation] status along with other relevant details or information 
+    [Workstream Participant Invitation] status along with other relevant details or information 
     relevant to the request.
 2.	The [Steering Group] will discuss the matter with the [Requestor] in the issue.
 3.	Either the [Requestor] or the [Steering Group] may request a private meeting to discuss
@@ -30,12 +30,12 @@ The [Steering Group] must approve an invitation by unanimous consent.
 5.	Once all [Steering Group Members] have indicated support, the [Requestor]’s information
     is added to a database, and the [Requestor] is invited to sign the 
     [Contributor and Workstream Participant Agreement] as an [Individual] with 
-    [Steering Group Invitation] status.
+    [Workstream Participant Invitation] status.
     
 ## Steering Group decision considerations
 
 The [Steering Group] reserves the right to approve or reject a request for a 
-[Steering Group Invitation] for any reason.
+[Workstream Participant Invitation] for any reason.
 
 Some factors that the [Steering Group] will consider when evaluating a request 
 are (but are not limited to):
@@ -49,20 +49,20 @@ are (but are not limited to):
 
 ## Pre-approval
 
-A person wishing to join the WHATWG using the [Steering Group Invitation] status 
+A person wishing to join the WHATWG using the [Workstream Participant Invitation] status 
 must be pre-approved *before* attempting to sign the 
 [Contributor and Workstream Participant Agreement]. Once pre-approval, 
 as noted above, has been granted, the person may sign as an [Individual] with
-[Steering Group Invitation] status. Otherwise, the attempt to sign the agreement
+[Workstream Participant Invitation] status. Otherwise, the attempt to sign the agreement
 will fail.
 
-## Cancelation of Steering Group Invitation
+## Cancelation of Workstream Participant Invitation
 
-The [Steering Group] reserves the right to terminate the [Steering Group Invitation]
+The [Steering Group] reserves the right to terminate the [Workstream Participant Invitation]
 status as indicated in [Termination]. The person may re-execute 
 [the agreement][Contributor and Workstream Participant Agreement] under any of the
 other existing terms, but will no longer be able to use the 
-[Steering Group Invitation] status.
+[Workstream Participant Invitation] status.
 
 [Contributions]: ./IPR%20Policy.md#21-contribution
 [Contributor and Workstream Participant Agreement]: https://participate.whatwg.org/agreement
@@ -71,6 +71,6 @@ other existing terms, but will no longer be able to use the
 [Individual]: https://participate.whatwg.org/agreement#individual
 [Requestor]: ./SG%20Invitation%20Policy.md#requestor
 [Steering Group]: ./SG%20Agreement.md#steering-group
-[Steering Group Invitation]: ./SG%20Invitation%20Policy.md#sg-invitation
 [Steering Group Member]: ./SG%20Agreement.md#steering-group-member
 [Termination]: https://participate.whatwg.org/agreement#termination
+[Workstream Participant Invitation]: ./SG%20Invitation%20Policy.md#ws-invitation
