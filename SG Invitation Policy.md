@@ -19,7 +19,7 @@ The [Steering Group] must approve an invitation by unanimous consent.
 
 ## How to request Workstream Participant Invitation status
 
-1.	File an issue in the [WHATWG/sg](https://github.com/whatwg/sg/issues) repo requesting
+1.	File an issue in the [Steering Group's repository](https://github.com/whatwg/sg/issues) requesting
     [Workstream Participant Invitation] status along with other relevant details or information 
     relevant to the request.
 2.	The [Steering Group] will discuss the matter with the [Requestor] in the issue.
@@ -27,7 +27,7 @@ The [Steering Group] must approve an invitation by unanimous consent.
     confidential special considerations.
 4.	Each [Steering Group Member] must indicate support in the issue (for example by a "+1"
     or explicit indication of support).
-5.	Once all [Steering Group Members] have indicated support, the [Requestor]’s information
+5.	Once all [Steering Group Member]s have indicated support, the [Requestor]’s information
     is added to a database, and the [Requestor] is invited to sign the 
     [Contributor and Workstream Participant Agreement] as an [Individual] with 
     [Workstream Participant Invitation] status.
