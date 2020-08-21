@@ -55,7 +55,7 @@ the [participate.whatwg.org](https://github.com/whatwg/participate.whatwg.org) r
 
 ## Steering Group representatives
 
-* L. David Baron (Mozilla) [@dbaron](https://github.com/dbaron)
+* Anne van Kesteren (Mozilla) [@annevk](https://github.com/annevk)
 * Maciej Stachowiak (Apple) [@othermaciej](https://github.com/othermaciej)
 * Philip Jägenstedt (Google) [@foolip](https://github.com/foolip)
 * Travis Leithead (Microsoft) [@travisleithead](https://github.com/travisleithead)
