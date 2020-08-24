@@ -96,7 +96,7 @@ If the [Living Standard] is depublished by the WHATWG, then no new licenses need
 
 ### 3.1. Contributors and Workstream Participants
 
-Commencing 2018-01-11, the [IPR Policy] becomes effective and all [Contributors][contributor] and [Workstream Participants] must execute the [Contributor and Workstream Participant Agreement][cw-agreement] in order to contribute or participate in [Workstreams][Workstream]. To help ensure that appropriate licensing commitments are secured from all [Contributors][contributor], individuals may [Contribute][contribution] independently to a [Living Standard] only if they do not [work in the field of Web technologies] as an employee, contractor, or agent of another person or legal entity (as set forth in the [Contributor and Workstream Participant Agreement][cw-agreement]).
+Commencing 2018-01-11, the [IPR Policy] becomes effective and all [Contributors][contributor] and [Workstream Participants] must execute the [Contributor and Workstream Participant Agreement][cw-agreement] in order to contribute or participate in [Workstreams][Workstream]. To help ensure that appropriate licensing commitments are secured from all [Contributors][contributor], individuals may [Contribute][contribution] independently to a [Living Standard] only if they are [invited by the Steering Group][Invitation Policy] or do not [work in the field of Web technologies] as an employee, contractor, or agent of another person or legal entity (as set forth in the [Contributor and Workstream Participant Agreement][cw-agreement]).
 
 ## 4. Copyright
 
@@ -208,6 +208,7 @@ Documents other than [Living Standards][Living Standard] and [Review Drafts][rev
 [Essential Review Draft Claims]: ./IPR%20Policy.md#222-essential-review-draft-claims
 [Field of Web Technologies]: ./IPR%20Policy.md#210-field-of-web-technologies
 [Individual]: https://participate.whatwg.org/agreement#individual
+[Invitation Policy]: ./SG%20Invitation%20Policy.md
 [IPR Policy]: ./IPR%20Policy.md
 [Living Standard]: ./Workstream%20Policy.md#living-standard
 [Normative]: ./IPR%20Policy.md#24-normative
