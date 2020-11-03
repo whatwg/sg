@@ -25,9 +25,11 @@ The [Steering Group] must approve an invitation by unanimous consent.
 2.	The [Steering Group] will discuss the matter with the [Requestor] in the issue.
 3.	Either the [Requestor] or the [Steering Group] may request a private meeting to discuss
     confidential special considerations.
+4.  The scope of the [Requestor]'s [Workstream] participation is established.
 4.	Each [Steering Group Member] must indicate support in the issue (for example by a "+1"
     or explicit indication of support).
-5.	Once all [Steering Group Member]s have indicated support, the [Requestor]’s information
+5.	Once all [Steering Group Member]s have indicated support, and the scope of the [Requestor]'s
+    [Workstream] participation is understood, the [Requestor]’s information
     is added to a database, and the [Requestor] is invited to sign the 
     [Contributor and Workstream Participant Agreement] as an [Individual] with 
     [Workstream Participant Invitation] status.
@@ -45,7 +47,8 @@ are (but are not limited to):
 *	The expected value of the potential participant’s [Contributions].
 *	The degree of involvement to which the [Individual] or [Entity] is in the
   [Field of Web Technologies].
-*	Other specific circumstances related to the [Individual] or [Entity].
+* Number of [Workstreams][Workstream] and desired participation length.
+* Other specific circumstances related to the [Individual] or [Entity].
 
 ## Pre-approval
 
@@ -53,8 +56,19 @@ A person wishing to join the WHATWG using the [Workstream Participant Invitation
 must be pre-approved *before* attempting to sign the 
 [Contributor and Workstream Participant Agreement]. Once pre-approval, 
 as noted above, has been granted, the person may sign as an [Individual] with
-[Workstream Participant Invitation] status. Otherwise, the attempt to sign the agreement
-will fail.
+[Workstream Participant Invitation] status. The [Requestor] will be added to the 
+[Workstreams][Workstream] that were previously negotiated with the [Steering Group].
+
+## Length of Participation
+
+[Workstream Participant Invitations][Workstream Participant Invitation] are typically extended
+for a period of 36 months (3 years). Upon expiration the [Individual] will need to request that
+their status be renewed by contacting the [Steering Group] as
+[noted above](#how-to-request-workstream-participant-invitation-status). The [Individual] must 
+contact the [Steering Group] if there are any changes in employment that could affect the status
+of their [invitation][Workstream Participant Invitation]. The [Steering Group] may
+customize the length of validity for each [invitation][Workstream Participant Invitation] as
+per individual circumstances.
 
 ## Cancelation of Workstream Participant Invitation
 
@@ -73,4 +87,5 @@ other existing terms, but will no longer be able to use the
 [Steering Group]: ./SG%20Agreement.md#steering-group
 [Steering Group Member]: ./SG%20Agreement.md#steering-group-member
 [Termination]: https://participate.whatwg.org/agreement#termination
+[Workstream]: ./Workstream%20Policy.md#workstream
 [Workstream Participant Invitation]: ./SG%20Invitation%20Policy.md#ws-invitation
