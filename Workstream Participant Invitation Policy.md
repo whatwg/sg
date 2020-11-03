@@ -26,9 +26,9 @@ The [Steering Group] must approve an invitation by unanimous consent.
 3.	Either the [Requestor] or the [Steering Group] may request a private meeting to discuss
     confidential special considerations.
 4.  The scope of the [Requestor]'s [Workstream] participation is established.
-4.	Each [Steering Group Member] must indicate support in the issue (for example by a "+1"
+5.	Each [Steering Group Member] must indicate support in the issue (for example by a "+1"
     or explicit indication of support).
-5.	Once all [Steering Group Member]s have indicated support, and the scope of the [Requestor]'s
+6.	Once all [Steering Group Member]s have indicated support, and the scope of the [Requestor]'s
     [Workstream] participation is understood, the [Requestor]’s information
     is added to a database, and the [Requestor] is invited to sign the 
     [Contributor and Workstream Participant Agreement] as an [Individual] with 
