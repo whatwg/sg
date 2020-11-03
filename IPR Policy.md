@@ -208,7 +208,7 @@ Documents other than [Living Standards][Living Standard] and [Review Drafts][rev
 [Essential Review Draft Claims]: ./IPR%20Policy.md#222-essential-review-draft-claims
 [Field of Web Technologies]: ./IPR%20Policy.md#210-field-of-web-technologies
 [Individual]: https://participate.whatwg.org/agreement#individual
-[Invitation Policy]: ./SG%20Invitation%20Policy.md
+[Invitation Policy]: ./Workstream%20Participant%20Invitation%20Policy.md
 [IPR Policy]: ./IPR%20Policy.md
 [Living Standard]: ./Workstream%20Policy.md#living-standard
 [Normative]: ./IPR%20Policy.md#24-normative
