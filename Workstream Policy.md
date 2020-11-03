@@ -275,7 +275,7 @@ The [Steering Group]'s determination in each instance is final and non-appealabl
 
 ### Notice for Living Standards
 
-[Living Standards][Living Standard] must include the following notice, including the link:
+[Living Standards][Living Standard] must include the following notice, including the links:
 > Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), and to the extent portions of it are incorporated into source code, such portions in the source code are licensed under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause).
 
 For each [Living Standard] that has had at least one [Review Draft][review-draft] published, it must also include the following notice:
@@ -286,7 +286,7 @@ In the text above, "Living Standard Review Draft" must link to the latest [Revie
 
 ### Notice for Living Standard Review Drafts
 
-[Living Standard Review Drafts][review-draft] must include the following notice, including the link:
+[Living Standard Review Drafts][review-draft] must include the following notice, including the links:
 > Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), and to the extent portions of it are incorporated into source code, such portions in the source code are licensed under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause).
 
 In addition, [Living Standard Review Drafts][review-draft] must include the following notice:
@@ -331,9 +331,9 @@ must include the text of the applicable license in a LICENSE file.
 
 The contents of the license file must start with:
 > Copyright © WHATWG (Apple, Google, Mozilla, Microsoft).
-> This work is licensed under a Creative Commons Attribution 4.0 International License, and
-> to the extent portions of it are incorporated into source code, such portions in the source
-> code are licensed under the BSD 3-Clause License.
+> This work is licensed under a Creative Commons Attribution 4.0 International License,
+> and to the extent portions of it are incorporated into source code, such portions in
+> the source code are licensed under the BSD 3-Clause License:
 
 This copyright notice must be followed by the full text of the Creative Commons
 Attribution 4.0 International License and the BSD 3-Clause License in plaintext.
