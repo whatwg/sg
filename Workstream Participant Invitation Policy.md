@@ -2,13 +2,13 @@
 
 ## Joining the WHATWG via Workstream Participant Invitation
 
-Persons who wish to join the WHATWG and participate in their personal capacity 
-(the <a id="requestor">**Requestor**</a>), but for various reasons are unable to sign the 
-[Contributor and Workstream Participant Agreement] under any of the existing terms
-(for example, the [Individual] is working in the [Field of Web Technologies] and the
-[Entity] employing the individual is unable to join), may request special 
-<a id="ws-invitation">**Workstream Participant Invitation**</a> status. This policy describes the conditions and
-procedures for this process.
+Persons who wish to join the WHATWG and participate in their personal capacity
+(the <a id="requestor">**Requestor**</a>), but for various reasons are unable to sign the
+[Contributor and Workstream Participant Agreement] as an [Entity] or as an [Individual] not
+working in the [Field of Web Technologies] (for example, the [Individual] is working in the
+[Field of Web Technologies] and the [Entity] employing the individual is unable to join),
+may request special <a id="ws-invitation">**Workstream Participant Invitation**</a> status.
+This policy describes the conditions and procedures for this process.
 
 The [Steering Group] expects to grant [invitations][Workstream Participant Invitation] sparingly. 
 Wherever possible, persons employed by, contracting, or otherwise working for an
