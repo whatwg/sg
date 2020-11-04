@@ -360,7 +360,7 @@ initiatives.
 
 [contributor]: ./IPR%20Policy.md#contributor
 [review-draft]: ./Workstream%20Policy.md#review-draft
-[BSD 3-Clause License]: https://opensource.org/licenses/BSD-3-Clause
+[BSD 3-Clause License]: ./BSD%203-Clause%20License.md
 [Code of Conduct]: ./Code%20of%20Conduct.md
 [Contributions]: ./IPR%20Policy.md#21-contribution
 [Contributor and Workstream Participant Agreement]: https://participate.whatwg.org/agreement
