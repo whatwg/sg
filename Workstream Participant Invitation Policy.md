@@ -25,7 +25,8 @@ The [Steering Group] must approve an invitation by unanimous consent.
 2.	The [Steering Group] will discuss the matter with the [Requestor] in the issue.
 3.	Either the [Requestor] or the [Steering Group] may request a private meeting to discuss
     confidential special considerations.
-4.  The scope of the [Requestor]'s [Workstream] participation is established.
+4.  The [Workstreams][Workstream] the [Requestor] will participate in and the term of the 
+    [invitation][Workstream Participant Invitation] (usually 36 months) are established.
 5.	Each [Steering Group Member] must indicate support in the issue (for example by a "+1"
     or explicit indication of support).
 6.	Once all [Steering Group Member]s have indicated support, and the scope of the [Requestor]'s
@@ -50,14 +51,15 @@ are (but are not limited to):
 * Number of [Workstreams][Workstream] and desired participation length.
 * Other specific circumstances related to the [Individual] or [Entity].
 
-## Pre-approval
+## Signing the Contributor and Workstream Participant Agreement
 
-A person wishing to join the WHATWG using the [Workstream Participant Invitation] status 
-must be pre-approved *before* attempting to sign the 
-[Contributor and Workstream Participant Agreement]. Once pre-approval, 
-as noted above, has been granted, the person may sign as an [Individual] with
-[Workstream Participant Invitation] status. The [Requestor] will be added to the 
-[Workstreams][Workstream] that were previously negotiated with the [Steering Group].
+A person wishing to join the WHATWG using the [Workstream Participant Invitation] status
+must sign the [Contributor and Workstream Participant Agreement]. The [Requestor] will
+select the option to sign as an [Individual] who has been invited by the [Steering Group].
+Signing the [Agreement][Contributor and Workstream Participant Agreement] may come before
+or after the person makes a [Contribution][Contributions], however until the
+[Agreement][Contributor and Workstream Participant Agreement] has been signed
+and subsequently verified, any [Contributions] by the [Requestor] will be blocked.
 
 ## Term of Participation
 
