@@ -59,9 +59,9 @@ as noted above, has been granted, the person may sign as an [Individual] with
 [Workstream Participant Invitation] status. The [Requestor] will be added to the 
 [Workstreams][Workstream] that were previously negotiated with the [Steering Group].
 
-## Length of Participation
+## Term of Participation
 
-[Workstream Participant Invitations][Workstream Participant Invitation] are typically extended
+[Workstream Participant Invitations][Workstream Participant Invitation] are typically granted
 for a period of 36 months (3 years). Upon expiration the [Individual] will need to request that
 their status be renewed by contacting the [Steering Group] as
 [noted above](#how-to-request-workstream-participant-invitation-status). The [Individual] must 
@@ -83,9 +83,9 @@ other existing terms, but will no longer be able to use the
 [Entity]: https://participate.whatwg.org/agreement#entity
 [Field of Web Technologies]: ./IPR%20Policy.md#210-field-of-web-technologies
 [Individual]: https://participate.whatwg.org/agreement#individual
-[Requestor]: ./SG%20Invitation%20Policy.md#requestor
+[Requestor]: ./Workstream%20Participant%20Invitation%20Policy.md#requestor
 [Steering Group]: ./SG%20Agreement.md#steering-group
 [Steering Group Member]: ./SG%20Agreement.md#steering-group-member
 [Termination]: https://participate.whatwg.org/agreement#termination
 [Workstream]: ./Workstream%20Policy.md#workstream
-[Workstream Participant Invitation]: ./SG%20Invitation%20Policy.md#ws-invitation
+[Workstream Participant Invitation]: ./Workstream%20Participant%20Invitation%20Policy.md#ws-invitation
