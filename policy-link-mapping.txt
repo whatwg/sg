@@ -1,3 +1,4 @@
+./BSD%203-Clause%20License.md=bsd-license
 ./IPR%20Policy.md=ipr-policy
 ./Workstream%20Policy.md=workstream-policy
 ./SG%20Agreement.md=sg-agreement

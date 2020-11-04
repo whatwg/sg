@@ -194,12 +194,14 @@ WHATWG [Living Standards][Living Standard] and [Review Drafts][review-draft] are
 
 #### 7.1.2. Other documents
 
-Documents other than [Living Standards][Living Standard] and [Review Drafts][review-draft] are published under [Creative Commons "Attribution 4.0 International (CC BY 4.0)"](https://creativecommons.org/licenses/by/4.0/) unless a different license (or license waiver) is specified by the [Steering Group].
+Documents other than [Living Standards][Living Standard] and [Review Drafts][review-draft] are published under [Creative Commons "Attribution 4.0 International (CC BY 4.0)"](https://creativecommons.org/licenses/by/4.0/) and a [BSD 3-Clause License], unless a different license (or license waiver) is specified by the [Steering Group].
 
 [contribution]: ./IPR%20Policy.md#21-contribution
 [contributor]: ./IPR%20Policy.md#contributor
 [cw-agreement]: https://participate.whatwg.org/agreement
+[publication copyright notices]: ./Workstream%20Policy.md#publications
 [review-draft]: ./Workstream%20Policy.md#review-draft
+[BSD 3-Clause License]: ./BSD%203-Clause%20License.md
 [Day]: ./IPR%20Policy.md#29-day
 [Editor]: ./Workstream%20Policy.md#editor
 [Entity]: https://participate.whatwg.org/agreement#entity
