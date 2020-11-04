@@ -190,7 +190,7 @@ WHATWG Standards may be identified as "the WHATWG [Standard]" so that forks can 
 
 #### 7.1.1. Living Standards and Review Drafts
 
-WHATWG [Living Standards][Living Standard] and [Review Drafts][review-draft] are published under [Creative Commons "Attribution 4.0 International (CC BY 4.0)"](https://creativecommons.org/licenses/by/4.0/), and to the extent portions of such [Living Standards][Living Standard] or [Review Drafts][review-draft] are incorporated into source code, such portions in the source code are licensed under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause).
+WHATWG [Living Standards][Living Standard] and [Review Drafts][review-draft] are published under [Creative Commons "Attribution 4.0 International (CC BY 4.0)"](https://creativecommons.org/licenses/by/4.0/), and to the extent portions of such [Living Standards][Living Standard] or [Review Drafts][review-draft] are incorporated into source code, such portions in the source code are licensed under the [BSD 3-Clause License].
 
 #### 7.1.2. Other documents
 
