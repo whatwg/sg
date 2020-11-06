@@ -340,7 +340,7 @@ Attribution 4.0 International License and the BSD 3-Clause License in plaintext.
 
 The SG repository has an example of how to do this correctly in its [LICENSE file](./LICENSE).
 
-This [sample license language](./LicenseSampleForSourceCode) can be used for portions of the [Living Standards][living standard] or [Living Standard Review Drafts][review-draft] incorporated into source code.
+The SG repository also has [sample license language](./License%20Sample%20For%20Source%20Code.txt) which can be used for portions of the [Living Standards][living standard] or [Living Standard Review Drafts][review-draft] incorporated into source code.
 
 ## Antitrust
 
