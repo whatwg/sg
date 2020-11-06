@@ -331,9 +331,9 @@ must include the text of the applicable license in a LICENSE file.
 
 The contents of the license file must start with:
 > Copyright © WHATWG (Apple, Google, Mozilla, Microsoft).
-> This work is licensed under a Creative Commons Attribution 4.0 International License,
-> and to the extent portions of it are incorporated into source code, such portions in
-> the source code are licensed under the BSD 3-Clause License:
+> This work is licensed under a Creative Commons Attribution 4.0 International
+> License, and to the extent portions of it are incorporated into source code,
+> such portions in the source code are licensed under the BSD 3-Clause License.
 
 This copyright notice must be followed by the full text of the Creative Commons
 Attribution 4.0 International License and the BSD 3-Clause License in plaintext.
