@@ -276,7 +276,7 @@ The [Steering Group]'s determination in each instance is final and non-appealabl
 ### Notice for Living Standards
 
 [Living Standards][Living Standard] must include the following notice, including the links:
-> Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), and to the extent portions of it are incorporated into source code, such portions in the source code are licensed under the [BSD 3-Clause License].
+> Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). To the extent portions of it are incorporated into source code, such portions in the source code are licensed under the [BSD 3-Clause License] instead.
 
 For each [Living Standard] that has had at least one [Review Draft][review-draft] published, it must also include the following notice:
 > This is the Living Standard. Those interested in the patent-review version should view the Living
@@ -287,7 +287,7 @@ In the text above, "Living Standard Review Draft" must link to the latest [Revie
 ### Notice for Living Standard Review Drafts
 
 [Living Standard Review Drafts][review-draft] must include the following notice, including the links:
-> Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), and to the extent portions of it are incorporated into source code, such portions in the source code are licensed under the [BSD 3-Clause License].
+> Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). To the extent portions of it are incorporated into source code, such portions in the source code are licensed under the [BSD 3-Clause License] instead.
 
 In addition, [Living Standard Review Drafts][review-draft] must include the following notice:
 > This is the Review Draft. It is published primarily for purposes of patent review by Workstream Participants; it mirrors the Living Standard closely, redacting only text that is identified as "Objection Pending" or "Confirmation Pending". Developers should refer to the Living Standard for the most current error corrections and other developments.
@@ -332,15 +332,15 @@ must include the text of the applicable license in a LICENSE file.
 The contents of the license file must start with:
 > Copyright © WHATWG (Apple, Google, Mozilla, Microsoft).
 > This work is licensed under a Creative Commons Attribution 4.0 International
-> License, and to the extent portions of it are incorporated into source code,
-> such portions in the source code are licensed under the BSD 3-Clause License.
+> License. To the extent portions of it are incorporated into source code,
+> such portions in the source code are licensed under the BSD 3-Clause License instead.
 
 This copyright notice must be followed by the full text of the Creative Commons
 Attribution 4.0 International License and the BSD 3-Clause License in plaintext.
 
 The SG repository has an example of how to do this correctly in its [LICENSE file](./LICENSE).
 
-The SG repository also has [sample license language](./License%20Sample%20For%20Source%20Code.txt) which can be used for portions of the [Living Standards][living standard] or [Living Standard Review Drafts][review-draft] incorporated into source code.
+This [sample license language](./License%20Sample%20For%20Source%20Code.txt) can be used for portions of the [Living Standards][living standard] or [Living Standard Review Drafts][review-draft] incorporated into source code.
 
 ## Antitrust
 
