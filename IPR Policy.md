@@ -201,7 +201,6 @@ Documents other than [Living Standards][Living Standard] and [Review Drafts][rev
 [cw-agreement]: https://participate.whatwg.org/agreement
 [publication copyright notices]: ./Workstream%20Policy.md#publications
 [review-draft]: ./Workstream%20Policy.md#review-draft
-[BSD 3-Clause License]: ./BSD%203-Clause%20License.md
 [Day]: ./IPR%20Policy.md#29-day
 [Editor]: ./Workstream%20Policy.md#editor
 [Entity]: https://participate.whatwg.org/agreement#entity
