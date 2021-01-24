@@ -49,6 +49,7 @@ def normalize_person(editor):
 def normalize_workstream_standard(document):
     output = normalize_workstream_standard_or_idea(document)
     output["review_draft_schedule"] = document["review_draft_schedule"]
+    output["twitter"] = document["twitter"]
     return output
 
 def normalize_workstream_standard_or_idea(document):

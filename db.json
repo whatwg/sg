@@ -25,7 +25,8 @@
           "review_draft_schedule": [
             6,
             12
-          ]
+          ],
+          "twitter": "compatstandard"
         }
       ]
     },
@@ -70,7 +71,8 @@
           "review_draft_schedule": [
             6,
             12
-          ]
+          ],
+          "twitter": "consolelog"
         }
       ]
     },
@@ -99,7 +101,8 @@
           "review_draft_schedule": [
             6,
             12
-          ]
+          ],
+          "twitter": "thedomstandard"
         }
       ]
     },
@@ -128,7 +131,8 @@
           "review_draft_schedule": [
             6,
             12
-          ]
+          ],
+          "twitter": "encodings"
         }
       ]
     },
@@ -157,7 +161,8 @@
           "review_draft_schedule": [
             6,
             12
-          ]
+          ],
+          "twitter": "fetchstandard"
         }
       ]
     },
@@ -186,7 +191,8 @@
           "review_draft_schedule": [
             1,
             7
-          ]
+          ],
+          "twitter": "fullscreenapi"
         }
       ]
     },
@@ -231,7 +237,8 @@
           "review_draft_schedule": [
             1,
             7
-          ]
+          ],
+          "twitter": "htmlstandard"
         }
       ]
     },
@@ -264,7 +271,8 @@
           "review_draft_schedule": [
             1,
             7
-          ]
+          ],
+          "twitter": "infrastandard"
         }
       ]
     },
@@ -293,7 +301,8 @@
           "review_draft_schedule": [
             1,
             7
-          ]
+          ],
+          "twitter": "mimesniff"
         }
       ]
     },
@@ -322,7 +331,8 @@
           "review_draft_schedule": [
             1,
             7
-          ]
+          ],
+          "twitter": "notifyapi"
         }
       ]
     },
@@ -351,7 +361,8 @@
           "review_draft_schedule": [
             2,
             8
-          ]
+          ],
+          "twitter": "quirksstandard"
         }
       ]
     },
@@ -380,7 +391,8 @@
           "review_draft_schedule": [
             2,
             8
-          ]
+          ],
+          "twitter": "storagestandard"
         }
       ]
     },
@@ -417,7 +429,8 @@
           "review_draft_schedule": [
             2,
             8
-          ]
+          ],
+          "twitter": "streamsstandard"
         }
       ]
     },
@@ -446,7 +459,8 @@
           "review_draft_schedule": [
             2,
             8
-          ]
+          ],
+          "twitter": "urlstandard"
         }
       ]
     },
@@ -475,7 +489,8 @@
           "review_draft_schedule": [
             2,
             8
-          ]
+          ],
+          "twitter": "xhrstandard"
         }
       ]
     }
