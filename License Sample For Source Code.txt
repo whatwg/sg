@@ -1,4 +1,5 @@
 Copyright © WHATWG (Apple, Google, Mozilla, Microsoft).
+
 This work is licensed under the BSD 3-Clause License.
 
 BSD 3-Clause License
