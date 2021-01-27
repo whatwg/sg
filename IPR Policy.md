@@ -190,15 +190,16 @@ WHATWG Standards may be identified as "the WHATWG [Standard]" so that forks can 
 
 #### 7.1.1. Living Standards and Review Drafts
 
-WHATWG [Living Standards][Living Standard] and [Review Drafts][review-draft] are published under [Creative Commons "Attribution 4.0 International (CC BY 4.0)"](https://creativecommons.org/licenses/by/4.0/).
+WHATWG [Living Standards][Living Standard] and [Review Drafts][review-draft] are licensed under [Creative Commons "Attribution 4.0 International (CC BY 4.0)"](https://creativecommons.org/licenses/by/4.0/). To the extent portions of such [Living Standards][Living Standard] or [Review Drafts][review-draft] are incorporated into source code, such portions in the source code are licensed under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause) instead.
 
 #### 7.1.2. Other documents
 
-Documents other than [Living Standards][Living Standard] and [Review Drafts][review-draft] are published under [Creative Commons "Attribution 4.0 International (CC BY 4.0)"](https://creativecommons.org/licenses/by/4.0/) unless a different license (or license waiver) is specified by the [Steering Group].
+Documents other than [Living Standards][Living Standard] and [Review Drafts][review-draft] are licensed under [Creative Commons "Attribution 4.0 International (CC BY 4.0)"](https://creativecommons.org/licenses/by/4.0/) unless a different license (or license waiver) is specified by the [Steering Group].
 
 [contribution]: ./IPR%20Policy.md#21-contribution
 [contributor]: ./IPR%20Policy.md#contributor
 [cw-agreement]: https://participate.whatwg.org/agreement
+[publication copyright notices]: ./Workstream%20Policy.md#publications
 [review-draft]: ./Workstream%20Policy.md#review-draft
 [Day]: ./IPR%20Policy.md#29-day
 [Editor]: ./Workstream%20Policy.md#editor
