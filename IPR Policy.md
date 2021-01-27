@@ -96,7 +96,7 @@ If the [Living Standard] is depublished by the WHATWG, then no new licenses need
 
 ### 3.1. Contributors and Workstream Participants
 
-Commencing 2018-01-11, the [IPR Policy] becomes effective and all [Contributors][contributor] and [Workstream Participants] must execute the [Contributor and Workstream Participant Agreement][cw-agreement] in order to contribute or participate in [Workstreams][Workstream]. To help ensure that appropriate licensing commitments are secured from all [Contributors][contributor], individuals may [Contribute][contribution] independently to a [Living Standard] only if they do not [work in the field of Web technologies] as an employee, contractor, or agent of another person or legal entity (as set forth in the [Contributor and Workstream Participant Agreement][cw-agreement]).
+Commencing 2018-01-11, the [IPR Policy] becomes effective and all [Contributors][contributor] and [Workstream Participants] must execute the [Contributor and Workstream Participant Agreement][cw-agreement] in order to contribute or participate in [Workstreams][Workstream]. To help ensure that appropriate licensing commitments are secured from all [Contributors][contributor], [Individuals][Individual] who have executed the [Contributor and Workstream Participant Agreement][cw-agreement] may [Contribute][contribution] independently to a [Living Standard] only if they (a) do not [work in the field of Web technologies] as an employee, contractor, or agent of another person or legal entity; or (b) have been invited by the [Steering Group] to participate in one or more WHATWG [Workstreams][Workstream] (in both cases, as set forth in the [Contributor and Workstream Participant Agreement][cw-agreement]). To the extent that such [Individuals][Individual] make [Contributions][contribution], each [Individual] hereby represents and warrants that such [Individual] has all rights necessary in and to any [Contributions][contribution] they make.
 
 ## 4. Copyright
 
@@ -157,7 +157,7 @@ To be effective, a [Patent Exclusion Notice] must (1) be delivered to the [Works
 
 #### 5.5.5.
 
-[Excluded Claims](#23-excluded-claim) may be addressed by technical workaround, posting of the exclusion notice, or other means the [Steering Group] deems appropriate (including the retention of counsel or advisors to prepare a private advisory memo). The [Steering Group] may take these actions directly, appoint a group of advisors to make a recommendation, or delegate the decision. Decisions that affect the [Workstream] will be published.
+[Excluded Claims](#23-excluded-claim) and patent claims identified or disclosed by a [Contributor][contributor] or [Workstream Participant][Workstream Participants] may be addressed by technical workaround, posting of the exclusion notice, or other means the [Steering Group] deems appropriate (including the retention of counsel or advisors to prepare a private advisory memo). The [Steering Group] may take these actions directly, appoint a group of advisors to make a recommendation, or delegate the decision. Decisions that affect the [Workstream] will be published.
 
 #### 5.5.6.
 
@@ -171,7 +171,7 @@ Except as set forth above regarding new [Workstream Participants], [Review Draft
 
 #### 5.6.1. Disclosures regarding contributions
 
-When making a [Contribution][contribution] or as soon as feasible thereafter, the individuals who submit the [Contribution][contribution] (i.e., either an [Individual] [Contributor][contributor] or the representatives of an [Entity]) must identify any patent that they (1) are personally aware of and (2) believe would be infringed by use or implementation of the [Contribution][contribution], unless the [Contributor][contributor] is making the claims subject to the [Patent-Licensing Obligations]. (For the avoidance of doubt: No patent search is required.)
+When making a [Contribution][contribution] or as soon as feasible thereafter, the individuals who submit the [Contribution][contribution] (i.e., either an [Individual] [Contributor][contributor] or the representatives of an [Entity]) must identify any patent that they (1) are personally aware of and (2) believe would be infringed by use or implementation of the [Contribution][contribution], unless the [Contributor][contributor] is making the claims subject to the [Patent-Licensing Obligations]. [Individuals][Individual] but not [Entities][Entity], or representatives of Entities, participating in a [Workstream] must also, as soon as is reasonably feasible, identify and disclose any patent or patent application of which they are personally aware that they believe contains claims that are or may become Essential Patent Claims for any [Workstream] in which they are participating. For the avoidance of doubt: No patent search is required.
 
 #### 5.6.2. Disclosures regarding excluded claims
 
