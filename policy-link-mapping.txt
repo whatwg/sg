@@ -1,7 +1,7 @@
 ./IPR%20Policy.md=ipr-policy
 ./Workstream%20Policy.md=workstream-policy
 ./SG%20Agreement.md=sg-agreement
-./Workstream%20Participant%20Invitation%20Policy.md=invitation-policy
+./Invited%20Individual%20Policy.md=invitation-policy
 ./SG%20Policy.md=sg-policy
 ./Code%20of%20Conduct.md=code-of-conduct
 ./Principles.md=principles
