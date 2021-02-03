@@ -91,3 +91,11 @@ other existing terms, but will no longer be able to use the
 [Termination]: https://participate.whatwg.org/agreement#termination
 [Workstream]: ./Workstream%20Policy.md#workstream
 [Workstream Participant Invitation]: ./Workstream%20Participant%20Invitation%20Policy.md#ws-invitation
+
+<hr>
+
+<footer>
+
+<small>Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</small>
+
+</footer>
