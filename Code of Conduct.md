@@ -7,7 +7,7 @@ Contact: the WHATWG Steering Group, via <sg@whatwg.org>, or a member of the comm
 * We are committed to providing a friendly, safe, and welcoming environment for all, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 * Please be kind and courteous. There's no need to be mean or rude.
 * Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.
-* You shall not insult, demean, or harass anyone. We interpret the term "harassment" as including the definition in the [Citizen Code of Conduct](http://citizencodeofconduct.org/); if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don't tolerate behavior that excludes people in socially marginalized groups.
+* You shall not insult, demean, or harass anyone. Harassment includes, but is not limited to, offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, and technology choices; sexual images in public spaces, deliberate intimidation, stalking, doxing, following, inappropriate photography or recording, inappropriate physical contact, unwelcome sexual attention, sustained disruption of events, as well as advocating for or encouraging harassment. In particular, we don't tolerate behavior that excludes people in socially marginalized groups.
 * This includes private harassment. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please let the contact know immediately. Whether you're a regular contributor or a newcomer, we care about making this community a safe place for you and we've got your back.
 * Likewise any spamming, trolling, flaming, baiting, or other attention-stealing behaviour is not welcome.
 * Avoid using overtly sexual nicknames or other nicknames that might detract from a friendly, safe, and welcoming environment for all.
@@ -29,7 +29,7 @@ And if someone takes issue with something you said or did, resist the urge to be
 
 <footer>
 
-<small>Adapted from [The Rust Code of Conduct](https://www.rust-lang.org/conduct.html).</small>
+<small>Adapted from the [Rust Code of Conduct](https://www.rust-lang.org/conduct.html) and the [Conference Code of Conduct](https://confcodeofconduct.com/).</small>
 
 <small>Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</small>
 
