@@ -16,9 +16,11 @@ C. For private inquiries, the [Steering Group] may be reached by email at <sg@wh
 
 ### Communication
 
-A. Discussion among [Steering Group Members][Steering Group Member] may take place in issues, by email, or through any other method they agree to.
+A. Discussion among [Steering Group Representatives][Steering Group Representative] may take place in issues, by email, or through any other method they agree to.
 
 B. By [consensus], the [Steering Group] may choose to hold phone, in-person, or online meetings. Adequate notice of the time and place should be given. If the [Steering Group] holds meetings, announcements and minutes should be recorded in the issue tracker of the [Steering Group] repository.
+
+C. [Steering Group Representatives][Steering Group Representative] may consult with legal representatives from their respective [Steering Group Member] as needed.
 
 ### Decisions
 
