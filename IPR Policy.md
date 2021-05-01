@@ -51,7 +51,7 @@ For purposes of this definition, the "[Normative]" portions of the [Living Stand
 
 ### 2.6. "Patent Licensing Obligation"
 
-"Patent-Licensing Obligation" under [this Policy][IPR Policy] (including both the "[Contribution Licensing Obligation](#52-contribution-licensing-obligations)" and "[Review Draft Licensing Obligations](#53-review-draft-licensing-obligations)" referred to in [Article 5. Patents](#5-patents)) in this [IPR Policy]) means a non-assignable, non-sublicensable license to the licensor's [Essential Patent Claims] to make, have made, use, sell, have sold, offer to sell, import, and distribute and dispose of implementations of the [Living Standard] or [Review Draft][review-draft] that:
+"Patent-Licensing Obligation" under [this Policy][IPR Policy] (including both the "[Contribution Licensing Obligation]" and "[Review Draft Licensing Obligations]" referred to in [Article 5. Patents](#5-patents)) in this [IPR Policy]) means a non-assignable, non-sublicensable license to the licensor's [Essential Patent Claims] to make, have made, use, sell, have sold, offer to sell, import, and distribute and dispose of implementations of the [Living Standard] or [Review Draft][review-draft] that:
 
 1. are available to all, worldwide;
 2. extend to all [Essential Patent Claims] owned or controlled by the licensor;
@@ -120,20 +120,20 @@ With respect to each [Contribution][contribution] and other submissions offered 
 
 [Patent-Licensing Obligations] are incurred with respect to WHATWG [Living Standards][Living Standard] and [Review Drafts][review-draft] in two ways:
 
-1. by making a [Contribution][contribution] to a [Living Standard] that is not withdrawn within the period allowed (the "[Contribution Licensing Obligations](#52-contribution-licensing-obligations)"); and
-2. by [Workstream Participants] who forego the right to exclude essential patents against a [Review Draft][review-draft] when provided the opportunity to do so (the "[Review Draft Licensing Obligations](#53-review-draft-licensing-obligations)").
+1. by making a [Contribution][contribution] to a [Living Standard] that is not withdrawn within the period allowed (the "<a id="contribution-licensing-obligations">**Contribution Licensing Obligations**</a>"); and
+2. by [Workstream Participants] who forego the right to exclude essential patents against a [Review Draft][review-draft] when provided the opportunity to do so (the "<a id="review-draft-licensing-obligations">**Review Draft Licensing Obligations**</a>").
 
 ### 5.2. Contribution Licensing Obligations
 
-For each [Contribution][contribution], the [Contribution Licensing Obligations](#52-contribution-licensing-obligations) are effective irrevocably on the 45th [Day] after the [Contribution][contribution] was first made.
+For each [Contribution][contribution], the [Contribution Licensing Obligations] are effective irrevocably on the 45th [Day] after the [Contribution][contribution] was first made.
 
 ### 5.3. Review Draft Licensing Obligations
 
-For [Workstream Participants], the [Review Draft Licensing Obligations](#53-review-draft-licensing-obligations) are effective irrevocably (except as to [Excluded Claims](#23-excluded-claim)) upon conclusion of the [Patent Exclusion Period] and applies to the entire [Review Draft][review-draft].
+For [Workstream Participants], the [Review Draft Licensing Obligations] are effective irrevocably (except as to [Excluded Claims](#23-excluded-claim)) upon conclusion of the [Patent Exclusion Period] and applies to the entire [Review Draft][review-draft].
 
 ### 5.4. Review Draft publication
 
-Each [Workstream] periodically publishes a [Review Draft][review-draft] version of the [Living Standard]. The [Patent Exclusion Period] commences automatically upon the [Editor]'s posted notice that the [Review Draft][review-draft] has been published and continues for 45 [Days][Day]. Upon conclusion of the [Patent Exclusion Period], [Workstream Participants] incur the [Review Draft Licensing Obligations](#53-review-draft-licensing-obligations) unless the [Workstream Participant][Workstream Participants] has delivered a timely [Patent Exclusion Notice].
+Each [Workstream] periodically publishes a [Review Draft][review-draft] version of the [Living Standard]. The [Patent Exclusion Period] commences automatically upon the [Editor]'s posted notice that the [Review Draft][review-draft] has been published and continues for 45 [Days][Day]. Upon conclusion of the [Patent Exclusion Period], [Workstream Participants] incur the [Review Draft Licensing Obligations] unless the [Workstream Participant][Workstream Participants] has delivered a timely [Patent Exclusion Notice].
 
 When a [Workstream Participant][Workstream Participants] joins a [Workstream], the most-recent [Review Draft][review-draft] is deemed to have been "published" and a [Patent Exclusion Period] commences, with respect to that [Workstream Participant][Workstream Participants], when it joins.
 
@@ -141,7 +141,7 @@ When a [Workstream Participant][Workstream Participants] joins a [Workstream], t
 
 #### 5.5.1.
 
-A [Workstream Participant][Workstream Participants] may exclude [Essential Patent Claims](#22-essential-patent-claims) from the [Review Draft Licensing Obligations](#53-review-draft-licensing-obligations) by providing a [Patent Exclusion Notice] to the [Workstream] [Editor] and the [Steering Group] within the [Patent Exclusion Period]. (A [Workstream Participant][Workstream Participants] may file a [Patent Exclusion Notice] and continue to participate in the [Workstream].)
+A [Workstream Participant][Workstream Participants] may exclude [Essential Patent Claims](#22-essential-patent-claims) from the [Review Draft Licensing Obligations] by providing a [Patent Exclusion Notice] to the [Workstream] [Editor] and the [Steering Group] within the [Patent Exclusion Period]. (A [Workstream Participant][Workstream Participants] may file a [Patent Exclusion Notice] and continue to participate in the [Workstream].)
 
 #### 5.5.2.
 
