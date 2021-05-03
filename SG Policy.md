@@ -42,13 +42,16 @@ G. As an exception, [Steering Group] decisions on confidential matters which hav
 
 A. The [Steering Group] may define policies and agreements that govern the operation of the WHATWG. Policies must not conflict with the [Steering Group Agreement]. If they do, the [Steering Group Agreement] takes precedence.
 
-B. Other than the [Steering Group Agreement] and the [WHATWG Principles], the [Steering Group] may adopt, amend, or revoke Policies or Agreements by [consensus]. The same applies to this Steering Group Policy.
+B. Other than the [Steering Group Agreement] and the [WHATWG Principles], the [Steering Group] may adopt, amend, or revoke policies or agreements by [consensus]. The same applies to this Steering Group Policy.
 
 C. The canonical copies of all WHATWG policies and agreements must be kept in the [Steering Group]'s repository. Policies may also be published elsewhere, such as on <https://whatwg.org/>.
 
-D. Changes to policies and agreements should be made by pull request associated with an issue. Changes must be reviewed by a [Steering Group Representative] and may only be merged by [Consensus] or [unanimous consent] of the [Steering Group], as set forth in the [Steering Group Agreement].
+D. Changes to policies and agreements should be made by pull request associated with an issue that has a title prefix of "Policy Change: ". Changes must be reviewed by a [Steering Group Representative] and may only be merged when:
 
-E. Anyone may propose policy changes via issue and pull request. The [Steering Group] is not obliged to respond to such proposals.
+* There is [consensus] or [unanimous consent] of the [Steering Group], as set forth in the [Steering Group Agreement].
+* For substantive non-urgent changes: 45 [days] have passed since review.
+
+E. Anyone may propose policy changes via issues and pull requests. The [Steering Group] is not obliged to respond to such proposals.
 
 ## Powers and responsibilities
 
@@ -114,6 +117,7 @@ C. On technical matters, [editors][editor] and participants are welcome and enco
 [unanimous consent]: ./SG%20Agreement.md#unanimous-consent
 [Code of Conduct]: ./Code%20of%20Conduct.md
 [Consensus]: ./SG%20Agreement.md#consensus
+[days]: ./IPR%20Policy.md#29-day
 [Editor]: ./Workstream%20Policy.md#editor
 [Living Standard]: ./Workstream%20Policy.md#living-standard
 [Patent Exclusion Notices]: ./IPR%20Policy.md#27-patent-exclusion-notice
