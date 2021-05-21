@@ -37,7 +37,7 @@ The [Steering Group] must approve an invitation by unanimous consent.
 
 ## Steering Group decision considerations
 
-The [Steering Group] reserves the right to approve or reject a request for a
+The [Steering Group] reserves the right to approve or reject a request for
 [Invited Individual] status for any reason.
 
 Some factors that the [Steering Group] will consider when evaluating a request
