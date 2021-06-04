@@ -1,6 +1,36 @@
 {
   "workstreams": [
     {
+      "id": "browser-testing-api",
+      "name": "Browser Testing API",
+      "scope": "Internal APIs for automating testing of web platform features implemented in web browsers, e.g., to trigger JavaScript garbage collection.",
+      "editors": [
+        {
+          "name": "James Graham",
+          "email": "james@hoppipolla.co.uk"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Browser Testing API",
+          "href": "https://browser-testing-api.spec.whatwg.org/",
+          "description": "The Browser Testing API Standard defines internal APIs for automating testing of web platform features implemented in web browsers.",
+          "authors": [
+            {
+              "name": "James Graham",
+              "email": "james@hoppipolla.co.uk"
+            }
+          ],
+          "reference": "BROWSER-TESTING-API",
+          "review_draft_schedule": [
+            3,
+            9
+          ],
+          "twitter": "browser-testing-api"
+        }
+      ]
+    },
+    {
       "id": "compat",
       "name": "Compatibility",
       "scope": "CSS properties and DOM APIs that web browsers need to support for compatibility with the de facto web.",
