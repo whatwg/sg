@@ -414,15 +414,19 @@
           "authors": [
             {
               "name": "Adam Rice",
-              "email": null
+              "email": "ricea@chromium.org"
             },
             {
               "name": "Domenic Denicola",
               "email": "d@domenic.me"
             },
             {
-              "name": "吉野剛史 (Takeshi Yoshino)",
+              "name": "Mattias Buelens",
               "email": null
+            },
+            {
+              "name": "吉野剛史 (Takeshi Yoshino)",
+              "email": "tyoshino@chromium.org"
             }
           ],
           "reference": "STREAMS",
