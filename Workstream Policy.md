@@ -80,8 +80,6 @@ The [Steering Group] approves new [Workstreams][Workstream] and determines the [
    1. Proposed deliverables.
    1. Draft of the proposed [Living Standard] plus (optionally) a list of other proposed deliverables.
    1. A list of similar or related work being undertaken or proposed elsewhere and its relationship to the proposed [Workstream].
-   1. Anticipated commencement date and timeline for work going forward.
-   1. Anticipated [Workstream Participants].
    1. Description or list of those likely to implement or otherwise have an interest in the work.
    1. Expectations regarding long-term maintenance of the [Living Standard].
 1. The [Steering Group] will consider and respond to all [Workstream Proposals][Workstream Proposal].
