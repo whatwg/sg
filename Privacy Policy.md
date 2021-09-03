@@ -38,7 +38,7 @@ We have appropriate technical and organizational security measures in place to p
 
 ## Cookies and other technologies
 
-Some parts of our website allow logging in. In such cases, our website uses cookies to retain your logged-in state. It does not use other tracking technologies and it does not use automated decision-making.
+Some parts of our website allow logging in. In such cases, our website uses cookies to retain your logged-in state. It does not use other tracking technologies and it does not use algorithms or profiling to make decisions that significantly affect you (also known as automated decision-making).
 
 ## Access to personal information
 
