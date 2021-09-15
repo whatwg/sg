@@ -439,6 +439,36 @@
       ]
     },
     {
+      "id": "testutils",
+      "name": "Test Utils",
+      "scope": "Internal APIs for automating testing of web platform features implemented in web browsers, e.g., to trigger JavaScript garbage collection.",
+      "editors": [
+        {
+          "name": "James Graham",
+          "email": "james@hoppipolla.co.uk"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Test Utils",
+          "href": "https://testutils.spec.whatwg.org/",
+          "description": "The Test Utils Standard defines internal APIs for automating testing of web platform features implemented in web browsers.",
+          "authors": [
+            {
+              "name": "James Graham",
+              "email": "james@hoppipolla.co.uk"
+            }
+          ],
+          "reference": "TESTUTILS",
+          "review_draft_schedule": [
+            3,
+            9
+          ],
+          "twitter": "testutils"
+        }
+      ]
+    },
+    {
       "id": "url",
       "name": "URL",
       "scope": "URLs, their infrastructure, and their API.",
