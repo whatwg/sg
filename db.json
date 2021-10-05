@@ -499,6 +499,44 @@
       ]
     },
     {
+      "id": "webidl",
+      "name": "Web IDL",
+      "scope": "A syntax for specifications to use to define web APIs and the translation of that syntax into web browser programming languages such as JavaScript.",
+      "editors": [
+        {
+          "name": "Edgar Chen",
+          "email": "echen@mozilla.com"
+        },
+        {
+          "name": "Timothy Gu",
+          "email": "timothygu99@gmail.com"
+        }
+      ],
+      "standards": [
+        {
+          "name": "Web IDL",
+          "href": "https://webidl.spec.whatwg.org/",
+          "description": "The Web IDL Standard defines an interface definition language, Web IDL, that can be used to describe interfaces that are intended to be implemented in web browsers.",
+          "authors": [
+            {
+              "name": "Edgar Chen",
+              "email": "echen@mozilla.com"
+            },
+            {
+              "name": "Timothy Gu",
+              "email": "timothygu99@gmail.com"
+            }
+          ],
+          "reference": "WEBIDL",
+          "review_draft_schedule": [
+            3,
+            9
+          ],
+          "twitter": "webidl"
+        }
+      ]
+    },
+    {
       "id": "xhr",
       "name": "XMLHttpRequest",
       "scope": "A client-side networking API for transferring data between a web page and a server.",
