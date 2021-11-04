@@ -32,14 +32,6 @@ The editor has the following responsibilities, all of which can be delegated to 
    * Only add features that have sufficient implementer interest.
    * Align existing features with implementations (e.g., via removal if implementer interest waned).
 
-## Meetings
-
-The WHATWG doesn't generally run any regular meetings. However, as circumstances arise, meetings can be helpful to resolve difficult issues, or to liase with other groups.
-
-Requests for meetings are to be filed as issues against the relevant workstream. To allow maximum participation in a meeting, meetings should be announced early and provide an option for remote participation if possible. Transcripts, minutes, or recordings of a meeting should be made available shortly after the meeting concludes (linking from the original meeting request issue is a good way to do this).
-
-Any decisions made during in-person meetings are to be considered non-binding (tentative and subject to appeal from those not present).
-
 ## Issues
 
 ### Normative issues
@@ -150,6 +142,14 @@ Implementations that disagree can be rather tricky to sort out. Generally, we tr
 NOTE: A standard is a tool towards convergence, and changing a standard can often be a pragmatic solution in case of conflict.
 
 Implementation disagreement should not result in implementation-defined behavior or optional features.
+
+## Meetings
+
+The WHATWG doesn't generally run any regular meetings. However, as circumstances arise, meetings can be helpful to resolve difficult issues, or to liase with other groups.
+
+Requests for meetings are to be filed as issues against the relevant workstream. To allow maximum participation in a meeting, meetings should be announced early and provide an option for remote participation if possible. Transcripts, minutes, or recordings of a meeting should be made available shortly after the meeting concludes (linking from the original meeting request issue is a good way to do this).
+
+Any decisions made during in-person meetings are to be considered non-binding (tentative and subject to appeal from those not present).
 
 ## Anchor permanence
 
