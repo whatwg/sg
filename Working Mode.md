@@ -147,7 +147,7 @@ Implementation disagreement should not result in implementation-defined behavior
 
 The WHATWG doesn't generally run any regular meetings. However, as circumstances arise, meetings can be helpful to resolve difficult issues, or to liase with other groups.
 
-Requests for meetings are to be filed as issues against the relevant workstream. To allow maximum participation in a meeting, meetings should be announced early and provide an option for remote participation if possible. Transcripts, minutes, or recordings of a meeting should be made available shortly after the meeting concludes (linking from the original meeting request issue is a good way to do this).
+Announcements or requests for meetings are to be filed as issues against the relevant Living Standard repository. To allow maximum participation in a meeting, meetings should be announced early and provide an option for remote participation if possible. Transcripts, minutes, or recordings of a meeting should be made available shortly after the meeting concludes (linking from the original meeting request issue is a good way to do this).
 
 Any decisions made during in-person meetings are to be considered non-binding (tentative and subject to appeal from those not present).
 
