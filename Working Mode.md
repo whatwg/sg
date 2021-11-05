@@ -143,6 +143,14 @@ NOTE: A standard is a tool towards convergence, and changing a standard can ofte
 
 Implementation disagreement should not result in implementation-defined behavior or optional features.
 
+## Meetings
+
+The WHATWG doesn't generally run any regular meetings. However, as circumstances arise, meetings can be helpful to resolve difficult issues, or to liase with other groups.
+
+Announcements or requests for meetings are to be filed as issues against the relevant Living Standard repository. To allow maximum participation in a meeting, meetings should be announced early and provide an option for remote participation if possible. Transcripts, minutes, or recordings of a meeting should be made available shortly after the meeting concludes (linking from the original meeting request issue is a good way to do this).
+
+Any decisions made during in-person meetings are to be considered non-binding (tentative and subject to appeal from those not present).
+
 ## Anchor permanence
 
 Often other standards want to reference parts of a WHATWG Living Standard by using a hypertext anchor. Since Living Standards are continually evolving, the set of anchors in a document is not static, and some anchors could disappear over time.
