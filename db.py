@@ -96,7 +96,7 @@ def main():
     if command not in ["validate", "normalize"]:
         usage()
     else:
-        input = open("db.json", "r").read()
+        input = open("db.json", "r", encoding="utf-8").read()
         if command == "validate":
             validate(input)
         elif command == "normalize":

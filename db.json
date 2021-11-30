@@ -210,7 +210,7 @@
         {
           "name": "HTML",
           "href": "https://html.spec.whatwg.org/multipage/",
-          "description": "The HTML Standard is a kitchen sink full of technologies for the web. It includes the core markup language for the web, HTML, as well as numerous APIs like Web Sockets, Web Workers, `localStorage`, etc.",
+          "description": "The HTML Standard is a kitchen sink full of technologies for the web. It includes the core markup language for the web, HTML, as well as numerous APIs like Web Workers, `localStorage`, etc.",
           "authors": [
             {
               "name": "Anne van Kesteren",
@@ -239,6 +239,23 @@
             7
           ],
           "twitter": "htmlstandard"
+        },
+        {
+          "name": "WebSockets",
+          "href": "https://websockets.spec.whatwg.org/",
+          "description": "The WebSockets Standard provides APIs to enable web applications to maintain bidirectional communications with server-side processes.",
+          "authors": [
+            {
+              "name": "Adam Rice",
+              "email": "ricea@chromium.org"
+            }
+          ],
+          "reference": "WEBSOCKETS",
+          "review_draft_schedule": [
+            3,
+            9
+          ],
+          "twitter": "whatsockets"
         }
       ]
     },
