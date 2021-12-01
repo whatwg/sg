@@ -15,7 +15,7 @@ def normalize_internal(input):
     return string + "\n"
 
 def normalize(input):
-    open("db.json", "w").write(normalize_internal(input))
+    open("db.json", "w", encoding="utf-8").write(normalize_internal(input))
 
 def normalize_db(db):
     for (name, normalize_algorithm, sort_key) in [
