@@ -378,6 +378,23 @@
       ],
       "standards": [
         {
+          "name": "File System",
+          "href": "https://fs.spec.whatwg.org/",
+          "description": "File system infrastructure and API.",
+          "authors": [
+            {
+              "name": "Marijn Kruisselbrink",
+              "email": "mek@google.com"
+            }
+          ],
+          "reference": "FS",
+          "review_draft_schedule": [
+            3,
+            9
+          ],
+          "twitter": "whatfilesystem"
+        },
+        {
           "name": "Storage",
           "href": "https://storage.spec.whatwg.org/",
           "description": "The Storage Standard defines an API for persistent storage and quota estimates, as well as the platform storage architecture.",
