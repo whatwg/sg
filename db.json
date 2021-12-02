@@ -380,11 +380,11 @@
         {
           "name": "File System",
           "href": "https://fs.spec.whatwg.org/",
-          "description": "File system infrastructure and API.",
+          "description": "The File System Standard defines infrastructure and an API for file systems.",
           "authors": [
             {
               "name": "Marijn Kruisselbrink",
-              "email": "mek@google.com"
+              "email": "mek@chromium.org"
             }
           ],
           "reference": "FS",
