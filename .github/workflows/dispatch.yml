@@ -1,4 +1,5 @@
-# This triggers the Build workflow in whatwg/whatwg.org for changes here.
+# This triggers the deploy workflows in whatwg/whatwg.org and
+# participate.whatwg.org for changes here.
 # https://developer.github.com/v3/repos/#create-a-repository-dispatch-event
 name: Dispatch
 on:
@@ -15,3 +16,8 @@ jobs:
           -H "Authorization: token ${{ secrets.DISPATCH_TOKEN }}" \
           -d '{"event_type":"sg_repo_updated"}' \
           https://api.github.com/repos/whatwg/whatwg.org/dispatches
+    - run: |
+        curl --retry 2 --fail -X POST \
+          -H "Authorization: token ${{ secrets.DISPATCH_TOKEN }}" \
+          -d '{"event_type":"sg_repo_updated"}' \
+          https://api.github.com/repos/whatwg/participate.whatwg.org/dispatches
