@@ -12,7 +12,7 @@ Personal information is data that identifies you, such as your name, email addre
 
 When you visit our website, we may collect information about your use of the website, including your IP address, which is stored for no longer than 45 days. We may use this information to operate, maintain, and improve the website.
 
-If you submit information through the [Contributor and Workstream Participant Agreement](https://participate.whatwg.org/agreement), including your name, city, email, and Github username, WHATWG will use this data to comply with the [Intellectual Property Rights Policy](./IPR%20Policy.md), including licensing obligations for contributions and participation in workstreams. WHATWG will retain this data for as long as necessary to track all IPR obligations covering WHATWG standards.
+If you submit information through the [Contributor and Workstream Participant Agreement](https://participate.whatwg.org/agreement), including your name, city, email, and GitHub username, WHATWG will use this data to comply with the [Intellectual Property Rights Policy](./IPR%20Policy.md), including licensing obligations for contributions and participation in workstreams. WHATWG will retain this data for as long as necessary to track all IPR obligations covering WHATWG standards. Your name and GitHub username will be made public in the [participant-data repository](https://github.com/whatwg/participant-data).
 
 We retained email addresses for as long as users were subscribed to the email distribution list or for a brief period after we shut down the email distribution list.
 
