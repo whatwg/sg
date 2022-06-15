@@ -55,7 +55,7 @@ Workstream Participant Agreement which is maintained as
 
 ## Steering Group representatives
 
-* Anne van Kesteren (Mozilla) [@annevk](https://github.com/annevk)
+* Chris Wilson (Google) [@cwilso](https://github.com/cwilso)
 * Maciej Stachowiak (Apple) [@othermaciej](https://github.com/othermaciej)
-* Philip Jägenstedt (Google) [@foolip](https://github.com/foolip)
+* Tantek Çelik (Mozilla) [@tantek](https://github.com/annevk)
 * Travis Leithead (Microsoft) [@travisleithead](https://github.com/travisleithead)
