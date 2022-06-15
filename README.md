@@ -57,5 +57,5 @@ Workstream Participant Agreement which is maintained as
 
 * Chris Wilson (Google) [@cwilso](https://github.com/cwilso)
 * Maciej Stachowiak (Apple) [@othermaciej](https://github.com/othermaciej)
-* Tantek Çelik (Mozilla) [@tantek](https://github.com/annevk)
+* Tantek Çelik (Mozilla) [@tantek](https://github.com/tantek)
 * Travis Leithead (Microsoft) [@travisleithead](https://github.com/travisleithead)
