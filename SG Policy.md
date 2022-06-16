@@ -48,8 +48,8 @@ C. The canonical copies of all WHATWG policies and agreements must be kept in th
 
 D. Changes to policies and agreements should be made by pull request associated with an issue that has a title prefix of "Policy Change: ". Changes must be reviewed by a [Steering Group Representative] and may only be merged when:
 
-* There is [consensus] or [unanimous consent] of the [Steering Group], as set forth in the [Steering Group Agreement].
-* For substantive non-urgent changes: 45 [days] have passed since review.
+1. There is [consensus] or [unanimous consent] of the [Steering Group], as set forth in the [Steering Group Agreement].
+2. 45 [days] have passed since review. At the discretion of the [Steering Group] this step may be bypassed in case of an emergency.
 
 E. Anyone may propose policy changes via issues and pull requests. The [Steering Group] is not obliged to respond to such proposals.
 
