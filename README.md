@@ -59,3 +59,11 @@ Workstream Participant Agreement which is maintained as
 * Maciej Stachowiak (Apple) [@othermaciej](https://github.com/othermaciej)
 * Tantek Çelik (Mozilla) [@tantek](https://github.com/tantek)
 * Travis Leithead (Microsoft) [@travisleithead](https://github.com/travisleithead)
+
+### Changing a Steering Group representative
+
+* Notify [w3c/whatwg-coord](https://github.com/w3c/whatwg-coord) via a [new issue](https://github.com/w3c/whatwg-coord/issues/new).
+* Update Slack, Matrix, calendar invites, and the above list of representatives.
+* Get a WHATWG administrator to:
+  * Update the [sg GitHub team](https://github.com/whatwg/meta/blob/main/GITHUB-TEAMS.md).
+  * Update the email address.
