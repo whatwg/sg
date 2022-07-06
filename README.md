@@ -67,3 +67,4 @@ Workstream Participant Agreement which is maintained as
 * Get a WHATWG administrator to:
   * Update the [sg GitHub team](https://github.com/whatwg/meta/blob/main/GITHUB-TEAMS.md).
   * Update the email address.
+  * The organization that makes the change needs to make sure [`entities.json`](https://github.com/whatwg/participant-data/blob/main/entities.json) in [whatwg/participant-data](https://github.com/whatwg/participant-data) is up-to-date.
