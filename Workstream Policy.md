@@ -322,20 +322,23 @@ case-by-case basis by the [Steering Group].
 [Other Publications] published by the WHATWG bear text to be determined by the
 [Steering Group].
 
-### Notice for Translations
+### Notice for translations
 
-WHATWG [Living Standards][Living Standard] are under a permissive license that allows
-independent translations. WHATWG recommends the following notice for translations, including the link:
+The WHATWG [Living Standards][Living Standard] are under a permissive license that allows
+independent translations. The WHATWG recommends the following notice for translations, including the
+links:
 
-> This is a translation of X, which is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft).
+> This is a translation of the <var>X</var> Standard, which is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Copyright © WHATWG (Apple, Google, Mozilla, Microsoft).
 
-In the above text, X should be replaced with the name of the translated [Living
-Standard], and should be made a link pointing the the original. YEAR should be replaced by the current year.
+In the text above, "<var>X</var> Standard" should link to the translated [Living Standard] and
+<var>X</var> should be replaced with its name.
 
-In addition, WHATWG recommends the a notice similar to the following, translated into the language of the translation:
-> This is a non-normative translation. Developers should refer to the Living Standard for the latest corrections and for normative requirements.
+In addition, the WHATWG recommends a notice similar to the following, translated into the language
+of the translation:
 
-In the text above, "Living Standard" should link to the corresponding [Living Standard].
+> This translation is non-normative. The Living Standard contains the normative requirements and might be newer.
+
+In the text above, "Living Standard" should link to the translated [Living Standard].
 
 ### Notice for Repositories
 
