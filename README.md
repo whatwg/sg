@@ -58,7 +58,7 @@ Workstream Participant Agreement which is maintained as
 * Anne van Kesteren (Apple) [@annevk](https://github.com/annevk)
 * Chris Wilson (Google) [@cwilso](https://github.com/cwilso)
 * Tantek Çelik (Mozilla) [@tantek](https://github.com/tantek)
-* Travis Leithead (Microsoft) [@travisleithead](https://github.com/travisleithead)
+* Ben Mathwig (Microsoft) [@bmathwig](https://github.com/bmathwig)
 
 ### Changing a Steering Group representative
 
