@@ -56,7 +56,7 @@ Workstream Participant Agreement which is maintained as
 ## Steering Group representatives
 
 * Anne van Kesteren (Apple) [@annevk](https://github.com/annevk)
-* Ben Mathwig (Microsoft) [@bmathwig](https://github.com/bmathwig)
+* Diego González (Microsoft) [@diekus](https://github.com/diekus)
 * Chris Wilson (Google) [@cwilso](https://github.com/cwilso)
 * Tantek Çelik (Mozilla) [@tantek](https://github.com/tantek)
 
