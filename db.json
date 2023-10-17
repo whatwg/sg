@@ -529,6 +529,31 @@
             8
           ],
           "twitter": "urlstandard"
+        },
+        {
+          "name": "URL Pattern",
+          "href": "https://urlpattern.spec.whatwg.org/",
+          "description": "The URL Pattern Standard provides a web platform primitive for matching URLs based on a convenient pattern syntax.",
+          "authors": [
+            {
+              "name": "Ben Kelly",
+              "email": "wanderview@chromium.org"
+            },
+            {
+              "name": "Jeremy Roman",
+              "email": "jbroman@chromium.org"
+            },
+            {
+              "name": "Shunya Shishido",
+              "email": "sisidovski@chromium.org"
+            }
+          ],
+          "reference": "URLPATTERN",
+          "review_draft_schedule": [
+            3,
+            9
+          ],
+          "twitter": "urlpatternapi"
         }
       ]
     },
