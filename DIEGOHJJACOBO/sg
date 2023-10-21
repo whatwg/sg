@@ -1,0 +1,12 @@
+//callback function
+function jsonpcallback(data) {
+  //do stuff with JSON
+  console.log(data);
+}
+
+//create HTML script tag
+var script = document.createElement('script');
+script.src = "http://remote.domain.com/data/?callback=jsonpcallback&id=123"
+
+//inject script tag into head
+document.getElementsByTagName('head')[0].appendChild(script);
