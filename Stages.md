@@ -73,8 +73,8 @@ Stage Name
 * Identification of the feature's champion.
 * Identification of a relevant WHATWG Workstream and Standard that will host the feature, and notification of the Workstream Editor(s).
    </td>
-   <td>* Consensus that the problem is worth solving, and is within the scope of the WHATWG.
-<p>
+   <td>
+* Consensus that the problem is worth solving, and is within the scope of the WHATWG.
 * Commitment from the spec community to do work on the specification, which includes: review the spec and discussion about API improvements and adjustments.
 * The WHATWG commits to hosting a specification draft in a repository or branch (if the champion requests it).
    </td>
