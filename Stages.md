@@ -67,23 +67,18 @@ Stage Name
 <p>
 (Incubation)
    </td>
-   <td>A comprehensive explainer for the feature, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.
-<p>
-Consensus that the WHATWG is interested in exploring solutions in this problem space.
-<p>
-(At least) one implementer interested in doing prototyping work.
-<p>
-Identification of the feature's champion. \
- \
-Identification of a relevant WHATWG Workstream and Standard that will host the feature, and notification of the Workstream Editor(s).
+   <td>* A comprehensive explainer for the feature, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.
+* Consensus that the WHATWG is interested in exploring solutions in this problem space.
+* (At least) one implementer interested in doing prototyping work.
+* Identification of the feature's champion.
+* Identification of a relevant WHATWG Workstream and Standard that will host the feature, and notification of the Workstream Editor(s).
    </td>
-   <td>Consensus that the problem is worth solving, and is within the scope of the WHATWG.
+   <td>* Consensus that the problem is worth solving, and is within the scope of the WHATWG.
 <p>
-Commitment from the spec community to do work on the specification, which includes: review the spec and discussion about API improvements and adjustments. \
- \
-The WHATWG commits to hosting a specification draft in a repository or branch (if the champion requests it).
+* Commitment from the spec community to do work on the specification, which includes: review the spec and discussion about API improvements and adjustments.
+* The WHATWG commits to hosting a specification draft in a repository or branch (if the champion requests it).
    </td>
-   <td>The explainer follows the guidelines at <a href="https://tag.w3.org/explainers/">https://tag.w3.org/explainers/</a>.
+   <td>* The explainer follows the guidelines at <a href="https://tag.w3.org/explainers/">https://tag.w3.org/explainers/</a>.
    </td>
   </tr>
   <tr>
