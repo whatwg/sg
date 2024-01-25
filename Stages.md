@@ -57,9 +57,9 @@ Stage Name
    </td>
    <td>(None)
    </td>
-   <td>That the proposer intends to use the stage process to work on their idea, with the goal of it landing in WHATWG Living Standard(s).
+   <td><ul><li>That the proposer intends to use the stage process to work on their idea, with the goal of it landing in WHATWG Living Standard(s).</ul>
    </td>
-   <td>An explainer describing the  user/developer problem to be solved, including sketching use cases and scenarios. This explainer can exist anywhere, including e.g. a GitHub issue, or a personal repository.
+   <td><ul><li>An explainer describing the  user/developer problem to be solved, including sketching use cases and scenarios. This explainer can exist anywhere, including e.g. a GitHub issue, or a personal repository.</ul>
    </td>
   </tr>
   <tr>
@@ -67,18 +67,18 @@ Stage Name
 <p>
 (Incubation)
    </td>
-   <td>* A comprehensive explainer for the feature, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.
-* Consensus that the WHATWG is interested in exploring solutions in this problem space.
-* (At least) one implementer interested in doing prototyping work.
-* Identification of the feature's champion.
-* Identification of a relevant WHATWG Workstream and Standard that will host the feature, and notification of the Workstream Editor(s).
+   <td><ul><li>A comprehensive explainer for the feature, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.</li>
+<li>Consensus that the WHATWG is interested in exploring solutions in this problem space.</li>
+<li>(At least) one implementer interested in doing prototyping work.</li>
+<li>Identification of the feature's champion.</li>
+<li>Identification of a relevant WHATWG Workstream and Standard that will host the feature, and notification of the Workstream Editor(s).</li></ul>
    </td>
    <td>
-<ul><li>Consensus that the problem is worth solving, and is within the scope of the WHATWG.
-<li>Commitment from the spec community to do work on the specification, which includes: review the spec and discussion about API improvements and adjustments.
-<li>The WHATWG commits to hosting a specification draft in a repository or branch (if the champion requests it).</li>ul>
+<ul><li>Consensus that the problem is worth solving, and is within the scope of the WHATWG.</li>
+<li>Commitment from the spec community to do work on the specification, which includes: review the spec and discussion about API improvements and adjustments.</li>
+<li>The WHATWG commits to hosting a specification draft in a repository or branch (if the champion requests it).</li></ul>
    </td>
-   <td>* The explainer follows the guidelines at <a href="https://tag.w3.org/explainers/">https://tag.w3.org/explainers/</a>.
+   <td><ul><li>The explainer follows the guidelines at <a href="https://tag.w3.org/explainers/">https://tag.w3.org/explainers/</a>.</li></ul>
    </td>
   </tr>
   <tr>
@@ -86,16 +86,13 @@ Stage Name
 <p>
 (Iteration)
    </td>
-   <td>A draft specification for the feature, in a standards organization-approved incubation venue (see stage 1).
-<p>
-Consensus that the rough API shape defined in the draft specification is the right approach to solve the problem, pending any significant problems found during this stage.
+   <td><ul><li>A draft specification for the feature, in a standards organization-approved incubation venue (see stage 1).</li>
+<li>Consensus that the rough API shape defined in the draft specification is the right approach to solve the problem, pending any significant problems found during this stage.</li></ul>
    </td>
-   <td>The WHATWG expects the feature to be developed and eventually included in the relevant WHATWG standard.
-<p>
-This stage also demonstrates commitment from the spec community to review the specification, and commitment from the champion to drive the addition of comprehensive tests, ideally with a prototype in at least one browser engine. \
-
+   <td><ul><li>The WHATWG expects the feature to be developed and eventually included in the relevant WHATWG standard.</li>
+<li>This stage also demonstrates commitment from the spec community to review the specification, and commitment from the champion to drive the addition of comprehensive tests, ideally with a prototype in at least one browser engine.</li></ul>
    </td>
-   <td>The draft specification uses Web IDL to define any new JavaScript APIs, roughly matches the style of the standard it's expected to merge into, and has a processing model, including full algorithms. However, there may be rough edges or TODOs in the processing model.
+   <td><ul><li>The draft specification uses Web IDL to define any new JavaScript APIs, roughly matches the style of the standard it's expected to merge into, and has a processing model, including full algorithms. However, there may be rough edges or TODOs in the processing model.</li></ul>
    </td>
   </tr>
   <tr>
@@ -103,31 +100,26 @@ This stage also demonstrates commitment from the spec community to review the sp
 <p>
 (Committed)
    </td>
-   <td>Complete spec text.
-<p>
-Support of at least two implementers to land the feature in the standard, pending editorial revisions.
-<p>
-During this stage, a PR to the relevant WHATWG Living Standard will be created.
+   <td><ul><li>Complete spec text.</li>
+<li>Support of at least two implementers to land the feature in the standard, pending editorial revisions.</li>
+<li>During this stage, a PR to the relevant WHATWG Living Standard will be created.</li></ul>
    </td>
-   <td>The solution is complete and no further work is possible without implementation experience, significant usage and external feedback.
-<p>
-Any substantial design changes from the spec draft after reaching this stage should be highlighted in a way that gives all involved browser engines a chance to comment.
-<p>
-An Editor of the relevant WHATWG Living Standard will perform a full review of the PR to add the feature, with an expectation of landing soon.
+   <td><ul><li>The solution is complete and no further work is possible without implementation experience, significant usage and external feedback.</li>
+<li>Any substantial design changes from the spec draft after reaching this stage should be highlighted in a way that gives all involved browser engines a chance to comment.</li>
+<li>An Editor of the relevant WHATWG Living Standard will perform a full review of the PR to add the feature, with an expectation of landing soon.</li></ul>
    </td>
-   <td>Spec is complete: all semantics, syntax and API are fully described. (It may still have small issues that will be identified by editor review during this stage.)
-<p>
-Full specification and comprehensive tests are completed; pull request template is filled out with all checkboxes checked.
+   <td><ul><li>Spec is complete: all semantics, syntax and API are fully described. (It may still have small issues that will be identified by editor review during this stage.)</li>
+<li>Full specification and comprehensive tests are completed; pull request template is filled out with all checkboxes checked.</li></ul>
    </td>
   </tr>
   <tr>
    <td>Stage 4 (Standard)
    </td>
-   <td>Editor’s comments on PR have all been resolved, and the PR for the feature has been merged by the Editor.
+   <td><ul><li>Editor’s comments on PR have all been resolved, and the PR for the feature has been merged by the Editor.</li></ul>
    </td>
-   <td>The PR has been approved to <a href="https://whatwg.org/working-mode#changes">change</a> a WHATWG Living Standard.
+   <td><ul><li>The PR has been approved to <a href="https://whatwg.org/working-mode#changes">change</a> a WHATWG Living Standard.</li></ul>
    </td>
-   <td>The feature is merged into the WHATWG Living Standard.
+   <td><ul><li>The feature is merged into the WHATWG Living Standard.</li></ul>
    </td>
   </tr>
 </table>
