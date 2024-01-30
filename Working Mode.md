@@ -49,7 +49,11 @@ Additions to the standard can also be proposed as issues. However, the process f
 
 ### Non-normative issues
 
-Changes of editorial nature can be made, accepted, or rejected by the editor without discussion.
+Changes of editorial nature, or which only impact non-normative text, can be made, accepted, or rejected by the editor without discussion.
+
+The same applies for changes which are (in the editor's judgement) obvious bug fixes, where the standard failed to reflect the clearly-intended behavior in its normative text.
+
+EXAMPLE: Some representative cases of such "obvious bug fixes" are [restoring an accidentally-deleted step](https://github.com/whatwg/html/pull/9980), [correcting a value to match the declared IDL type signature](https://github.com/whatwg/urlpattern/pull/213), or [passing a value through the algorithms that expect it](https://github.com/whatwg/streams/pull/1300).
 
 ## Changes
 
