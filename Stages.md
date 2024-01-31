@@ -4,7 +4,9 @@ The WHATWG's "document reality" approach has been effective for nailing down [fu
 
 The stage process described here is an additional tool designed to help provide a clear on-ramp for incubation efforts for contributors who aren't already editors, especially for additions to existing specs.  Stages are an optional, opt-in process that a feature proposer can use if they want to get more formal signals about how their feature is progressing. It asks for explicit implementer involvement at multiple stages, starting from notification that the problem is being worked on, then sign-off on the rough API and specification, and finally agreement on the full specification text. 
 
-Stage signals are also useful to the broader community, helping developers monitor the proposals that are moving through the various stages.  By explicitly signaling a proposal's progress, including implementer involvement, the community has a better idea of what is going on in WHATWG-land.  This tool is generally used for medium-to-large new features; it's not expected that explicit stage progression will be used for every feature.
+Stage signals are also useful to the broader community, helping developers monitor the proposals that are moving through the various stages.  By explicitly signaling a proposal's progress, including implementer involvement, the community has a better idea of what is going on in the WHATWG.
+
+This tool is generally used for medium-to-large new features; it's not expected that explicit stage progression will be used for every feature.
 
 # Details
 
