@@ -1,4 +1,4 @@
-# Stages - a tool for encouraging attention to incubation features
+# Stages
 
 The WHATWG's "document reality" approach has been effective for nailing down [fundamental parts of the platform](https://spec.whatwg.org/) and improving interoperability and developer satisfaction. However, our process can sometimes be daunting for newcomers, who don't know how to reliably get implementer feedback or editor time commitment. This can discourage contributions, and it can lead to frustration when implementer/editor feedback arrives late in the process after the contributor feels "close to done".
 
@@ -14,11 +14,11 @@ This document formalizes some signal checkpoints for new features in existing WH
 
 ## Terminology
 
-* _Stage_: each successive stage is closer to a landed spec and interoperable implementation.  These stages are tracked on the issues in the relevant WHATWG GitHub repository, using labels ("stage 0", "stage 1", etc.)
-* _Browser engine_: an independent implementation of the web platform (e.g. Chromium, WebKit and Gecko at present).
-* _Implementation interest_: a direct signal from a browser engine that a feature is on the roadmap to implement, as defined in [working mode](https://whatwg.org/working-mode#additions)].
-* _Browser engine representatives_: persons delegated by a browser engine to indicate implementation interest.
-* _Proposal champion_: person/organization that proposed and will advance a feature through the stages, typically including writing the specification, researching use cases, and prototyping.
+* <dfn>Stage</dfn>: each successive stage is closer to a landed spec and interoperable implementation.  These stages are tracked on the issues in the relevant WHATWG GitHub repository, using labels ("stage 0", "stage 1", etc.)
+* <dfn>Browser engine</dfn>: an independent implementation of the web platform (e.g. Chromium, WebKit and Gecko at present).
+* <dfn>Implementation interest</dfn>: a direct signal from a browser engine that a feature is on the roadmap to implement, as defined in [working mode](https://whatwg.org/working-mode#additions)].
+* <dfn>Browser engine representatives</dfn>: persons delegated by a browser engine to indicate implementation interest.
+* <dfn>Proposal champion</dfn>: person/organization that proposed and will advance a feature through the stages, typically including writing the specification, researching use cases, and prototyping.
 
 ## Process
 
@@ -41,17 +41,20 @@ This document formalizes some signal checkpoints for new features in existing WH
     * The browser engine representatives may review proposals and decide to regress stages—for example, if implementer support has been retracted for a particular solution (regressing from stage 3 to stage 2), or even if support has been retracted for solving the problem (i.e. a regression from stage 2 to stage 1). This situation is expected to be unusual, and should come with a very strong justification.
 
 <table>
+ <thead>
   <tr>
-   <td>
+   <th>
 Stage Name
-   </td>
-   <td>Entrance criteria
-   </td>
-   <td>This stage signifies
-   </td>
-   <td>Spec quality at entrance
-   </td>
+   </th>
+   <th>Entrance criteria
+   </th>
+   <th>This stage signifies
+   </th>
+   <th>Spec quality at entrance
+   </th>
   </tr>
+ </thead>
+ <tbody>
   <tr>
    <td>Stage 0
 <p>
@@ -124,4 +127,5 @@ Stage Name
    <td><ul><li>The feature is merged into the WHATWG Living Standard.</li></ul>
    </td>
   </tr>
+ </tbody>
 </table>
