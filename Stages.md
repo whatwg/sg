@@ -20,7 +20,7 @@ This document formalizes some signal checkpoints for new features in existing WH
 * _Browser engine representatives_: persons delegated by a browser engine to indicate implementation interest.
 * _Proposal champion_: person/organization that proposed and will advance a feature through the stages, typically including writing the specification, researching use cases, and prototyping.
 
-Process:
+## Process
 
 * Any proposal effectively starts at Stage 0 without any approvals, by a community member filing a new issue on a relevant WHATWG spec.
 * In order to drive a proposal forward, it is expected that a community member will step up to champion the proposal, through answering questions asynchronously, providing feedback when requested, and consideration of important open questions at triage meetings.
