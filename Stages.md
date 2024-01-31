@@ -14,7 +14,7 @@ This document formalizes some signal checkpoints for new features in existing WH
 
 Terminology:
 
-* _Stage_: each successive stage is closer to a landed spec and interoperable implementation.  These stages are tracked on the issues in the relevant WHATWG Github repository, using labels ("stage 0", "stage 1", etc.)
+* _Stage_: each successive stage is closer to a landed spec and interoperable implementation.  These stages are tracked on the issues in the relevant WHATWG GitHub repository, using labels ("stage 0", "stage 1", etc.)
 * _Browser engine_: an independent implementation of the web platform (e.g. Chromium, WebKit and Gecko at present).
 * _Implementation interest_: a direct signal from a browser engine that a feature is on the roadmap to implement, as defined in [working mode](https://whatwg.org/working-mode#additions)].
 * _Browser engine representatives_: persons delegated by a browser engine to indicate implementation interest.
