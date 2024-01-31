@@ -12,7 +12,7 @@ This tool is generally used for medium-to-large new features; it's not expected 
 
 This document formalizes some signal checkpoints for new features in existing WHATWG Living Standards. These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/process-document/), which uses the concept of _stages_. Each subsequent stage implies a larger degree of consensus from the community, willingness to engage and/or implement and ship the feature in browser engines, and signals progress to web developers.  These checkpoints are not required for all features; this is simply a way to ensure that attention is appropriately drawn to incubations that have grown community support behind them.
 
-Terminology:
+## Terminology
 
 * _Stage_: each successive stage is closer to a landed spec and interoperable implementation.  These stages are tracked on the issues in the relevant WHATWG GitHub repository, using labels ("stage 0", "stage 1", etc.)
 * _Browser engine_: an independent implementation of the web platform (e.g. Chromium, WebKit and Gecko at present).
