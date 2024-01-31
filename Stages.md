@@ -10,7 +10,7 @@ This tool is generally used for medium-to-large new features; it's not expected 
 
 # Details
 
-This document formalizes some signal checkpoints for new features in existing WHATWG specs. These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/process-document/), which uses the concept of _stages_. Each subsequent stage implies a larger degree of consensus from the community, willingness to engage, and/or intent to implement and ship the feature in browser engines, and signals progress to web developers.  These checkpoints are not required for all features; this is simply a way to ensure that attention is appropriately drawn to incubations that have grown community support behind them.
+This document formalizes some signal checkpoints for new features in existing WHATWG Living Standards. These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/process-document/), which uses the concept of _stages_. Each subsequent stage implies a larger degree of consensus from the community, willingness to engage and/or implement and ship the feature in browser engines, and signals progress to web developers.  These checkpoints are not required for all features; this is simply a way to ensure that attention is appropriately drawn to incubations that have grown community support behind them.
 
 Terminology:
 
