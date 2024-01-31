@@ -55,6 +55,8 @@ The same applies for changes which are (in the editor's judgement) obvious bug f
 
 EXAMPLE: Some representative cases of such "obvious bug fixes" are [restoring an accidentally-deleted step](https://github.com/whatwg/html/pull/9980), [correcting a value to match the declared IDL type signature](https://github.com/whatwg/urlpattern/pull/213), or [passing a value through the algorithms that expect it](https://github.com/whatwg/streams/pull/1300).
 
+NOTE: if implementations disagree on a behavior, then even if the correct fix feels obvious, it's better to start a wider discussion and take the fix through the normative change process.
+
 ## Changes
 
 Each normative change made to the standard needs to meet the following criteria:
