@@ -8,6 +8,7 @@
 ./Privacy%20Policy.md=privacy-policy
 ./Policies.md=policies
 ./Working%20Mode.md=working-mode
+./Stages.md=stages
 ./db.json=https://github.com/whatwg/sg/blob/main/db.json
 ./ThirdPartyNotices/W3CLicenses.md=https://github.com/whatwg/sg/blob/main/ThirdPartyNotices/W3CLicenses.md
 ./LICENSE=https://github.com/whatwg/sg/blob/main/LICENSE
