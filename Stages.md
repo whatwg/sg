@@ -24,8 +24,10 @@ This document formalizes some signal checkpoints for new features in existing WH
 
 * Any proposal effectively starts at Stage 0 without any approvals, by a community member filing a new issue on a relevant WHATWG spec.
 * In order to drive a proposal forward, it is expected that a community member will step up to champion the proposal, through answering questions asynchronously, providing feedback when requested, and consideration of important open questions at triage meetings.
+* Anyone can review and submit feedback on Contributions.
 * Stage level is tracked with labels on issues in the relevant specifications — “stage 0”, “stage 1”, etc.
 * Stage labels (other than stage 0) should only be added by browser engine representatives, or by Editors on the relevant specification, after showing the necessary support for a level.
+* This process is subject to and governed by [WHATWG Policies](https://whatwg.org/policies), including the [Intellectual Property Rights Policy](https://whatwg.org/ipr-policy).
 * **Advancing stages**
     * The feature champion should bring the proposal to the WHATWG to advance to the next stage by setting an “Agenda+” label on the tracking issue, and showing up to (or ensuring someone will show up to) the next triage meeting to discuss. Advancing to a new stage requires support for the decision by at least two implementers (via their browser engine representatives), and there should not be any strong implementer objections ([per the working mode](https://whatwg.org/working-mode#additions)). This support can also be gathered in any public manner, e.g. GitHub issue comments, triage meetings, etc. 
     * Positive support to advance a stage does **not** imply:
