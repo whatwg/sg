@@ -6,7 +6,7 @@ The stage process described here is an additional policy tool designed to help p
 
 Stage signals are also useful to the broader community, helping developers monitor the proposals that are moving through the various stages.  By explicitly signaling a proposal's progress, including implementer involvement, the community has a better idea of what is going on in the WHATWG.
 
-This tool is generally used for medium-to-large new features; it's not expected that explicit stage progression will be used for every feature.
+This tool is generally used for medium-to-large Contributions; it's not expected that explicit stage progression will be used for every Contribution.
 
 # Details
 
