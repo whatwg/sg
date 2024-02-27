@@ -6,11 +6,7 @@ Stages are an optional, opt-in process that a feature proposer can use if they w
 
 Stage signals are also useful to the broader community, helping web developers monitor the Contribuions that are moving through the various stages.  By explicitly signaling a Contribution's progress, including implementer involvement, the community has a better idea of what is going on in the WHATWG.
 
-This tool is generally used for medium-to-large Contributions; it's not expected that explicit stage progression will be used for every Contribution.
-
-# Details
-
-This document formalizes some signal checkpoints for new features in existing WHATWG Living Standards. These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/process-document/), which uses the concept of _stages_. Each subsequent stage implies a larger degree of consensus from the community, willingness to engage and/or implement and ship the feature in browser engines, and signals progress to web developers.  These checkpoints are not required for all features; this is simply a way to ensure that attention is appropriately drawn to incubations that have grown community support behind them.
+These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/process-document/), which uses the concept of _stages_. Each subsequent stage implies a larger degree of consensus from the community, willingness to engage and/or implement and ship the feature in browser engines, and signals progress to web developers.  These checkpoints are not required for all features; this is simply a way to ensure that attention is appropriately drawn to incubations that have grown community support behind them.  This tool is generally used for medium-to-large Contributions; it's not expected that explicit stage progression will be used for every Contribution.
 
 ## Terminology
 
