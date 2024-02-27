@@ -10,7 +10,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
 
 ## Terminology
 
-* <dfn>Stage</dfn>: each successive stage is closer to a landed spec and interoperable implementation.  These stages are tracked on the issues in the relevant WHATWG GitHub repository, using labels ("stage 0", "stage 1", etc.)
+* <dfn>Stage</dfn>: each successive stage is closer to an integrated Contribution and interoperable implementation.  These stages are tracked on the issues in the relevant WHATWG GitHub repository, using labels ("stage 0", "stage 1", etc.)
 * <dfn>Browser engine</dfn>: an independent implementation of the web platform (i.e., Chromium, Gecko, and WebKit at present).
 * <dfn>Implementation interest</dfn>: a direct signal from a browser engine that a feature is on the roadmap to implement, as defined in [working mode](https://whatwg.org/working-mode#additions)].
 * <dfn>Browser engine representatives</dfn>: persons delegated by a browser engine to indicate implementation interest.
