@@ -67,7 +67,7 @@ Stage Name
 <p>
 (Incubation)
    </td>
-   <td><ul><li>A comprehensive explainer for the [Contribution](./IPR%20Policy.md#21-contribution), in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.</li>
+   <td><ul><li>A comprehensive explainer for the Contribution, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.</li>
 <li>Consensus that the WHATWG is interested in exploring solutions in this problem space.</li>
 <li>(At least) one implementer interested in doing prototyping work.</li>
 <li>Identification of the [Contributor](./IPR%20Policy.md#contributor).</li>
@@ -86,7 +86,7 @@ Stage Name
 <p>
 (Iteration)
    </td>
-   <td><ul><li>A draft specification for the Contribution, in a standards organization-approved incubation venue (see stage 1).</li>
+   <td><ul><li>A draft specification for the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a>, in a standards organization-approved incubation venue (see stage 1).</li>
 <li>Consensus that the rough API shape defined in the draft specification is the right approach to solve the problem, pending any significant problems found during this stage.</li></ul>
    </td>
    <td><ul><li>The WHATWG expects the Contribution to be developed and eventually included in the relevant WHATWG standard.</li>
