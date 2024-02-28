@@ -27,7 +27,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
         * Commitment to eventually support a subsequent stage
         * That the particular solution approach at the time of the signal or support will be the one eventually standardized (unless the advancement is to the Standardized stage)
     * A negative response to advancing a stage does **not** imply:
-        * That the feature cannot continue in its current stage
+        * That the Contribution cannot continue in its current stage
         * That a future request for support to advance a stage with a revised solution won’t succeed
         * That all browsers will delay shipping the feature
         * That the feature cannot continue to be incubated outside of the WHATWG
@@ -67,11 +67,11 @@ Stage Name
 <p>
 (Incubation)
    </td>
-   <td><ul><li>A comprehensive explainer for the feature, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.</li>
+   <td><ul><li>A comprehensive explainer for the Contribution, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.</li>
 <li>Consensus that the WHATWG is interested in exploring solutions in this problem space.</li>
 <li>(At least) one implementer interested in doing prototyping work.</li>
 <li>Identification of the Contributor.</li>
-<li>Identification of a relevant WHATWG Workstream and Standard that will host the feature, and notification of the Workstream Editor(s).</li></ul>
+<li>Identification of a relevant WHATWG Workstream and Standard that will host the Contribution, and notification of the Workstream Editor(s).</li></ul>
    </td>
    <td>
 <ul><li>Consensus that the problem is worth solving, and is within the scope of the WHATWG.</li>
@@ -86,10 +86,10 @@ Stage Name
 <p>
 (Iteration)
    </td>
-   <td><ul><li>A draft specification for the feature, in a standards organization-approved incubation venue (see stage 1).</li>
+   <td><ul><li>A draft specification for the Contribution, in a standards organization-approved incubation venue (see stage 1).</li>
 <li>Consensus that the rough API shape defined in the draft specification is the right approach to solve the problem, pending any significant problems found during this stage.</li></ul>
    </td>
-   <td><ul><li>The WHATWG expects the feature to be developed and eventually included in the relevant WHATWG standard.</li>
+   <td><ul><li>The WHATWG expects the Contribution to be developed and eventually included in the relevant WHATWG standard.</li>
 <li>This stage also demonstrates commitment from the spec community to review the specification, and commitment from the Contributor to drive the addition of comprehensive tests, ideally with a prototype in at least one browser engine.</li></ul>
    </td>
    <td><ul><li>The draft specification uses Web IDL to define any new JavaScript APIs, roughly matches the style of the standard it's expected to merge into, and has a processing model, including full algorithms. However, there may be rough edges or TODOs in the processing model.</li></ul>
@@ -101,12 +101,12 @@ Stage Name
 (Committed)
    </td>
    <td><ul><li>Complete spec text.</li>
-<li>Support of at least two implementers to land the feature in the standard, pending editorial revisions.</li>
+<li>Support of at least two implementers to land the Contribution in the standard, pending editorial revisions.</li>
 <li>During this stage, a PR to the relevant WHATWG Living Standard will be created.</li></ul>
    </td>
    <td><ul><li>The solution is complete and no further work is possible without implementation experience, significant usage and external feedback.</li>
 <li>Any substantial design changes from the spec draft after reaching this stage should be highlighted in a way that gives all involved browser engines a chance to comment.</li>
-<li>An Editor of the relevant WHATWG Living Standard will perform a full review of the PR to add the feature, with an expectation of landing soon.</li></ul>
+<li>An Editor of the relevant WHATWG Living Standard will perform a full review of the PR to add the Contribution, with an expectation of landing soon.</li></ul>
    </td>
    <td><ul><li>Spec is complete: all semantics, syntax and API are fully described. (It may still have small issues that will be identified by editor review during this stage.)</li>
 <li>Full specification and comprehensive tests are completed; pull request template is filled out with all checkboxes checked.</li></ul>
@@ -115,11 +115,11 @@ Stage Name
   <tr>
    <td>Stage 4 (Standard)
    </td>
-   <td><ul><li>Editor’s comments on PR have all been resolved, and the PR for the feature has been merged by the Editor.</li></ul>
+   <td><ul><li>Editor’s comments on PR have all been resolved, and the PR for the Contribution has been merged by the Editor.</li></ul>
    </td>
    <td><ul><li>The PR has been approved to <a href="https://whatwg.org/working-mode#changes">change</a> a WHATWG Living Standard.</li></ul>
    </td>
-   <td><ul><li>The feature is merged into the WHATWG Living Standard.</li></ul>
+   <td><ul><li>The Contribution is merged into the WHATWG Living Standard.</li></ul>
    </td>
   </tr>
  </tbody>
