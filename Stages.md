@@ -10,7 +10,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
 
 * <dfn>Stage</dfn>: each successive stage is closer to an integrated Contribution and interoperable implementation. These stages are tracked on the issues in the relevant WHATWG GitHub repository, using labels ("stage 0", "stage 1", etc.)
 * <dfn>Browser engine</dfn>: an independent implementation of the web platform (i.e., Chromium, Gecko, and WebKit at present).
-* <dfn>Implementation interest</dfn>: a direct signal from a browser engine that a feature is on the roadmap to implement, as defined in the [Working Mode](https://whatwg.org/working-mode#additions)].
+* <dfn>Implementation interest</dfn>: a direct signal from a browser engine that a feature is on the roadmap to implement, as defined in the [Working Mode](./Working%20Mode.md#additions)].
 * <dfn>Browser engine representatives</dfn>: persons delegated by a browser engine to indicate implementation interest.
 
 ## Process
@@ -20,9 +20,9 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
 * Anyone can review and submit feedback on Contributions.
 * Stage level is tracked with labels on issues in the relevant specifications — “stage 0”, “stage 1”, etc.
 * Stage labels (other than stage 0) should only be added by browser engine representatives, or by Editors on the relevant specification, after showing the necessary support for a level.
-* This process is subject to and governed by [WHATWG Policies](https://whatwg.org/policies), including the [Intellectual Property Rights Policy](https://whatwg.org/ipr-policy).
+* This process is subject to and governed by [WHATWG Policies](./Policies.md), including the [Intellectual Property Rights Policy](./IPR%20Policy.md).
 * **Advancing stages**
-    * The Contributor should bring the Contribution to the WHATWG to advance to the next stage by setting an “Agenda+” label on the tracking issue, and showing up to (or ensuring someone will show up to) the next triage meeting to discuss. Advancing to a new stage requires support for the decision by at least two implementers (via their browser engine representatives), and there should not be any strong implementer objections ([per the working mode](https://whatwg.org/working-mode#additions)). This support can also be gathered in any public manner, e.g. GitHub issue comments, triage meetings, etc. 
+    * The Contributor should bring the Contribution to the WHATWG to advance to the next stage by setting an “Agenda+” label on the tracking issue, and showing up to (or ensuring someone will show up to) the next triage meeting to discuss. Advancing to a new stage requires support for the decision by at least two implementers (via their browser engine representatives), and there should not be any strong implementer objections ([per the working mode](./Working%20Mode.md#additions). This support can also be gathered in any public manner, e.g. GitHub issue comments, triage meetings, etc. 
     * Positive support to advance a stage does **not** imply:
         * Commitment to eventually support a subsequent stage
         * That the particular solution approach at the time of the signal or support will be the one eventually standardized (unless the advancement is to the Standardized stage)
