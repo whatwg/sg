@@ -15,14 +15,14 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
 
 ## Process
 
-* Any proposal effectively starts at Stage 0 without any approvals, by a community member filing a new issue on a relevant WHATWG spec.
-* In order to drive a proposal forward, it is expected that the Contributor will champion the proposal, through answering questions asynchronously, providing feedback when requested, and consideration of important open questions at triage meetings.
+* Any Contribution effectively starts at Stage 0 without any approvals, by a community member filing a new issue on a relevant WHATWG spec.
+* It is expected that the Contributor will champion the Contribution, through answering questions asynchronously, providing feedback when requested, and consideration of important open questions at triage meetings.
 * Anyone can review and submit feedback on Contributions.
 * Stage level is tracked with labels on issues in the relevant specifications — “stage 0”, “stage 1”, etc.
 * Stage labels (other than stage 0) should only be added by browser engine representatives, or by Editors on the relevant specification, after showing the necessary support for a level.
 * This process is subject to and governed by [WHATWG Policies](https://whatwg.org/policies), including the [Intellectual Property Rights Policy](https://whatwg.org/ipr-policy).
 * **Advancing stages**
-    * The Contributor should bring the proposal to the WHATWG to advance to the next stage by setting an “Agenda+” label on the tracking issue, and showing up to (or ensuring someone will show up to) the next triage meeting to discuss. Advancing to a new stage requires support for the decision by at least two implementers (via their browser engine representatives), and there should not be any strong implementer objections ([per the working mode](https://whatwg.org/working-mode#additions)). This support can also be gathered in any public manner, e.g. GitHub issue comments, triage meetings, etc. 
+    * The Contributor should bring the Contribution to the WHATWG to advance to the next stage by setting an “Agenda+” label on the tracking issue, and showing up to (or ensuring someone will show up to) the next triage meeting to discuss. Advancing to a new stage requires support for the decision by at least two implementers (via their browser engine representatives), and there should not be any strong implementer objections ([per the working mode](https://whatwg.org/working-mode#additions)). This support can also be gathered in any public manner, e.g. GitHub issue comments, triage meetings, etc. 
     * Positive support to advance a stage does **not** imply:
         * Commitment to eventually support a subsequent stage
         * That the particular solution approach at the time of the signal or support will be the one eventually standardized (unless the advancement is to the Standardized stage)
@@ -31,9 +31,9 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
         * That a future request for support to advance a stage with a revised solution won’t succeed
         * That all browsers will delay shipping the feature
         * That the feature cannot continue to be incubated outside of the WHATWG
-    * A proposal can advance directly to later stages without going through the earlier stages, if it's already mature enough and has sufficient support to do so.
+    * A Contribution can advance directly to later stages without going through the earlier stages, if it's already mature enough and has sufficient support to do so.
 * **Regressing stages**
-    * The browser engine representatives may review proposals and decide to regress stages—for example, if implementer support has been retracted for a particular solution (regressing from stage 3 to stage 2), or even if support has been retracted for solving the problem (i.e. a regression from stage 2 to stage 1). This situation is expected to be unusual, and should come with a very strong justification.
+    * The browser engine representatives may review Contributions and decide to regress stages—for example, if implementer support has been retracted for a particular solution (regressing from stage 3 to stage 2), or even if support has been retracted for solving the problem (i.e. a regression from stage 2 to stage 1). This situation is expected to be unusual, and should come with a very strong justification.
 
 <table>
  <thead>
