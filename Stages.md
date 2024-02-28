@@ -8,7 +8,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
 
 ## Terminology
 
-* <dfn>Stage</dfn>: each successive stage is closer to an integrated [Contribution](./IPR%20Policy.md#21-contribution) and interoperable implementation. These stages are tracked on the issues in the relevant WHATWG GitHub repository, using labels ("stage 0", "stage 1", etc.). The stages are described in Stages overview below.
+* <dfn>Stage</dfn>: each successive stage is closer to an integrated [Contribution](./IPR%20Policy.md#21-contribution) and interoperable implementation. These stages are tracked on the issues in the relevant WHATWG GitHub repository, using labels ("stage 0", "stage 1", etc.). The stages are described in the Stages overview below.
 * <dfn>Browser engine</dfn>: an independent implementation of the web platform (i.e., Chromium, Gecko, and WebKit at present).
 * <dfn>Implementation interest</dfn>: a direct signal from a browser engine that a feature is on the roadmap to implement, as defined in the [Working Mode](./Working%20Mode.md#additions)].
 * <dfn>Browser engine representatives</dfn>: persons delegated by a browser engine to indicate implementer interest.
@@ -33,14 +33,14 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
         * That the feature cannot continue to be incubated outside of the WHATWG.
     * A [Contribution](./IPR%20Policy.md#21-contribution) can advance directly to later stages without going through the earlier stages, if it's already mature enough and has sufficient support to do so.
 * **Regressing stages**
-    * The browser engine representatives may review [Contributions](./IPR%20Policy.md#21-contribution) and decide to regress stages—for example, if implementer support has been retracted for a particular solution (regressing from stage 3 to stage 2), or even if support has been retracted for solving the problem (i.e., a regression from stage 2 to stage 1). This situation is expected to be unusual, and should come with a very strong justification.
+    * The browser engine representatives may review [Contributions](./IPR%20Policy.md#21-contribution) and decide to regress stages — for example, if implementer support has been retracted for a particular solution (regressing from stage 3 to stage 2), or even if support has been retracted for solving the problem (i.e., a regression from stage 2 to stage 1). This situation is expected to be unusual, and should come with a very strong justification.
 
 ## Stages overview
 
 <table>
  <thead>
   <tr>
-   <th>Stage Name
+   <th>Name
    <th>Entrance criteria
    <th>This stage signifies
    <th>Specification quality at entrance
@@ -48,7 +48,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
  <tbody>
   <tr>
    <td>Stage 0<br>(Proposal)
-   <td>&mdash;
+   <td>—
    <td>
     <ul>
      <li>That the proposer intends to use the stage process to work on their idea, with the goal of it landing in WHATWG Living Standard(s).
