@@ -67,16 +67,16 @@ Stage Name
 <p>
 (Incubation)
    </td>
-   <td><ul><li>A comprehensive explainer for the Contribution, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.</li>
+   <td><ul><li>A comprehensive explainer for the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a>, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.</li>
 <li>Consensus that the WHATWG is interested in exploring solutions in this problem space.</li>
 <li>(At least) one implementer interested in doing prototyping work.</li>
-<li>Identification of the [Contributor](./IPR%20Policy.md#contributor).</li>
-<li>Identification of a relevant WHATWG Workstream and Standard that will host the Contribution, and notification of the Workstream Editor(s).</li></ul>
+<li>Identification of the <a href="./IPR%20Policy.md#contributor">Contributor</a>.</li>
+<li>Identification of a relevant WHATWG Workstream and Standard that will host the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a>, and notification of the Workstream Editor(s).</li></ul>
    </td>
    <td>
 <ul><li>Consensus that the problem is worth solving, and is within the scope of the WHATWG.</li>
 <li>Commitment from the spec community to do work on the specification, which includes: review the spec and discussion about API improvements and adjustments.</li>
-<li>The WHATWG commits to hosting a specification draft in a repository or branch (if the [Contributor](./IPR%20Policy.md#contributor) requests it).</li></ul>
+<li>The WHATWG commits to hosting a specification draft in a repository or branch (if the <a href="./IPR%20Policy.md#contributor">Contributor</a> requests it).</li></ul>
    </td>
    <td><ul><li>The explainer follows the guidelines at <a href="https://tag.w3.org/explainers/">https://tag.w3.org/explainers/</a>.</li></ul>
    </td>
@@ -89,8 +89,8 @@ Stage Name
    <td><ul><li>A draft specification for the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a>, in a standards organization-approved incubation venue (see stage 1).</li>
 <li>Consensus that the rough API shape defined in the draft specification is the right approach to solve the problem, pending any significant problems found during this stage.</li></ul>
    </td>
-   <td><ul><li>The WHATWG expects the Contribution to be developed and eventually included in the relevant WHATWG standard.</li>
-<li>This stage also demonstrates commitment from the spec community to review the specification, and commitment from the [Contributor](./IPR%20Policy.md#contributor) to drive the addition of comprehensive tests, ideally with a prototype in at least one browser engine.</li></ul>
+   <td><ul><li>The WHATWG expects the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a> to be developed and eventually included in the relevant WHATWG standard.</li>
+<li>This stage also demonstrates commitment from the spec community to review the specification, and commitment from the <a href="./IPR%20Policy.md#contributor">Contributor</a> to drive the addition of comprehensive tests, ideally with a prototype in at least one browser engine.</li></ul>
    </td>
    <td><ul><li>The draft specification uses Web IDL to define any new JavaScript APIs, roughly matches the style of the standard it's expected to merge into, and has a processing model, including full algorithms. However, there may be rough edges or TODOs in the processing model.</li></ul>
    </td>
@@ -101,7 +101,7 @@ Stage Name
 (Committed)
    </td>
    <td><ul><li>Complete spec text.</li>
-<li>Support of at least two implementers to land the Contribution in the standard, pending editorial revisions.</li>
+<li>Support of at least two implementers to land the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a> in the standard, pending editorial revisions.</li>
 <li>During this stage, a PR to the relevant WHATWG Living Standard will be created.</li></ul>
    </td>
    <td><ul><li>The solution is complete and no further work is possible without implementation experience, significant usage and external feedback.</li>
@@ -115,11 +115,11 @@ Stage Name
   <tr>
    <td>Stage 4 (Standard)
    </td>
-   <td><ul><li>Editor’s comments on PR have all been resolved, and the PR for the Contribution has been merged by the Editor.</li></ul>
+   <td><ul><li>Editor’s comments on PR have all been resolved, and the PR for the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a> has been merged by the Editor.</li></ul>
    </td>
    <td><ul><li>The PR has been approved to <a href="https://whatwg.org/working-mode#changes">change</a> a WHATWG Living Standard.</li></ul>
    </td>
-   <td><ul><li>The Contribution is merged into the WHATWG Living Standard.</li></ul>
+   <td><ul><li>The <a href="./IPR%20Policy.md#21-contribution)">Contribution</a> is merged into the WHATWG Living Standard.</li></ul>
    </td>
   </tr>
  </tbody>
