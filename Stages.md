@@ -1,6 +1,6 @@
 # Stages
 
-The WHATWG's approach to "documenting reality" is ideal for nailing down [fundamental parts of the platform](https://spec.whatwg.org/) and improving interoperability and developer satisfaction. It can sometimes be daunting for newcomers, who don't know how to reliably get implementer feedback or editor time commitment. The WHATWG Stages process is an optional, opt-in process that a feature proposer can use if they want to get more formal signals about how their feature is progressing, to help new and established Contributors get more streamlined feedback on their Contributions. This tool is generally used for medium-to-large Contributions; it's not expected that explicit stage progression will be used for every Contribution.
+The WHATWG's approach to "documenting reality" is ideal for nailing down [fundamental parts of the platform](https://spec.whatwg.org/) and improving interoperability and developer satisfaction. It can sometimes be daunting for newcomers, who don't know how to reliably get implementer feedback or editor time commitment. The WHATWG Stages process is an optional, opt-in process that both new and established Contributors can use if they want to get more formal signals on support for their Contribution. This tool is generally used for medium-to-large Contributions; it's not expected that explicit stage progression will be used for every Contribution.
 
 Stages asks for explicit implementer involvement at multiple stages, starting from notification that the problem is being worked on, then sign-off on the rough API and specification, and finally agreement on the full specification text. This is Stage signals are also useful to the broader community, helping web developers monitor the Contribuions that are moving through the various stages. By explicitly signaling a Contribution's progress, including implementer involvement, the community has a better idea of what is going on in the WHATWG.
 
@@ -12,18 +12,17 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
 * <dfn>Browser engine</dfn>: an independent implementation of the web platform (i.e., Chromium, Gecko, and WebKit at present).
 * <dfn>Implementation interest</dfn>: a direct signal from a browser engine that a feature is on the roadmap to implement, as defined in the [Working Mode](https://whatwg.org/working-mode#additions)].
 * <dfn>Browser engine representatives</dfn>: persons delegated by a browser engine to indicate implementation interest.
-* <dfn>Proposal champion</dfn>: person/organization that proposed and will advance a feature through the stages, typically including writing the specification, researching use cases, and prototyping.
 
 ## Process
 
 * Any proposal effectively starts at Stage 0 without any approvals, by a community member filing a new issue on a relevant WHATWG spec.
-* In order to drive a proposal forward, it is expected that a community member will step up to champion the proposal, through answering questions asynchronously, providing feedback when requested, and consideration of important open questions at triage meetings.
+* In order to drive a proposal forward, it is expected that the Contributor will champion the proposal, through answering questions asynchronously, providing feedback when requested, and consideration of important open questions at triage meetings.
 * Anyone can review and submit feedback on Contributions.
 * Stage level is tracked with labels on issues in the relevant specifications — “stage 0”, “stage 1”, etc.
 * Stage labels (other than stage 0) should only be added by browser engine representatives, or by Editors on the relevant specification, after showing the necessary support for a level.
 * This process is subject to and governed by [WHATWG Policies](https://whatwg.org/policies), including the [Intellectual Property Rights Policy](https://whatwg.org/ipr-policy).
 * **Advancing stages**
-    * The feature champion should bring the proposal to the WHATWG to advance to the next stage by setting an “Agenda+” label on the tracking issue, and showing up to (or ensuring someone will show up to) the next triage meeting to discuss. Advancing to a new stage requires support for the decision by at least two implementers (via their browser engine representatives), and there should not be any strong implementer objections ([per the working mode](https://whatwg.org/working-mode#additions)). This support can also be gathered in any public manner, e.g. GitHub issue comments, triage meetings, etc. 
+    * The Contributor should bring the proposal to the WHATWG to advance to the next stage by setting an “Agenda+” label on the tracking issue, and showing up to (or ensuring someone will show up to) the next triage meeting to discuss. Advancing to a new stage requires support for the decision by at least two implementers (via their browser engine representatives), and there should not be any strong implementer objections ([per the working mode](https://whatwg.org/working-mode#additions)). This support can also be gathered in any public manner, e.g. GitHub issue comments, triage meetings, etc. 
     * Positive support to advance a stage does **not** imply:
         * Commitment to eventually support a subsequent stage
         * That the particular solution approach at the time of the signal or support will be the one eventually standardized (unless the advancement is to the Standardized stage)
@@ -71,13 +70,13 @@ Stage Name
    <td><ul><li>A comprehensive explainer for the feature, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.</li>
 <li>Consensus that the WHATWG is interested in exploring solutions in this problem space.</li>
 <li>(At least) one implementer interested in doing prototyping work.</li>
-<li>Identification of the feature's champion.</li>
+<li>Identification of the Contributor.</li>
 <li>Identification of a relevant WHATWG Workstream and Standard that will host the feature, and notification of the Workstream Editor(s).</li></ul>
    </td>
    <td>
 <ul><li>Consensus that the problem is worth solving, and is within the scope of the WHATWG.</li>
 <li>Commitment from the spec community to do work on the specification, which includes: review the spec and discussion about API improvements and adjustments.</li>
-<li>The WHATWG commits to hosting a specification draft in a repository or branch (if the champion requests it).</li></ul>
+<li>The WHATWG commits to hosting a specification draft in a repository or branch (if the Contributor requests it).</li></ul>
    </td>
    <td><ul><li>The explainer follows the guidelines at <a href="https://tag.w3.org/explainers/">https://tag.w3.org/explainers/</a>.</li></ul>
    </td>
@@ -91,7 +90,7 @@ Stage Name
 <li>Consensus that the rough API shape defined in the draft specification is the right approach to solve the problem, pending any significant problems found during this stage.</li></ul>
    </td>
    <td><ul><li>The WHATWG expects the feature to be developed and eventually included in the relevant WHATWG standard.</li>
-<li>This stage also demonstrates commitment from the spec community to review the specification, and commitment from the champion to drive the addition of comprehensive tests, ideally with a prototype in at least one browser engine.</li></ul>
+<li>This stage also demonstrates commitment from the spec community to review the specification, and commitment from the Contributor to drive the addition of comprehensive tests, ideally with a prototype in at least one browser engine.</li></ul>
    </td>
    <td><ul><li>The draft specification uses Web IDL to define any new JavaScript APIs, roughly matches the style of the standard it's expected to merge into, and has a processing model, including full algorithms. However, there may be rough edges or TODOs in the processing model.</li></ul>
    </td>
