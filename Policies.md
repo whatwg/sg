@@ -14,6 +14,7 @@ WHATWG participants operate under a number of policies:
 * [Invited Individual Policy](./Invited%20Individual%20Policy.md)
 * [Code of Conduct](./Code%20of%20Conduct.md)
 * [Working Mode](./Working%20Mode.md)
+* [Stages](./Stages.md)
 
 Additionally, the WHATWG Steering Group was created by the [Steering Group Agreement](./SG%20Agreement.md) and operates under the [Steering Group Policy](./SG%20Policy.md).
 
