@@ -115,7 +115,7 @@ In such scenarios we anticipate features will be “incubated” outside of WHAT
 
 In all cases, features that hope to graduate to a WHATWG standard should strive to follow the above guidelines, gather appropriate implementer commitments, and have corresponding tests.
 
-Additionally, those maintaining such proposals should try to involve the WHATWG community, for example by filing an issue on the standard they anticipate eventually becoming a part of. We also have the optional [Stages](Stages.md) process to help gather attention on proposals as they progress.
+Additionally, those maintaining such proposals should try to involve the WHATWG community, for example by filing an issue on the standard they anticipate eventually becoming a part of. We also have the optional [Stages](stages.md) process to help gather attention on proposals as they progress.
 
 NOTE: Overall, this process of incubation can be very lightweight, such as filing a pull request on the appropriate WHATWG standard with a proposal, and gathering appropriate implementer support there. Or it could be more involved, such as creating a separate repository at another venue and iterating for a long time there.
 
