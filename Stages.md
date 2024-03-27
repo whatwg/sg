@@ -61,11 +61,11 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
    <td>Stage 1<br>(Incubation)
    <td>
     <ul>
-     <li>A comprehensive explainer for the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a>, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.
+     <li>A comprehensive explainer for the <a href="./IPR%20Policy.md#21-contribution">Contribution</a>, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.
      <li>Consensus that the WHATWG is interested in exploring solutions in this problem space.
      <li>(At least) one implementer interested in doing prototyping work.
      <li>Identification of the <a href="./IPR%20Policy.md#contributor">Contributor</a>.
-     <li>Identification of a relevant WHATWG Workstream and Standard that will host the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a>, and notification of the Workstream Editor(s).
+     <li>Identification of a relevant WHATWG Workstream and Standard that will host the <a href="./IPR%20Policy.md#21-contribution">Contribution</a>, and notification of the Workstream Editor(s).
     </ul>
    <td>
     <ul>
@@ -81,12 +81,12 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
    <td>Stage 2<br>(Iteration)
    <td>
     <ul>
-     <li>A draft specification for the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a>, in a standards organization-approved incubation venue (see stage 1).
+     <li>A draft specification for the <a href="./IPR%20Policy.md#21-contribution">Contribution</a>, in a standards organization-approved incubation venue (see stage 1).
      <li>Consensus that the rough API shape defined in the draft specification is the right approach to solve the problem, pending any significant problems found during this stage.
     </ul>
    <td>
     <ul>
-     <li>The WHATWG expects the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a> to be developed and eventually included in the relevant WHATWG standard.
+     <li>The WHATWG expects the <a href="./IPR%20Policy.md#21-contribution">Contribution</a> to be developed and eventually included in the relevant WHATWG standard.
      <li>This stage also demonstrates commitment from the community to review the specification, and commitment from the <a href="./IPR%20Policy.md#contributor">Contributor</a> to drive the addition of comprehensive tests, ideally with a prototype in at least one browser engine.
     </ul>
    <td>
@@ -98,14 +98,14 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
    <td>
     <ul>
      <li>Complete specification text.
-     <li>Support of at least two implementers to land the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a> in the standard, pending editorial revisions.
+     <li>Support of at least two implementers to land the <a href="./IPR%20Policy.md#21-contribution">Contribution</a> in the standard, pending editorial revisions.
      <li>During this stage, a PR to the relevant WHATWG Living Standard will be created.
     </ul>
    <td>
     <ul>
      <li>The solution is complete and no further work is possible without implementation experience, significant usage and external feedback.
      <li>Any substantial design changes from the specification draft after reaching this stage should be highlighted in a way that gives all involved browser engines a chance to comment.
-     <li>An Editor of the relevant WHATWG Living Standard will perform a full review of the pull request to add the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a>, with an expectation of landing soon.
+     <li>An Editor of the relevant WHATWG Living Standard will perform a full review of the pull request to add the <a href="./IPR%20Policy.md#21-contribution">Contribution</a>, with an expectation of landing soon.
     </ul>
    <td>
     <ul>
@@ -116,7 +116,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
    <td>Stage 4 (Standard)  
    <td>
     <ul>
-     <li>Editor’s comments on the pull request have all been resolved, and the pull request for the <a href="./IPR%20Policy.md#21-contribution)">Contribution</a> has been merged by the Editor.
+     <li>Editor’s comments on the pull request have all been resolved, and the pull request for the <a href="./IPR%20Policy.md#21-contribution">Contribution</a> has been merged by the Editor.
     </ul>
    <td>
     <ul>
@@ -124,7 +124,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
     </ul>
    <td>
     <ul>
-     <li>The <a href="./IPR%20Policy.md#21-contribution)">Contribution</a> is merged into the WHATWG Living Standard.
+     <li>The <a href="./IPR%20Policy.md#21-contribution">Contribution</a> is merged into the WHATWG Living Standard.
     </ul>
  </tbody>
 </table>
