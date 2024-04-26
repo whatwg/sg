@@ -47,7 +47,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
  </thead>
  <tbody>
   <tr>
-   <td>Stage 0<br>(Proposal)
+   <td id="stage0">Stage 0<br>(Proposal)
    <td>—
    <td>
     <ul>
@@ -58,7 +58,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
      <li>An explainer describing the problem to be solved, including sketching use cases and scenarios. This explainer can exist anywhere, including in a GitHub issue or a personal repository.
     </ul>
   <tr>
-   <td>Stage 1<br>(Incubation)
+   <td id="stage1">Stage 1<br>(Incubation)
    <td>
     <ul>
      <li>A comprehensive explainer for the <a href="./IPR%20Policy.md#21-contribution">Contribution</a>, in a standards organization-approved incubation venue such as a <a href="https://www.w3.org/community/groups/">W3C CG</a> or a branch of an existing WHATWG Standard.
@@ -78,7 +78,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
      <li>The explainer follows the guidelines at <a href="https://tag.w3.org/explainers/">https://tag.w3.org/explainers/</a>.
     </ul>
   <tr>
-   <td>Stage 2<br>(Iteration)
+   <td id="stage2">Stage 2<br>(Iteration)
    <td>
     <ul>
      <li>A draft specification for the <a href="./IPR%20Policy.md#21-contribution">Contribution</a>, in a standards organization-approved incubation venue (see stage 1).
@@ -94,7 +94,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
      <li>The draft specification uses Web IDL to define any new JavaScript APIs, roughly matches the style of the standard it's expected to merge into, and has a processing model, including full algorithms. However, there may be rough edges or TODOs in the processing model.
     </ul>
   <tr>
-   <td>Stage 3<br>(Committed)
+   <td id="stage3">Stage 3<br>(Committed)
    <td>
     <ul>
      <li>Complete specification text.
@@ -113,7 +113,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
      <li>Full specification and comprehensive tests are completed; pull request template is filled out with all checkboxes checked.
     </ul>
   <tr>
-   <td>Stage 4 (Standard)  
+   <td id="stage4">Stage 4 (Standard)  
    <td>
     <ul>
      <li>Editor’s comments on the pull request have all been resolved, and the pull request for the <a href="./IPR%20Policy.md#21-contribution">Contribution</a> has been merged by the Editor.
