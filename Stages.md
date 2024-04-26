@@ -46,8 +46,8 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
    <th>Specification quality at entrance
  </thead>
  <tbody>
-  <tr>
-   <td id="stage0">Stage 0<br>(Proposal)
+  <tr id="stage0">
+   <td>Stage 0<br>(Proposal)
    <td>—
    <td>
     <ul>
