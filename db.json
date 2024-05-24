@@ -442,6 +442,27 @@
       ],
       "standards": [
         {
+          "name": "Compression",
+          "href": "https://compression.spec.whatwg.org/",
+          "description": "The Compression Standard provides APIs for compressing and decompressing bytes using a set of the most common compression algorithms.",
+          "authors": [
+            {
+              "name": "Adam Rice",
+              "email": "ricea@chromium.org"
+            },
+            {
+              "name": "Canon Mukai",
+              "email": "canonmukai@google.com"
+            }
+          ],
+          "reference": "COMPRESSION",
+          "review_draft_schedule": [
+            2,
+            8
+          ],
+          "twitter": "compressionstandard"
+        },
+        {
           "name": "Streams",
           "href": "https://streams.spec.whatwg.org/",
           "description": "The Streams Standard provides APIs for creating, composing, and consuming streams of data that map efficiently to low-level I/O primitives.",
@@ -469,27 +490,6 @@
             8
           ],
           "twitter": "streamsstandard"
-        },
-        {
-          "name": "Compression",
-          "href": "https://compression.spec.whatwg.org/",
-          "description": "The Compression Standard provides APIs for compressing and decompressing bytes using a set of the most common compression algorithms.",
-          "authors": [
-            {
-              "name": "Canon Mukai",
-              "email": "canonmukai@google.com"
-            },
-            {
-              "name": "Adam Rice",
-              "email": "ricea@chromium.org"
-            }
-          ],
-          "reference": "COMPRESSION",
-          "review_draft_schedule": [
-            2,
-            8
-          ],
-          "twitter": "compressionstandard"
         }
       ]
     },
