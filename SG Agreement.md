@@ -46,7 +46,7 @@ discretion.
 Each [Steering Group Member] may optionally appoint an individual
 "<a id="alternate-steering-group-representative">**Alternate Steering Group Representative**</a>". The
 [Steering Group Representative] may delegate any of their rights and responsibilities to the
-[Alternate Steering Group Representative] (except the ability to designate an alternate).
+[Alternate Steering Group Representative].
 
 ### 3.2. Functions
 
