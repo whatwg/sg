@@ -107,8 +107,8 @@ The [Steering Group] approves new [Workstreams][Workstream] and determines the [
 
 Trivial changes may be accepted without coverage from the agreement. A trivial change is one that fits one of the following categories:
 
-* Makes no changes to the visible text content (for example, fixing broken links, style sheets or markup), OR
-* Does not affect conformance (e.g. corrects a typographic error in a descriptive sentence), which should not change architectural or interoperability requirements for an implementation. Such changes should be small in scope (e.g., on the order of a few dozen characters changed at most); correcting non-normative code examples where the code clearly conflicts with normative requirements is fine, adding new non-normative code examples is not.
+* Makes no changes to the visible text content (for example, fixing broken links, style sheets or markup).
+* Does not affect conformance (e.g., corrects a typographic error in a descriptive sentence), which should not change architectural or interoperability requirements for an implementation. Such changes should be small in scope (e.g., on the order of a few dozen characters changed at most); correcting non-normative code examples where the code clearly conflicts with normative requirements is fine, adding new non-normative code examples is not.
 
 If there is any doubt or disagreement as to whether requirements are changed, such changes should not be considered trivial.
 
