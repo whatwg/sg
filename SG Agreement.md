@@ -43,6 +43,14 @@ its interests, cast votes, and otherwise represent the interests of the [Steerin
 [Steering Group Member] may replace its [Steering Group Representative] at any time in its sole
 discretion.
 
+Each [Steering Group Member] may optionally appoint an individual
+"<a id="alternate-steering-group-representative">**Alternate Steering Group Representative**</a>". The
+[Steering Group Representative] may delegate any of their rights and responsibilities to the
+[Alternate Steering Group Representative]. In the absence of the Steering Group Representative,
+the Alternate Steering Group Representative may perform any of the actions that the Steering
+Group Representative can perform as defined above. In the event that both take action, the actions
+of the Steering Group Representative supersede.
+
 ### 3.2. Functions
 
 #### A. Mission
@@ -223,6 +231,7 @@ this [Agreement] on behalf of the identified [Steering Group Member].
 [Steering Group]: ./SG%20Agreement.md#steering-group
 [Steering Group Member]: ./SG%20Agreement.md#steering-group-member
 [Steering Group Representative]: ./SG%20Agreement.md#steering-group-representative
+[Alternate Steering Group Representative]: ./SG%20Agreement.md#alternate-steering-group-representative
 [Supermajority]: ./SG%20Agreement.md#supermajority
 [WHATWG Principles]: ./Principles.md
 
