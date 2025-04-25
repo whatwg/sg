@@ -9,7 +9,7 @@ on:
 jobs:
   dispatch:
     name: Dispatch
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
     - run: |
         curl --retry 2 --fail -X POST \
