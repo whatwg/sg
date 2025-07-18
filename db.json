@@ -148,6 +148,20 @@
       ],
       "standards": [
         {
+          "name": "Cookie Store API",
+          "href": "https://wicg.github.io/cookie-store/",
+          "description": "An asynchronous Javascript cookies API for documents and service workers.",
+          "authors": [
+            {
+              "name": "Dylan Cutler",
+              "email": "dylancutler@google.com"
+            }
+          ],
+          "reference": "COOKIESTOREAPI",
+          "review_draft_schedule": [],
+          "twitter": "cookiestoreapi"
+        },
+        {
           "name": "Fetch",
           "href": "https://fetch.spec.whatwg.org/",
           "description": "The Fetch Standard defines the networking model for resource retrieval on the web.",
@@ -163,20 +177,6 @@
             12
           ],
           "twitter": "fetchstandard"
-        },
-        {
-          "name": "Cookie Store API",
-          "href": "https://wicg.github.io/cookie-store/",
-          "description": "An asynchronous Javascript cookies API for documents and service workers.",
-          "authors": [
-            {
-              "name": "Dylan Cutler",
-              "email": "dylancutler@google.com"
-            }
-          ],
-          "reference": "COOKIESTOREAPI",
-          "review_draft_schedule": [],
-          "twitter": "cookiestoreapi"
         }
       ]
     },
