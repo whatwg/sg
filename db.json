@@ -149,7 +149,7 @@
       "standards": [
         {
           "name": "Cookie Store API",
-          "href": "https://wicg.github.io/cookie-store/",
+          "href": "https://cookiestore.spec.whatwg.org/",
           "description": "An asynchronous Javascript cookies API for documents and service workers.",
           "authors": [
             {
@@ -157,7 +157,7 @@
               "email": "dylancutler@google.com"
             }
           ],
-          "reference": "COOKIESTOREAPI",
+          "reference": "COOKIESTORE",
           "review_draft_schedule": [],
           "twitter": "cookiestoreapi"
         },
