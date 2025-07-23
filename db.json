@@ -158,7 +158,10 @@
             }
           ],
           "reference": "COOKIESTORE",
-          "review_draft_schedule": [],
+          "review_draft_schedule": [
+            4,
+            10
+          ],
           "twitter": "cookiestoreapi"
         },
         {
