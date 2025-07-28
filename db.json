@@ -150,7 +150,7 @@
         {
           "name": "Cookie Store API",
           "href": "https://cookiestore.spec.whatwg.org/",
-          "description": "An asynchronous Javascript cookies API for documents and service workers.",
+          "description": "An asynchronous JavaScript cookies API for documents and service workers.",
           "authors": [
             {
               "name": "Dylan Cutler",
