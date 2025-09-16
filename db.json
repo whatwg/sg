@@ -457,8 +457,8 @@
       "scope": "Web APIs for creating, composing, and consuming streams of data that map efficiently to low-level I/O primitives.",
       "editors": [
         {
-          "name": "Domenic Denicola",
-          "email": "d@domenic.me"
+          "name": "Mattias Buelens",
+          "email": "mattias@buelens.com"
         }
       ],
       "standards": [
