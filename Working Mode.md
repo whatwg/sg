@@ -100,6 +100,20 @@ Any change that represents a removal needs to meet these additional criteria:
 
   EXAMPLE: Adjusting existing tests can be difficult. If necessary, an issue can be filed instead to track updating those tests. This was done in [w3c/web-platform-tests#5053](https://github.com/w3c/web-platform-tests/issues/5053) which accompanied the removal in [whatwg/html#2402](https://github.com/whatwg/html/pull/2402).
 
+### Risky changes
+
+Some changes have compatibility risks, which can make it hard to tell whether they'll succeed before they have shipped across multiple implementations.
+
+To balance between having the standard reflect agreed-upon changes, and avoiding prematurely making changes that might need to be reverted, the following guidelines are recommended:
+
+* If multiple implementers are making the changes to their implementations with the intent to ship, then it's best to merge the change into the standard, assuming success. If the change turns out not to be web-compatible, it can later be reverted.
+
+  EXAMPLE: [Escape "<" and ">" when serializing attribute values](https://github.com/whatwg/html/pull/6362) was merged once it became clear that all implementations were moving toward shipping, even before the change had reached any implementation's stable channel.
+
+* If multiple implementers are supportive of the change, but only a single implementation is taking the lead by shipping it, then it's best to wait until there's at least one deployed implementation that's seen significant user testing before merging into the standard.
+
+  EXAMPLE: [Removing mutation events](https://github.com/whatwg/html/pull/10573) had support from all implementations, but was not merged until Chromium had shipped the behavior to its stable channel users [for a month](https://github.com/whatwg/dom/issues/305#issuecomment-2302407051). Even then, we kept the tracking issue open until [Chromium removed some mechanisms](https://github.com/whatwg/dom/issues/305#issuecomment-2779845660) that allowed sites to opt back in to mutation events.
+
 ## New proposals
 
 As described above, the criteria for inclusion in a WHATWG standard is rather strict. In the initial stages of feature development for the web platform, such widespread implementer support is often not available, or the shape of a feature is not yet clear enough for implementers to feel comfortable pledging their support.
