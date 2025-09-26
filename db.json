@@ -219,8 +219,8 @@
       "scope": "A kitchen sink full of technologies for the web, including the core markup language for the web, HTML, as well as numerous APIs like Web Sockets, Web Workers, `localStorage`, etc.",
       "editors": [
         {
-          "name": "Domenic Denicola",
-          "email": "d@domenic.me"
+          "name": "Simon Pieters",
+          "email": "zcorpan@gmail.com"
         }
       ],
       "standards": [
