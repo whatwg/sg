@@ -57,7 +57,7 @@ Workstream Participant Agreement which is maintained as
 
 * Anne van Kesteren (Apple) [@annevk](https://github.com/annevk) (Alternate: Theresa O’Connor [@hober](https://github.com/hober))
 * Chris Wilson (Google) [@cwilso](https://github.com/cwilso) (Alternate: Jeffrey Yasskin [@jyasskin](https://github.com/jyasskin))
-* Diego González (Microsoft) [@diekus](https://github.com/diekus)
+* Leo Lee (Microsoft) [@leotlee](https://github.com/leotlee)
 * Tantek Çelik (Mozilla) [@tantek](https://github.com/tantek) (Alternate: Simon Pieters [@zcorpan](https://github.com/zcorpan))
 
 ### Changing a Steering Group representative
