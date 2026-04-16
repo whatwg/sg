@@ -375,6 +375,104 @@
       ]
     },
     {
+      "id": "peripherals",
+      "name": "Peripheral APIs",
+      "scope": "APIs for web pages to use for local peripheral connectivity standards.",
+      "editors": [
+        {
+          "name": "Reilly Grant",
+          "email": "reillyg@google.com"
+        }
+      ],
+      "standards": [
+        {
+          "name": "WebSerial",
+          "href": "https://serial.spec.whatwg.org/",
+          "description": "The WebSerial Standard defines an API for web applications to provide user access to peripherals via the serial port standard.",
+          "authors": [
+            {
+              "name": "Reilly Grant",
+              "email": "reillyg@google.com"
+            }
+          ],
+          "reference": "WEBSERIAL",
+          "review_draft_schedule": [
+            6,
+            12
+          ],
+          "twitter": ""
+        },
+        {
+          "name": "WebUSB",
+          "href": "https://usb.spec.whatwg.org/",
+          "description": "The WebUSB Standard defines an API for web applications to provide user access to peripherals via the USB standard.",
+          "authors": [
+            {
+              "name": "Reilly Grant",
+              "email": "reillyg@google.com"
+            }
+          ],
+          "reference": "WEBUSB",
+          "review_draft_schedule": [
+            6,
+            12
+          ],
+          "twitter": ""
+        },
+        {
+          "name": "WebHID",
+          "href": "https://hid.spec.whatwg.org/",
+          "description": "The WebHID Standard defines an API for web applications to provide user access to peripherals via the HID standard.",
+          "authors": [
+            {
+              "name": "Reilly Grant",
+              "email": "reillyg@google.com"
+            }
+          ],
+          "reference": "WEBHID",
+          "review_draft_schedule": [
+            6,
+            12
+          ],
+          "twitter": ""
+        },
+        {
+          "name": "WebBluetooth",
+          "href": "https://bluetooth.spec.whatwg.org/",
+          "description": "The WebBluetooth Standard defines an API for web applications to provide user access to peripherals via the Bluetooth standard.",
+          "authors": [
+            {
+              "name": "Reilly Grant",
+              "email": "reillyg@google.com"
+            }
+          ],
+          "reference": "WEBBLUETOOTH",
+          "review_draft_schedule": [
+            6,
+            12
+          ],
+          "twitter": ""
+        },
+        {
+          "name": "WebNFC",
+          "href": "https://nfc.spec.whatwg.org/",
+          "description": "The WebNFC Standard defines an API for web applications to provide user access to peripherals via the NFC standard.",
+          "authors": [
+            {
+              "name": "Reilly Grant",
+              "email": "reillyg@google.com"
+            }
+          ],
+          "reference": "WEBNFC",
+          "review_draft_schedule": [
+            6,
+            12
+          ],
+          "twitter": ""
+        }
+      ]
+    },
+    {
       "id": "quirks",
       "name": "Quirks Mode",
       "scope": "Quirks in CSS and Selectors that are necessary to support for web browsers for compatibility with the web.",
