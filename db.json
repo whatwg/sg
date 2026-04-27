@@ -377,7 +377,7 @@
     {
       "id": "peripherals",
       "name": "Peripheral APIs",
-      "scope": "APIs for web pages to use for local peripheral connectivity standards.",
+      "scope": "APIs for web pages to use local peripheral connectivity standards.",
       "editors": [
         {
           "name": "Reilly Grant",
