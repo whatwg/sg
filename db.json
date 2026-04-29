@@ -382,6 +382,10 @@
         {
           "name": "Reilly Grant",
           "email": "reillyg@google.com"
+        },
+        {
+          "name": "Matt Reynolds",
+          "email": "mattreynolds@google.com"
         }
       ],
       "standards": [
@@ -408,8 +412,8 @@
           "description": "The WebHID Standard defines an API for web applications to provide user access to peripherals via the HID standard.",
           "authors": [
             {
-              "name": "Reilly Grant",
-              "email": "reillyg@google.com"
+              "name": "Matt Reynolds",
+              "email": "mattreynolds@google.com"
             }
           ],
           "reference": "WEBHID",
@@ -425,8 +429,8 @@
           "description": "The WebNFC Standard defines an API for web applications to provide user access to peripherals via the NFC standard.",
           "authors": [
             {
-              "name": "Reilly Grant",
-              "email": "reillyg@google.com"
+              "name": "Matt Reynolds",
+              "email": "mattreynolds@google.com"
             }
           ],
           "reference": "WEBNFC",
