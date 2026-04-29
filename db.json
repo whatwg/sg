@@ -443,7 +443,7 @@
         {
           "name": "WebSerial",
           "href": "https://serial.spec.whatwg.org/",
-          "description": "The WebSerial Standard defines an API for web applications to provide user access to peripherals via the serial port standard.",
+          "description": "The WebSerial Standard defines an API for web applications to provide user access to peripherals via standard serial interconnects such as RS-232 or RS-422 or emulations thereof over transports such as USB or Bluetooth.",
           "authors": [
             {
               "name": "Reilly Grant",
