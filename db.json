@@ -380,12 +380,12 @@
       "scope": "APIs for web pages to use local peripheral connectivity standards.",
       "editors": [
         {
-          "name": "Reilly Grant",
-          "email": "reillyg@google.com"
-        },
-        {
           "name": "Matt Reynolds",
           "email": "mattreynolds@google.com"
+        },
+        {
+          "name": "Reilly Grant",
+          "email": "reillyg@google.com"
         }
       ],
       "standards": [
