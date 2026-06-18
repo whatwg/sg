@@ -52,7 +52,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
    <td>Stage 0<a class="self-link" href="#stage0"></a><br>(Proposal)
    <td>
     <ul>
-     <li>An explainer describing the problem to be solved, including sketching use cases and scenarios. This explainer can exist anywhere, including in a GitHub issue or a personal repository.
+     <li>An explainer describing the problem to be solved, including use cases and scenarios. This explainer can exist anywhere, including in a GitHub issue or a personal repository.
     </ul>
    <td>
     <ul>
@@ -65,7 +65,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
     <ul>
      <li>A comprehensive explainer for the <a href="./IPR%20Policy.md#21-contribution">Contribution</a>, following <a href="https://w3ctag.github.io/explainer-explainer/">Writing Effective Explainers</a>.
      <li>Consensus that the WHATWG is interested in exploring solutions in this problem space.
-     <li>At least one implementer interested in doing prototyping work.
+     <li>Support of at least one implementer.
      <li>Identification of the <a href="./IPR%20Policy.md#contributor">Contributor</a>.
      <li>Identification of a relevant WHATWG Workstream and Standard that will host the <a href="./IPR%20Policy.md#21-contribution">Contribution</a>, and notification of the Workstream Editor(s).
     </ul>
@@ -73,7 +73,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
     <ul>
      <li>Consensus that the problem is worth solving, and is within the scope of the WHATWG.
      <li>Commitment from the community to do work on the specification, which includes: review the specification and discussion about API improvements and adjustments.
-     <li>The WHATWG commits to hosting a specification draft in a repository or branch (if the <a href="./IPR%20Policy.md#contributor">Contributor</a> requests it).
+     <li>The WHATWG identifies a suitable place for the draft, such as a GitHub repository or pull request.
     </ul>
    <td>—
   <tr id="stage2">
@@ -81,7 +81,8 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
    <td>
     <ul>
      <li>A draft specification for the <a href="./IPR%20Policy.md#21-contribution">Contribution</a>.
-     <li>Support of at least two implementers for the rough API shape defined in the draft specification, pending any significant problems found during this stage.
+     <li>Support of at least two implementers.
+     <li>Consensus that the rough API shape defined in the draft specification is the right approach to solve the problem, pending any significant problems found during this stage.
     </ul>
    <td>
     <ul>
