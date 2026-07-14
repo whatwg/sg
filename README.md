@@ -57,7 +57,7 @@ Workstream Participant Agreement which is maintained as
 
 * Anne van Kesteren (Apple) [@annevk](https://github.com/annevk) (Alternate: Theresa O’Connor [@hober](https://github.com/hober))
 * Johnny Stenback (Google) [@jstenback](https://github.com/jstenback) (Alternate: Tab Atkins-Bittner [@tabatkins](https://github.com/tabatkins))
-* Leo Lee (Microsoft) [@leotlee](https://github.com/leotlee)
+* Leo Lee (Microsoft) [@leotlee](https://github.com/leotlee) (Alternate: Michael Jackson [@mwjacksonmsft](https://github.com/mwjacksonmsft))
 * Tantek Çelik (Mozilla) [@tantek](https://github.com/tantek) (Alternate: Simon Pieters [@zcorpan](https://github.com/zcorpan))
 
 ### Changing a Steering Group representative
