@@ -401,8 +401,8 @@
           ],
           "reference": "WEBBLUETOOTH",
           "review_draft_schedule": [
-            6,
-            12
+            5,
+            11
           ],
           "twitter": ""
         },
@@ -418,8 +418,8 @@
           ],
           "reference": "WEBHID",
           "review_draft_schedule": [
-            6,
-            12
+            5,
+            11
           ],
           "twitter": ""
         },
@@ -435,8 +435,8 @@
           ],
           "reference": "WEBNFC",
           "review_draft_schedule": [
-            6,
-            12
+            5,
+            11
           ],
           "twitter": ""
         },
@@ -452,8 +452,8 @@
           ],
           "reference": "WEBSERIAL",
           "review_draft_schedule": [
-            6,
-            12
+            5,
+            11
           ],
           "twitter": ""
         },
@@ -469,8 +469,8 @@
           ],
           "reference": "WEBUSB",
           "review_draft_schedule": [
-            6,
-            12
+            5,
+            11
           ],
           "twitter": ""
         }
