@@ -61,7 +61,7 @@ NOTE: if implementations disagree on a behavior, then even if the correct fix fe
 
 Each normative change made to the standard needs to meet the following criteria:
 
-* It must have support from implementers.
+* It must have support from implementers. A positive standards position meets this bar, as do comments elsewhere by implementers.
 * It should have corresponding test changes, either in the form of new tests or modifications to existing tests.
 * Implementations bugs must be filed for each user agent that fails tests. (This is each user agent that doesn’t match the proposed changes. If the test changes are not adequate to reveal that, but it’s known through other means, the tests should be improved first.)
 * It should have been reviewed by one or more members of the community.
