@@ -12,7 +12,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
 
 * <dfn>Stage</dfn>: each successive stage is closer to an integrated [Contribution](./IPR%20Policy.md#21-contribution) and interoperable implementation. These stages are tracked on the issues in the relevant WHATWG GitHub repository, using labels (“stage: 0”, “stage: 1”, etc.). The stages are described in the Stages overview below.
 * <dfn>Browser engine</dfn>: an independent implementation of the web platform (i.e., Chromium, Gecko, and WebKit at present).
-* <dfn>Implementer interest</dfn>: a direct signal from a browser engine that a feature is on the roadmap to implement, as defined in the [Working Mode](./Working%20Mode.md#additions).
+* <dfn>Implementer interest</dfn>: a direct signal from a browser engine, as defined in the [Working Mode](./Working%20Mode.md#additions).
 * <dfn>Browser engine representatives</dfn>: persons delegated by a browser engine to indicate implementer interest.
 
 ## Process
