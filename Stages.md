@@ -2,11 +2,11 @@
 
 **See [all features using the Stages process](https://github.com/search?q=org%3Awhatwg+label%3A%22stage%3A+1%22%2C%22stage%3A+2%22%2C%22stage%3A+3%22%2C%22stage%3A+4%22&type=issues) and their current states.**
 
-The WHATWG’s approach to “documenting reality” is ideal for nailing down [fundamental parts of the platform](https://spec.whatwg.org/) and improving interoperability and developer satisfaction. It can sometimes be daunting for new [Contributors](./IPR%20Policy.md#contributor), who don’t know how to reliably get implementer feedback or editor time commitment. The WHATWG Stages process is an optional, opt-in process that both new and established [Contributors](./IPR%20Policy.md#contributor) can use if they want to get more formal signals on support for their [Contribution](./IPR%20Policy.md#21-contribution). This tool is generally used for medium-to-large [Contributions](./IPR%20Policy.md#21-contribution); it’s not expected to be used for each [Contribution](./IPR%20Policy.md#21-contribution).
+The WHATWG’s approach to “documenting reality” is ideal for nailing down [fundamental parts of the platform](https://spec.whatwg.org/) and improving interoperability and developer satisfaction. It can sometimes be daunting for new [Contributors](./IPR%20Policy.md#contributor), who don’t know how to reliably get implementer feedback or editor time commitment. The WHATWG Stages process is an optional, opt-in process that both new and established [Contributors](./IPR%20Policy.md#contributor) can use if they want to get more formal signals of support for their [Contribution](./IPR%20Policy.md#21-contribution). This tool is generally used for medium-to-large [Contributions](./IPR%20Policy.md#21-contribution); it’s not expected to be used for each [Contribution](./IPR%20Policy.md#21-contribution).
 
-Stages asks for explicit implementer involvement at multiple checkpoints, starting from notification that the problem is being worked on, then sign-off on the rough API and specification, and finally agreement on the full specification text. These checkpoints are also useful to the broader community, helping web developers monitor the [Contributions](./IPR%20Policy.md#21-contribution) that are moving through the various stages. By explicitly signaling a [Contribution](./IPR%20Policy.md#21-contribution)’s progress, including implementer involvement, the community has a better idea of what is going on in the WHATWG.
+Stages asks for explicit implementer involvement at multiple checkpoints, starting from notification that the problem is being worked on, then sign-off on the rough API and specification, and finally agreement on the full specification text. These checkpoints are also useful to the broader community, helping them monitor the [Contributions](./IPR%20Policy.md#21-contribution) that are moving through the various stages. By explicitly signaling a [Contribution](./IPR%20Policy.md#21-contribution)’s progress, including implementer involvement, the broader community has a better idea of what is going on in the WHATWG.
 
-These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/process-document/), which uses the concept of _stages_. Each subsequent stage implies a larger degree of consensus from the community, willingness to engage, implement, and eventually ship the feature in browser engines; and signals progress to web developers, drawing attention to incubations that have grown community support behind them.
+These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/process-document/), which uses the concept of _stages_. Each subsequent stage implies a larger degree of consensus within the WHATWG, and greater willingness among browser engines to engage, implement, and eventually ship the feature. Stages also signal progress to the broader community, drawing attention to incubations with growing WHATWG support.
 
 ## Terminology
 
@@ -17,11 +17,11 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
 
 ## Process
 
-* Any [Contribution](./IPR%20Policy.md#21-contribution) effectively starts at Stage 0 without any approvals, by a community member filing a new issue on a relevant WHATWG standard.
+* Any [Contribution](./IPR%20Policy.md#21-contribution) effectively starts at Stage 0 without any approvals, by anyone filing a new issue on a relevant WHATWG standard.
 * It is expected that the [Contributor](./IPR%20Policy.md#contributor) will champion the [Contribution](./IPR%20Policy.md#21-contribution), through answering questions asynchronously, providing feedback when requested, and consideration of important open questions at triage meetings.
 * Anyone can review and submit feedback on [Contributions](./IPR%20Policy.md#21-contribution).
 * Stage level is tracked with labels on issues on the relevant standard — “stage: 0”, “stage: 1”, etc.
-* Stage labels (other than Stage 0) should only be added by browser engine representatives, or by Editors of the relevant standard, once necessary support for a level has been demonstrated.
+* Stage labels (other than Stage 0) should only be added by browser engine representatives, or by Editors of the relevant standard, once necessary support for a stage has been demonstrated.
 * This process is subject to and governed by [WHATWG Policies](./Policies.md), including the [Intellectual Property Rights Policy](./IPR%20Policy.md).
 * **Advancing stages**
     * The [Contributor](./IPR%20Policy.md#contributor) should bring the [Contribution](./IPR%20Policy.md#21-contribution) to the WHATWG to advance to the next stage by setting an “Agenda+” label on the tracking issue, and showing up to (or ensuring someone will show up to) the next triage meeting to discuss. Advancing beyond Stage 1 requires support for the decision by at least two implementers (via their browser engine representatives), and there should not be any strong implementer objections ([per the Working Mode](./Working%20Mode.md#additions)). This support can also be gathered in any public manner, e.g., GitHub issue comments, triage meetings, etc.
@@ -72,7 +72,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
    <td>
     <ul>
      <li>Consensus that the problem is worth solving, and is within the scope of the WHATWG.
-     <li>Commitment from the community to do work on the specification, which includes: review the specification and discussion about API improvements and adjustments.
+     <li>Commitment from the WHATWG to do work on the specification, which includes: review the specification and discussion about API improvements and adjustments.
      <li>The WHATWG identifies a suitable place for the draft, such as a GitHub repository or pull request.
     </ul>
    <td>—
@@ -87,7 +87,7 @@ These checkpoints are modeled loosely on the [TC39 process](https://tc39.es/proc
    <td>
     <ul>
      <li>The WHATWG expects the <a href="./IPR%20Policy.md#21-contribution">Contribution</a> to be developed and eventually included in the relevant WHATWG standard.
-     <li>This stage also demonstrates commitment from the community to review the specification, and commitment from the <a href="./IPR%20Policy.md#contributor">Contributor</a> to drive the addition of comprehensive tests, ideally with a prototype in at least one browser engine.
+     <li>This stage also demonstrates commitment from the WHATWG to review the specification, and commitment from the <a href="./IPR%20Policy.md#contributor">Contributor</a> to drive the addition of comprehensive tests, ideally with a prototype in at least one browser engine.
     </ul>
    <td>
     <ul>
