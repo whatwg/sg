@@ -83,7 +83,7 @@ Any change that represents an addition needs to meet these additional criteria:
 
 Additionally, the following are strongly recommended:
 
-* The support from implementers should be of the form “we would like to implement this soon” and not just “this seems like a reasonable idea”.
+* The support from at least one of the implementers should be of the form “we would like to implement this soon” and not just “this seems like a reasonable idea”.
 * There should be no strong implementer objections to the new feature.
 * There should already be a prototype implementation or one being worked on side-by-side with the change to the standard.
 * New features should be something that cannot be done today or are such a common trend in libraries that standardizing them helps lots of people. Alternatively, the “new” feature could actually be a legacy feature that was not yet standardized, which is now being standardized. (Legacy features are often hard to remove due to web compatibility; standardizing and testing them helps improve interoperability and enables competition and refactoring.)
