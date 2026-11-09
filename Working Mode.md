@@ -61,7 +61,7 @@ NOTE: if implementations disagree on a behavior, then even if the correct fix fe
 
 Each normative change made to the standard needs to meet the following criteria:
 
-* It must have support from implementers.
+* It must have support from implementers. A positive standards position meets this bar, as do comments elsewhere by implementers.
 * It should have corresponding test changes, either in the form of new tests or modifications to existing tests.
 * Implementations bugs must be filed for each user agent that fails tests. (This is each user agent that doesn’t match the proposed changes. If the test changes are not adequate to reveal that, but it’s known through other means, the tests should be improved first.)
 * It should have been reviewed by one or more members of the community.
@@ -83,7 +83,7 @@ Any change that represents an addition needs to meet these additional criteria:
 
 Additionally, the following are strongly recommended:
 
-* The support from implementers should be of the form “we would like to implement this soon” and not just “this seems like a reasonable idea”.
+* The support from at least one of the implementers should be of the form “we would like to implement this soon” and not just “this seems like a reasonable idea”.
 * There should be no strong implementer objections to the new feature.
 * There should already be a prototype implementation or one being worked on side-by-side with the change to the standard.
 * New features should be something that cannot be done today or are such a common trend in libraries that standardizing them helps lots of people. Alternatively, the “new” feature could actually be a legacy feature that was not yet standardized, which is now being standardized. (Legacy features are often hard to remove due to web compatibility; standardizing and testing them helps improve interoperability and enables competition and refactoring.)
