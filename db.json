@@ -7,7 +7,8 @@
       "editors": [
         {
           "name": "Mike Taylor",
-          "email": "miketaylr@google.com"
+          "email": "miketaylr@google.com",
+          "github": "miketaylr"
         }
       ],
       "standards": [
@@ -18,7 +19,8 @@
           "authors": [
             {
               "name": "Mike Taylor",
-              "email": "miketaylr@google.com"
+              "email": "miketaylr@google.com",
+              "github": "miketaylr"
             }
           ],
           "reference": "COMPAT",
@@ -37,15 +39,18 @@
       "editors": [
         {
           "name": "Dominic Farolino",
-          "email": "domfarolino@gmail.com"
+          "email": "domfarolino@gmail.com",
+          "github": "domfarolino"
         },
         {
           "name": "Robert Kowalski",
-          "email": "rok@kowalski.gd"
+          "email": "rok@kowalski.gd",
+          "github": "robertkowalski"
         },
         {
           "name": "Terin Stock",
-          "email": "terin@terinstock.com"
+          "email": "terin@terinstock.com",
+          "github": "terinjokes"
         }
       ],
       "standards": [
@@ -56,15 +61,18 @@
           "authors": [
             {
               "name": "Dominic Farolino",
-              "email": "domfarolino@gmail.com"
+              "email": "domfarolino@gmail.com",
+              "github": "domfarolino"
             },
             {
               "name": "Robert Kowalski",
-              "email": "rok@kowalski.gd"
+              "email": "rok@kowalski.gd",
+              "github": "robertkowalski"
             },
             {
               "name": "Terin Stock",
-              "email": "terin@terinstock.com"
+              "email": "terin@terinstock.com",
+              "github": "terinjokes"
             }
           ],
           "reference": "CONSOLE",
@@ -83,7 +91,8 @@
       "editors": [
         {
           "name": "Anne van Kesteren",
-          "email": "annevk@annevk.nl"
+          "email": "annevk@annevk.nl",
+          "github": "annevk"
         }
       ],
       "standards": [
@@ -94,7 +103,8 @@
           "authors": [
             {
               "name": "Anne van Kesteren",
-              "email": "annevk@annevk.nl"
+              "email": "annevk@annevk.nl",
+              "github": "annevk"
             }
           ],
           "reference": "DOM",
@@ -113,7 +123,8 @@
       "editors": [
         {
           "name": "Anne van Kesteren",
-          "email": "annevk@annevk.nl"
+          "email": "annevk@annevk.nl",
+          "github": "annevk"
         }
       ],
       "standards": [
@@ -124,7 +135,8 @@
           "authors": [
             {
               "name": "Anne van Kesteren",
-              "email": "annevk@annevk.nl"
+              "email": "annevk@annevk.nl",
+              "github": "annevk"
             }
           ],
           "reference": "ENCODING",
@@ -143,7 +155,8 @@
       "editors": [
         {
           "name": "Anne van Kesteren",
-          "email": "annevk@annevk.nl"
+          "email": "annevk@annevk.nl",
+          "github": "annevk"
         }
       ],
       "standards": [
@@ -154,7 +167,8 @@
           "authors": [
             {
               "name": "Dylan Cutler",
-              "email": "dylancutler@google.com"
+              "email": "dylancutler@google.com",
+              "github": "DCtheTall"
             }
           ],
           "reference": "COOKIESTORE",
@@ -171,7 +185,8 @@
           "authors": [
             {
               "name": "Anne van Kesteren",
-              "email": "annevk@annevk.nl"
+              "email": "annevk@annevk.nl",
+              "github": "annevk"
             }
           ],
           "reference": "FETCH",
@@ -190,7 +205,8 @@
       "editors": [
         {
           "name": "Philip Jägenstedt",
-          "email": "philip@foolip.org"
+          "email": "philip@foolip.org",
+          "github": "foolip"
         }
       ],
       "standards": [
@@ -201,7 +217,8 @@
           "authors": [
             {
               "name": "Philip Jägenstedt",
-              "email": "philip@foolip.org"
+              "email": "philip@foolip.org",
+              "github": "foolip"
             }
           ],
           "reference": "FULLSCREEN",
@@ -220,7 +237,8 @@
       "editors": [
         {
           "name": "Simon Pieters",
-          "email": "zcorpan@gmail.com"
+          "email": "zcorpan@gmail.com",
+          "github": "zcorpan"
         }
       ],
       "standards": [
@@ -231,27 +249,33 @@
           "authors": [
             {
               "name": "Anne van Kesteren",
-              "email": "annevk@annevk.nl"
+              "email": "annevk@annevk.nl",
+              "github": "annevk"
             },
             {
               "name": "Domenic Denicola",
-              "email": "d@domenic.me"
+              "email": "d@domenic.me",
+              "github": "domenic"
             },
             {
               "name": "Dominic Farolino",
-              "email": "domfarolino@gmail.com"
+              "email": "domfarolino@gmail.com",
+              "github": "domfarolino"
             },
             {
               "name": "Ian Hickson",
-              "email": "ian@hixie.ch"
+              "email": "ian@hixie.ch",
+              "github": "Hixie"
             },
             {
               "name": "Philip Jägenstedt",
-              "email": "philip@foolip.org"
+              "email": "philip@foolip.org",
+              "github": "foolip"
             },
             {
               "name": "Simon Pieters",
-              "email": "zcorpan@gmail.com"
+              "email": "zcorpan@gmail.com",
+              "github": "zcorpan"
             }
           ],
           "reference": "HTML",
@@ -268,7 +292,8 @@
           "authors": [
             {
               "name": "Adam Rice",
-              "email": "ricea@chromium.org"
+              "email": "ricea@chromium.org",
+              "github": "ricea"
             }
           ],
           "reference": "WEBSOCKETS",
@@ -287,7 +312,8 @@
       "editors": [
         {
           "name": "Anne van Kesteren",
-          "email": "annevk@annevk.nl"
+          "email": "annevk@annevk.nl",
+          "github": "annevk"
         }
       ],
       "standards": [
@@ -298,11 +324,13 @@
           "authors": [
             {
               "name": "Anne van Kesteren",
-              "email": "annevk@annevk.nl"
+              "email": "annevk@annevk.nl",
+              "github": "annevk"
             },
             {
               "name": "Domenic Denicola",
-              "email": "d@domenic.me"
+              "email": "d@domenic.me",
+              "github": "domenic"
             }
           ],
           "reference": "INFRA",
@@ -321,7 +349,8 @@
       "editors": [
         {
           "name": "Gordon P. Hemsley",
-          "email": "me@gphemsley.org"
+          "email": "me@gphemsley.org",
+          "github": "GPHemsley"
         }
       ],
       "standards": [
@@ -332,7 +361,8 @@
           "authors": [
             {
               "name": "Gordon P. Hemsley",
-              "email": "me@gphemsley.org"
+              "email": "me@gphemsley.org",
+              "github": "GPHemsley"
             }
           ],
           "reference": "MIMESNIFF",
@@ -351,7 +381,8 @@
       "editors": [
         {
           "name": "Anne van Kesteren",
-          "email": "annevk@annevk.nl"
+          "email": "annevk@annevk.nl",
+          "github": "annevk"
         }
       ],
       "standards": [
@@ -362,7 +393,8 @@
           "authors": [
             {
               "name": "Anne van Kesteren",
-              "email": "annevk@annevk.nl"
+              "email": "annevk@annevk.nl",
+              "github": "annevk"
             }
           ],
           "reference": "NOTIFICATIONS",
@@ -381,11 +413,13 @@
       "editors": [
         {
           "name": "Matt Reynolds",
-          "email": "mattreynolds@google.com"
+          "email": "mattreynolds@google.com",
+          "github": "nondebug"
         },
         {
           "name": "Reilly Grant",
-          "email": "reillyg@google.com"
+          "email": "reillyg@google.com",
+          "github": "reillyeon"
         }
       ],
       "standards": [
@@ -396,7 +430,8 @@
           "authors": [
             {
               "name": "Reilly Grant",
-              "email": "reillyg@google.com"
+              "email": "reillyg@google.com",
+              "github": "reillyeon"
             }
           ],
           "reference": "WEBBLUETOOTH",
@@ -413,7 +448,8 @@
           "authors": [
             {
               "name": "Matt Reynolds",
-              "email": "mattreynolds@google.com"
+              "email": "mattreynolds@google.com",
+              "github": "nondebug"
             }
           ],
           "reference": "WEBHID",
@@ -430,7 +466,8 @@
           "authors": [
             {
               "name": "Matt Reynolds",
-              "email": "mattreynolds@google.com"
+              "email": "mattreynolds@google.com",
+              "github": "nondebug"
             }
           ],
           "reference": "WEBNFC",
@@ -447,7 +484,8 @@
           "authors": [
             {
               "name": "Reilly Grant",
-              "email": "reillyg@google.com"
+              "email": "reillyg@google.com",
+              "github": "reillyeon"
             }
           ],
           "reference": "WEBSERIAL",
@@ -464,7 +502,8 @@
           "authors": [
             {
               "name": "Reilly Grant",
-              "email": "reillyg@google.com"
+              "email": "reillyg@google.com",
+              "github": "reillyeon"
             }
           ],
           "reference": "WEBUSB",
@@ -483,7 +522,8 @@
       "editors": [
         {
           "name": "Simon Pieters",
-          "email": "zcorpan@gmail.com"
+          "email": "zcorpan@gmail.com",
+          "github": "zcorpan"
         }
       ],
       "standards": [
@@ -494,7 +534,8 @@
           "authors": [
             {
               "name": "Simon Pieters",
-              "email": "zcorpan@gmail.com"
+              "email": "zcorpan@gmail.com",
+              "github": "zcorpan"
             }
           ],
           "reference": "QUIRKS",
@@ -513,7 +554,8 @@
       "editors": [
         {
           "name": "Anne van Kesteren",
-          "email": "annevk@annevk.nl"
+          "email": "annevk@annevk.nl",
+          "github": "annevk"
         }
       ],
       "standards": [
@@ -524,7 +566,8 @@
           "authors": [
             {
               "name": "Austin Sullivan",
-              "email": "asully@chromium.org"
+              "email": "asully@chromium.org",
+              "github": "a-sully"
             }
           ],
           "reference": "FS",
@@ -541,7 +584,8 @@
           "authors": [
             {
               "name": "Anne van Kesteren",
-              "email": "annevk@annevk.nl"
+              "email": "annevk@annevk.nl",
+              "github": "annevk"
             }
           ],
           "reference": "STORAGE",
@@ -560,7 +604,8 @@
       "editors": [
         {
           "name": "Mattias Buelens",
-          "email": "mattias@buelens.com"
+          "email": "mattias@buelens.com",
+          "github": "MattiasBuelens"
         }
       ],
       "standards": [
@@ -571,7 +616,8 @@
           "authors": [
             {
               "name": "Adam Rice",
-              "email": "ricea@chromium.org"
+              "email": "ricea@chromium.org",
+              "github": "ricea"
             }
           ],
           "reference": "COMPRESSION",
@@ -588,19 +634,23 @@
           "authors": [
             {
               "name": "Adam Rice",
-              "email": "ricea@chromium.org"
+              "email": "ricea@chromium.org",
+              "github": "ricea"
             },
             {
               "name": "Domenic Denicola",
-              "email": "d@domenic.me"
+              "email": "d@domenic.me",
+              "github": "domenic"
             },
             {
               "name": "Mattias Buelens",
-              "email": "mattias@buelens.com"
+              "email": "mattias@buelens.com",
+              "github": "MattiasBuelens"
             },
             {
               "name": "吉野剛史 (Takeshi Yoshino)",
-              "email": "tyoshino@chromium.org"
+              "email": "tyoshino@chromium.org",
+              "github": "tyoshino"
             }
           ],
           "reference": "STREAMS",
@@ -619,7 +669,8 @@
       "editors": [
         {
           "name": "James Graham",
-          "email": "james@hoppipolla.co.uk"
+          "email": "james@hoppipolla.co.uk",
+          "github": "jgraham"
         }
       ],
       "standards": [
@@ -630,7 +681,8 @@
           "authors": [
             {
               "name": "James Graham",
-              "email": "james@hoppipolla.co.uk"
+              "email": "james@hoppipolla.co.uk",
+              "github": "jgraham"
             }
           ],
           "reference": "TESTUTILS",
@@ -649,7 +701,8 @@
       "editors": [
         {
           "name": "Anne van Kesteren",
-          "email": "annevk@annevk.nl"
+          "email": "annevk@annevk.nl",
+          "github": "annevk"
         }
       ],
       "standards": [
@@ -660,7 +713,8 @@
           "authors": [
             {
               "name": "Anne van Kesteren",
-              "email": "annevk@annevk.nl"
+              "email": "annevk@annevk.nl",
+              "github": "annevk"
             }
           ],
           "reference": "URL",
@@ -677,15 +731,18 @@
           "authors": [
             {
               "name": "Ben Kelly",
-              "email": "wanderview@chromium.org"
+              "email": "wanderview@chromium.org",
+              "github": "wanderview"
             },
             {
               "name": "Jeremy Roman",
-              "email": "jbroman@chromium.org"
+              "email": "jbroman@chromium.org",
+              "github": "jeremyroman"
             },
             {
               "name": "宍戸俊哉 (Shunya Shishido)",
-              "email": "sisidovski@chromium.org"
+              "email": "sisidovski@chromium.org",
+              "github": "sisidovski"
             }
           ],
           "reference": "URLPATTERN",
@@ -704,11 +761,13 @@
       "editors": [
         {
           "name": "Edgar Chen",
-          "email": "echen@mozilla.com"
+          "email": "echen@mozilla.com",
+          "github": "EdgarChen"
         },
         {
           "name": "Timothy Gu",
-          "email": "timothygu99@gmail.com"
+          "email": "timothygu99@gmail.com",
+          "github": "TimothyGu"
         }
       ],
       "standards": [
@@ -719,11 +778,13 @@
           "authors": [
             {
               "name": "Edgar Chen",
-              "email": "echen@mozilla.com"
+              "email": "echen@mozilla.com",
+              "github": "EdgarChen"
             },
             {
               "name": "Timothy Gu",
-              "email": "timothygu99@gmail.com"
+              "email": "timothygu99@gmail.com",
+              "github": "TimothyGu"
             }
           ],
           "reference": "WEBIDL",
@@ -742,7 +803,8 @@
       "editors": [
         {
           "name": "Anne van Kesteren",
-          "email": "annevk@annevk.nl"
+          "email": "annevk@annevk.nl",
+          "github": "annevk"
         }
       ],
       "standards": [
@@ -753,7 +815,8 @@
           "authors": [
             {
               "name": "Anne van Kesteren",
-              "email": "annevk@annevk.nl"
+              "email": "annevk@annevk.nl",
+              "github": "annevk"
             }
           ],
           "reference": "XHR",
@@ -774,7 +837,8 @@
       "authors": [
         {
           "name": "Håkon Wium Lie",
-          "email": null
+          "email": null,
+          "github": null
         }
       ],
       "reference": "BOOKS"
@@ -786,7 +850,8 @@
       "authors": [
         {
           "name": "Håkon Wium Lie",
-          "email": null
+          "email": null,
+          "github": null
         }
       ],
       "reference": "FIGURES"
@@ -799,7 +864,8 @@
       "authors": [
         {
           "name": "Ms2ger",
-          "email": null
+          "email": null,
+          "github": null
         }
       ],
       "reference": "DOMPARSING",
@@ -813,7 +879,8 @@
       "authors": [
         {
           "name": "Simon Pieters",
-          "email": null
+          "email": null,
+          "github": null
         }
       ],
       "reference": "DIFFERENCES"
@@ -824,7 +891,8 @@
       "authors": [
         {
           "name": "Mathias Bynens",
-          "email": null
+          "email": null,
+          "github": null
         }
       ],
       "reference": "JAVASCRIPT",
