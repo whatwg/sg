@@ -43,7 +43,8 @@ def normalize_workstream(workstream):
 def normalize_person(editor):
     return {
       "name": editor["name"],
-      "email": editor.get("email", None)
+      "email": editor.get("email", None),
+      "github": editor.get("github", None)
     }
 
 def normalize_workstream_standard(document):
