@@ -39,6 +39,7 @@ The founding document of the WHATWG is the
 
 The Steering Group has adopted the following additional policies:
 
+* [AI Policy](https://whatwg.org/ai-policy)
 * [Code of Conduct](https://whatwg.org/code-of-conduct)
 * [Contributor and Workstream Participant Agreement](https://participate.whatwg.org/agreement)
 * [Principles](https://whatwg.org/principles)
